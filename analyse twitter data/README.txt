@@ -1,10 +1,10 @@
 (1) Use the Karate Club Data, at
 http://www.ee.columbia.edu/~cylin/course/sca-14/dataset/zachary.zip.
 Write programs to calculate these properties of each node:
-每 Degree
-每 Closeness Centrality
-每 Betweenness Centrality
-每 Clustering Coefficient
+Degree
+Closeness Centrality
+Betweenness Centrality
+Clustering Coefficient
 (2) Write a program to visualize this network, using the force-direct
 algorithm. Save the individual steps from random positions as individual
 files. Use the HTML/Javascript template at
