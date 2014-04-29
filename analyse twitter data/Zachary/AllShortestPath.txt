@@ -1,0 +1,2312 @@
+From 1 to 1 distance is 0
+1->1
+From 1 to 2 distance is 3
+1->18->2
+From 1 to 3 distance is 5
+1->3
+From 1 to 4 distance is 3
+1->4
+From 1 to 5 distance is 3
+1->5
+From 1 to 6 distance is 3
+1->6
+From 1 to 7 distance is 3
+1->7
+From 1 to 8 distance is 2
+1->8
+From 1 to 9 distance is 2
+1->9
+From 1 to 10 distance is 5
+1->20->34->10
+From 1 to 11 distance is 2
+1->11
+From 1 to 12 distance is 3
+1->12
+From 1 to 13 distance is 1
+1->13
+From 1 to 14 distance is 3
+1->14
+From 1 to 15 distance is 5
+1->20->34->15
+From 1 to 16 distance is 7
+1->20->34->16
+From 1 to 17 distance is 6
+1->6->17
+From 1 to 18 distance is 2
+1->18
+From 1 to 19 distance is 5
+1->20->34->19
+From 1 to 20 distance is 2
+1->20
+From 1 to 21 distance is 4
+1->20->34->21
+From 1 to 22 distance is 2
+1->22
+From 1 to 23 distance is 6
+1->20->34->23
+From 1 to 24 distance is 7
+1->20->34->24
+From 1 to 25 distance is 4
+1->32->25
+From 1 to 26 distance is 6
+1->32->25->26
+From 1 to 27 distance is 5
+1->20->34->27
+From 1 to 28 distance is 7
+1->20->34->28
+From 1 to 29 distance is 4
+1->32->29
+From 1 to 30 distance is 5
+1->20->34->30
+From 1 to 31 distance is 5
+1->9->31
+From 1 to 32 distance is 2
+1->32
+From 1 to 33 distance is 5
+1->9->33
+From 1 to 34 distance is 3
+1->20->34
+From 2 to 1 distance is 3
+2->18->1
+From 2 to 2 distance is 0
+2->2
+From 2 to 3 distance is 6
+2->3
+From 2 to 4 distance is 3
+2->4
+From 2 to 5 distance is 6
+2->18->1->5
+From 2 to 6 distance is 6
+2->18->1->6
+From 2 to 7 distance is 6
+2->18->1->7
+From 2 to 8 distance is 4
+2->8
+From 2 to 9 distance is 5
+2->31->9
+From 2 to 10 distance is 5
+2->20->34->10
+From 2 to 11 distance is 5
+2->18->1->11
+From 2 to 12 distance is 6
+2->18->1->12
+From 2 to 13 distance is 4
+2->18->1->13
+From 2 to 14 distance is 5
+2->14
+From 2 to 15 distance is 5
+2->20->34->15
+From 2 to 16 distance is 7
+2->20->34->16
+From 2 to 17 distance is 9
+2->18->1->6->17
+From 2 to 18 distance is 1
+2->18
+From 2 to 19 distance is 5
+2->20->34->19
+From 2 to 20 distance is 2
+2->20
+From 2 to 21 distance is 4
+2->20->34->21
+From 2 to 22 distance is 2
+2->22
+From 2 to 23 distance is 6
+2->20->34->23
+From 2 to 24 distance is 7
+2->20->34->24
+From 2 to 25 distance is 7
+2->18->1->32->25
+From 2 to 26 distance is 9
+2->18->1->32->25->26
+From 2 to 27 distance is 5
+2->20->34->27
+From 2 to 28 distance is 7
+2->20->34->28
+From 2 to 29 distance is 5
+2->20->34->29
+From 2 to 30 distance is 5
+2->20->34->30
+From 2 to 31 distance is 2
+2->31
+From 2 to 32 distance is 5
+2->18->1->32
+From 2 to 33 distance is 5
+2->31->33
+From 2 to 34 distance is 3
+2->20->34
+From 3 to 1 distance is 5
+3->1
+From 3 to 2 distance is 6
+3->2
+From 3 to 3 distance is 0
+3->3
+From 3 to 4 distance is 3
+3->4
+From 3 to 5 distance is 8
+3->1->5
+From 3 to 6 distance is 8
+3->1->6
+From 3 to 7 distance is 8
+3->1->7
+From 3 to 8 distance is 4
+3->8
+From 3 to 9 distance is 5
+3->9
+From 3 to 10 distance is 1
+3->10
+From 3 to 11 distance is 7
+3->1->11
+From 3 to 12 distance is 8
+3->1->12
+From 3 to 13 distance is 6
+3->4->13
+From 3 to 14 distance is 3
+3->14
+From 3 to 15 distance is 5
+3->33->15
+From 3 to 16 distance is 5
+3->33->16
+From 3 to 17 distance is 11
+3->1->6->17
+From 3 to 18 distance is 7
+3->1->18
+From 3 to 19 distance is 3
+3->33->19
+From 3 to 20 distance is 4
+3->10->34->20
+From 3 to 21 distance is 4
+3->10->34->21
+From 3 to 22 distance is 7
+3->1->22
+From 3 to 23 distance is 4
+3->33->23
+From 3 to 24 distance is 6
+3->28->24
+From 3 to 25 distance is 5
+3->28->25
+From 3 to 26 distance is 7
+3->28->25->26
+From 3 to 27 distance is 5
+3->10->34->27
+From 3 to 28 distance is 2
+3->28
+From 3 to 29 distance is 2
+3->29
+From 3 to 30 distance is 5
+3->10->34->30
+From 3 to 31 distance is 5
+3->33->31
+From 3 to 32 distance is 4
+3->29->32
+From 3 to 33 distance is 2
+3->33
+From 3 to 34 distance is 3
+3->10->34
+From 4 to 1 distance is 3
+4->1
+From 4 to 2 distance is 3
+4->2
+From 4 to 3 distance is 3
+4->3
+From 4 to 4 distance is 0
+4->4
+From 4 to 5 distance is 6
+4->1->5
+From 4 to 6 distance is 6
+4->1->6
+From 4 to 7 distance is 6
+4->1->7
+From 4 to 8 distance is 3
+4->8
+From 4 to 9 distance is 5
+4->1->9
+From 4 to 10 distance is 4
+4->3->10
+From 4 to 11 distance is 5
+4->1->11
+From 4 to 12 distance is 6
+4->1->12
+From 4 to 13 distance is 3
+4->13
+From 4 to 14 distance is 3
+4->14
+From 4 to 15 distance is 8
+4->3->33->15
+From 4 to 16 distance is 8
+4->3->33->16
+From 4 to 17 distance is 9
+4->1->6->17
+From 4 to 18 distance is 4
+4->2->18
+From 4 to 19 distance is 6
+4->3->33->19
+From 4 to 20 distance is 5
+4->1->20
+From 4 to 21 distance is 7
+4->14->34->21
+From 4 to 22 distance is 5
+4->1->22
+From 4 to 23 distance is 7
+4->3->33->23
+From 4 to 24 distance is 9
+4->3->28->24
+From 4 to 25 distance is 7
+4->1->32->25
+From 4 to 26 distance is 9
+4->1->32->25->26
+From 4 to 27 distance is 8
+4->14->34->27
+From 4 to 28 distance is 5
+4->3->28
+From 4 to 29 distance is 5
+4->3->29
+From 4 to 30 distance is 8
+4->14->34->30
+From 4 to 31 distance is 5
+4->2->31
+From 4 to 32 distance is 5
+4->1->32
+From 4 to 33 distance is 5
+4->3->33
+From 4 to 34 distance is 6
+4->14->34
+From 5 to 1 distance is 3
+5->1
+From 5 to 2 distance is 6
+5->1->18->2
+From 5 to 3 distance is 8
+5->1->3
+From 5 to 4 distance is 6
+5->1->4
+From 5 to 5 distance is 0
+5->5
+From 5 to 6 distance is 6
+5->1->6
+From 5 to 7 distance is 2
+5->7
+From 5 to 8 distance is 5
+5->1->8
+From 5 to 9 distance is 5
+5->1->9
+From 5 to 10 distance is 8
+5->1->20->34->10
+From 5 to 11 distance is 3
+5->11
+From 5 to 12 distance is 6
+5->1->12
+From 5 to 13 distance is 4
+5->1->13
+From 5 to 14 distance is 6
+5->1->14
+From 5 to 15 distance is 8
+5->1->20->34->15
+From 5 to 16 distance is 10
+5->1->20->34->16
+From 5 to 17 distance is 5
+5->7->17
+From 5 to 18 distance is 5
+5->1->18
+From 5 to 19 distance is 8
+5->1->20->34->19
+From 5 to 20 distance is 5
+5->1->20
+From 5 to 21 distance is 7
+5->1->20->34->21
+From 5 to 22 distance is 5
+5->1->22
+From 5 to 23 distance is 9
+5->1->20->34->23
+From 5 to 24 distance is 10
+5->1->20->34->24
+From 5 to 25 distance is 7
+5->1->32->25
+From 5 to 26 distance is 9
+5->1->32->25->26
+From 5 to 27 distance is 8
+5->1->20->34->27
+From 5 to 28 distance is 10
+5->1->20->34->28
+From 5 to 29 distance is 7
+5->1->32->29
+From 5 to 30 distance is 8
+5->1->20->34->30
+From 5 to 31 distance is 8
+5->1->9->31
+From 5 to 32 distance is 5
+5->1->32
+From 5 to 33 distance is 8
+5->1->9->33
+From 5 to 34 distance is 6
+5->1->20->34
+From 6 to 1 distance is 3
+6->1
+From 6 to 2 distance is 6
+6->1->18->2
+From 6 to 3 distance is 8
+6->1->3
+From 6 to 4 distance is 6
+6->1->4
+From 6 to 5 distance is 6
+6->1->5
+From 6 to 6 distance is 0
+6->6
+From 6 to 7 distance is 5
+6->7
+From 6 to 8 distance is 5
+6->1->8
+From 6 to 9 distance is 5
+6->1->9
+From 6 to 10 distance is 8
+6->1->20->34->10
+From 6 to 11 distance is 3
+6->11
+From 6 to 12 distance is 6
+6->1->12
+From 6 to 13 distance is 4
+6->1->13
+From 6 to 14 distance is 6
+6->1->14
+From 6 to 15 distance is 8
+6->1->20->34->15
+From 6 to 16 distance is 10
+6->1->20->34->16
+From 6 to 17 distance is 3
+6->17
+From 6 to 18 distance is 5
+6->1->18
+From 6 to 19 distance is 8
+6->1->20->34->19
+From 6 to 20 distance is 5
+6->1->20
+From 6 to 21 distance is 7
+6->1->20->34->21
+From 6 to 22 distance is 5
+6->1->22
+From 6 to 23 distance is 9
+6->1->20->34->23
+From 6 to 24 distance is 10
+6->1->20->34->24
+From 6 to 25 distance is 7
+6->1->32->25
+From 6 to 26 distance is 9
+6->1->32->25->26
+From 6 to 27 distance is 8
+6->1->20->34->27
+From 6 to 28 distance is 10
+6->1->20->34->28
+From 6 to 29 distance is 7
+6->1->32->29
+From 6 to 30 distance is 8
+6->1->20->34->30
+From 6 to 31 distance is 8
+6->1->9->31
+From 6 to 32 distance is 5
+6->1->32
+From 6 to 33 distance is 8
+6->1->9->33
+From 6 to 34 distance is 6
+6->1->20->34
+From 7 to 1 distance is 3
+7->1
+From 7 to 2 distance is 6
+7->1->18->2
+From 7 to 3 distance is 8
+7->1->3
+From 7 to 4 distance is 6
+7->1->4
+From 7 to 5 distance is 2
+7->5
+From 7 to 6 distance is 5
+7->6
+From 7 to 7 distance is 0
+7->7
+From 7 to 8 distance is 5
+7->1->8
+From 7 to 9 distance is 5
+7->1->9
+From 7 to 10 distance is 8
+7->1->20->34->10
+From 7 to 11 distance is 5
+7->5->11
+From 7 to 12 distance is 6
+7->1->12
+From 7 to 13 distance is 4
+7->1->13
+From 7 to 14 distance is 6
+7->1->14
+From 7 to 15 distance is 8
+7->1->20->34->15
+From 7 to 16 distance is 10
+7->1->20->34->16
+From 7 to 17 distance is 3
+7->17
+From 7 to 18 distance is 5
+7->1->18
+From 7 to 19 distance is 8
+7->1->20->34->19
+From 7 to 20 distance is 5
+7->1->20
+From 7 to 21 distance is 7
+7->1->20->34->21
+From 7 to 22 distance is 5
+7->1->22
+From 7 to 23 distance is 9
+7->1->20->34->23
+From 7 to 24 distance is 10
+7->1->20->34->24
+From 7 to 25 distance is 7
+7->1->32->25
+From 7 to 26 distance is 9
+7->1->32->25->26
+From 7 to 27 distance is 8
+7->1->20->34->27
+From 7 to 28 distance is 10
+7->1->20->34->28
+From 7 to 29 distance is 7
+7->1->32->29
+From 7 to 30 distance is 8
+7->1->20->34->30
+From 7 to 31 distance is 8
+7->1->9->31
+From 7 to 32 distance is 5
+7->1->32
+From 7 to 33 distance is 8
+7->1->9->33
+From 7 to 34 distance is 6
+7->1->20->34
+From 8 to 1 distance is 2
+8->1
+From 8 to 2 distance is 4
+8->2
+From 8 to 3 distance is 4
+8->3
+From 8 to 4 distance is 3
+8->4
+From 8 to 5 distance is 5
+8->1->5
+From 8 to 6 distance is 5
+8->1->6
+From 8 to 7 distance is 5
+8->1->7
+From 8 to 8 distance is 0
+8->8
+From 8 to 9 distance is 4
+8->1->9
+From 8 to 10 distance is 5
+8->3->10
+From 8 to 11 distance is 4
+8->1->11
+From 8 to 12 distance is 5
+8->1->12
+From 8 to 13 distance is 3
+8->1->13
+From 8 to 14 distance is 5
+8->1->14
+From 8 to 15 distance is 7
+8->1->20->34->15
+From 8 to 16 distance is 9
+8->1->20->34->16
+From 8 to 17 distance is 8
+8->1->6->17
+From 8 to 18 distance is 4
+8->1->18
+From 8 to 19 distance is 7
+8->1->20->34->19
+From 8 to 20 distance is 4
+8->1->20
+From 8 to 21 distance is 6
+8->1->20->34->21
+From 8 to 22 distance is 4
+8->1->22
+From 8 to 23 distance is 8
+8->1->20->34->23
+From 8 to 24 distance is 9
+8->1->20->34->24
+From 8 to 25 distance is 6
+8->1->32->25
+From 8 to 26 distance is 8
+8->1->32->25->26
+From 8 to 27 distance is 7
+8->1->20->34->27
+From 8 to 28 distance is 6
+8->3->28
+From 8 to 29 distance is 6
+8->3->29
+From 8 to 30 distance is 7
+8->1->20->34->30
+From 8 to 31 distance is 6
+8->2->31
+From 8 to 32 distance is 4
+8->1->32
+From 8 to 33 distance is 6
+8->3->33
+From 8 to 34 distance is 5
+8->1->20->34
+From 9 to 1 distance is 2
+9->1
+From 9 to 2 distance is 5
+9->31->2
+From 9 to 3 distance is 5
+9->3
+From 9 to 4 distance is 5
+9->1->4
+From 9 to 5 distance is 5
+9->1->5
+From 9 to 6 distance is 5
+9->1->6
+From 9 to 7 distance is 5
+9->1->7
+From 9 to 8 distance is 4
+9->1->8
+From 9 to 9 distance is 0
+9->9
+From 9 to 10 distance is 6
+9->34->10
+From 9 to 11 distance is 4
+9->1->11
+From 9 to 12 distance is 5
+9->1->12
+From 9 to 13 distance is 3
+9->1->13
+From 9 to 14 distance is 5
+9->1->14
+From 9 to 15 distance is 6
+9->33->15
+From 9 to 16 distance is 6
+9->33->16
+From 9 to 17 distance is 8
+9->1->6->17
+From 9 to 18 distance is 4
+9->1->18
+From 9 to 19 distance is 4
+9->33->19
+From 9 to 20 distance is 4
+9->1->20
+From 9 to 21 distance is 5
+9->34->21
+From 9 to 22 distance is 4
+9->1->22
+From 9 to 23 distance is 5
+9->33->23
+From 9 to 24 distance is 8
+9->33->24
+From 9 to 25 distance is 6
+9->1->32->25
+From 9 to 26 distance is 8
+9->1->32->25->26
+From 9 to 27 distance is 6
+9->34->27
+From 9 to 28 distance is 7
+9->3->28
+From 9 to 29 distance is 6
+9->1->32->29
+From 9 to 30 distance is 6
+9->34->30
+From 9 to 31 distance is 3
+9->31
+From 9 to 32 distance is 4
+9->1->32
+From 9 to 33 distance is 3
+9->33
+From 9 to 34 distance is 4
+9->34
+From 10 to 1 distance is 5
+10->34->20->1
+From 10 to 2 distance is 5
+10->34->20->2
+From 10 to 3 distance is 1
+10->3
+From 10 to 4 distance is 4
+10->3->4
+From 10 to 5 distance is 8
+10->34->20->1->5
+From 10 to 6 distance is 8
+10->34->20->1->6
+From 10 to 7 distance is 8
+10->34->20->1->7
+From 10 to 8 distance is 5
+10->3->8
+From 10 to 9 distance is 6
+10->3->9
+From 10 to 10 distance is 0
+10->10
+From 10 to 11 distance is 7
+10->34->20->1->11
+From 10 to 12 distance is 8
+10->34->20->1->12
+From 10 to 13 distance is 6
+10->34->20->1->13
+From 10 to 14 distance is 4
+10->3->14
+From 10 to 15 distance is 4
+10->34->15
+From 10 to 16 distance is 6
+10->34->16
+From 10 to 17 distance is 11
+10->34->20->1->6->17
+From 10 to 18 distance is 6
+10->34->20->2->18
+From 10 to 19 distance is 4
+10->34->19
+From 10 to 20 distance is 3
+10->34->20
+From 10 to 21 distance is 3
+10->34->21
+From 10 to 22 distance is 7
+10->34->20->1->22
+From 10 to 23 distance is 5
+10->34->23
+From 10 to 24 distance is 6
+10->34->24
+From 10 to 25 distance is 6
+10->3->28->25
+From 10 to 26 distance is 8
+10->3->28->25->26
+From 10 to 27 distance is 4
+10->34->27
+From 10 to 28 distance is 3
+10->3->28
+From 10 to 29 distance is 3
+10->3->29
+From 10 to 30 distance is 4
+10->34->30
+From 10 to 31 distance is 5
+10->34->31
+From 10 to 32 distance is 5
+10->3->29->32
+From 10 to 33 distance is 3
+10->3->33
+From 10 to 34 distance is 2
+10->34
+From 11 to 1 distance is 2
+11->1
+From 11 to 2 distance is 5
+11->1->18->2
+From 11 to 3 distance is 7
+11->1->3
+From 11 to 4 distance is 5
+11->1->4
+From 11 to 5 distance is 3
+11->5
+From 11 to 6 distance is 3
+11->6
+From 11 to 7 distance is 5
+11->1->7
+From 11 to 8 distance is 4
+11->1->8
+From 11 to 9 distance is 4
+11->1->9
+From 11 to 10 distance is 7
+11->1->20->34->10
+From 11 to 11 distance is 0
+11->11
+From 11 to 12 distance is 5
+11->1->12
+From 11 to 13 distance is 3
+11->1->13
+From 11 to 14 distance is 5
+11->1->14
+From 11 to 15 distance is 7
+11->1->20->34->15
+From 11 to 16 distance is 9
+11->1->20->34->16
+From 11 to 17 distance is 6
+11->6->17
+From 11 to 18 distance is 4
+11->1->18
+From 11 to 19 distance is 7
+11->1->20->34->19
+From 11 to 20 distance is 4
+11->1->20
+From 11 to 21 distance is 6
+11->1->20->34->21
+From 11 to 22 distance is 4
+11->1->22
+From 11 to 23 distance is 8
+11->1->20->34->23
+From 11 to 24 distance is 9
+11->1->20->34->24
+From 11 to 25 distance is 6
+11->1->32->25
+From 11 to 26 distance is 8
+11->1->32->25->26
+From 11 to 27 distance is 7
+11->1->20->34->27
+From 11 to 28 distance is 9
+11->1->20->34->28
+From 11 to 29 distance is 6
+11->1->32->29
+From 11 to 30 distance is 7
+11->1->20->34->30
+From 11 to 31 distance is 7
+11->1->9->31
+From 11 to 32 distance is 4
+11->1->32
+From 11 to 33 distance is 7
+11->1->9->33
+From 11 to 34 distance is 5
+11->1->20->34
+From 12 to 1 distance is 3
+12->1
+From 12 to 2 distance is 6
+12->1->18->2
+From 12 to 3 distance is 8
+12->1->3
+From 12 to 4 distance is 6
+12->1->4
+From 12 to 5 distance is 6
+12->1->5
+From 12 to 6 distance is 6
+12->1->6
+From 12 to 7 distance is 6
+12->1->7
+From 12 to 8 distance is 5
+12->1->8
+From 12 to 9 distance is 5
+12->1->9
+From 12 to 10 distance is 8
+12->1->20->34->10
+From 12 to 11 distance is 5
+12->1->11
+From 12 to 12 distance is 0
+12->12
+From 12 to 13 distance is 4
+12->1->13
+From 12 to 14 distance is 6
+12->1->14
+From 12 to 15 distance is 8
+12->1->20->34->15
+From 12 to 16 distance is 10
+12->1->20->34->16
+From 12 to 17 distance is 9
+12->1->6->17
+From 12 to 18 distance is 5
+12->1->18
+From 12 to 19 distance is 8
+12->1->20->34->19
+From 12 to 20 distance is 5
+12->1->20
+From 12 to 21 distance is 7
+12->1->20->34->21
+From 12 to 22 distance is 5
+12->1->22
+From 12 to 23 distance is 9
+12->1->20->34->23
+From 12 to 24 distance is 10
+12->1->20->34->24
+From 12 to 25 distance is 7
+12->1->32->25
+From 12 to 26 distance is 9
+12->1->32->25->26
+From 12 to 27 distance is 8
+12->1->20->34->27
+From 12 to 28 distance is 10
+12->1->20->34->28
+From 12 to 29 distance is 7
+12->1->32->29
+From 12 to 30 distance is 8
+12->1->20->34->30
+From 12 to 31 distance is 8
+12->1->9->31
+From 12 to 32 distance is 5
+12->1->32
+From 12 to 33 distance is 8
+12->1->9->33
+From 12 to 34 distance is 6
+12->1->20->34
+From 13 to 1 distance is 1
+13->1
+From 13 to 2 distance is 4
+13->1->18->2
+From 13 to 3 distance is 6
+13->1->3
+From 13 to 4 distance is 3
+13->4
+From 13 to 5 distance is 4
+13->1->5
+From 13 to 6 distance is 4
+13->1->6
+From 13 to 7 distance is 4
+13->1->7
+From 13 to 8 distance is 3
+13->1->8
+From 13 to 9 distance is 3
+13->1->9
+From 13 to 10 distance is 6
+13->1->20->34->10
+From 13 to 11 distance is 3
+13->1->11
+From 13 to 12 distance is 4
+13->1->12
+From 13 to 13 distance is 0
+13->13
+From 13 to 14 distance is 4
+13->1->14
+From 13 to 15 distance is 6
+13->1->20->34->15
+From 13 to 16 distance is 8
+13->1->20->34->16
+From 13 to 17 distance is 7
+13->1->6->17
+From 13 to 18 distance is 3
+13->1->18
+From 13 to 19 distance is 6
+13->1->20->34->19
+From 13 to 20 distance is 3
+13->1->20
+From 13 to 21 distance is 5
+13->1->20->34->21
+From 13 to 22 distance is 3
+13->1->22
+From 13 to 23 distance is 7
+13->1->20->34->23
+From 13 to 24 distance is 8
+13->1->20->34->24
+From 13 to 25 distance is 5
+13->1->32->25
+From 13 to 26 distance is 7
+13->1->32->25->26
+From 13 to 27 distance is 6
+13->1->20->34->27
+From 13 to 28 distance is 8
+13->1->20->34->28
+From 13 to 29 distance is 5
+13->1->32->29
+From 13 to 30 distance is 6
+13->1->20->34->30
+From 13 to 31 distance is 6
+13->1->9->31
+From 13 to 32 distance is 3
+13->1->32
+From 13 to 33 distance is 6
+13->1->9->33
+From 13 to 34 distance is 4
+13->1->20->34
+From 14 to 1 distance is 3
+14->1
+From 14 to 2 distance is 5
+14->2
+From 14 to 3 distance is 3
+14->3
+From 14 to 4 distance is 3
+14->4
+From 14 to 5 distance is 6
+14->1->5
+From 14 to 6 distance is 6
+14->1->6
+From 14 to 7 distance is 6
+14->1->7
+From 14 to 8 distance is 5
+14->1->8
+From 14 to 9 distance is 5
+14->1->9
+From 14 to 10 distance is 4
+14->3->10
+From 14 to 11 distance is 5
+14->1->11
+From 14 to 12 distance is 6
+14->1->12
+From 14 to 13 distance is 4
+14->1->13
+From 14 to 14 distance is 0
+14->14
+From 14 to 15 distance is 5
+14->34->15
+From 14 to 16 distance is 7
+14->34->16
+From 14 to 17 distance is 9
+14->1->6->17
+From 14 to 18 distance is 5
+14->1->18
+From 14 to 19 distance is 5
+14->34->19
+From 14 to 20 distance is 4
+14->34->20
+From 14 to 21 distance is 4
+14->34->21
+From 14 to 22 distance is 5
+14->1->22
+From 14 to 23 distance is 6
+14->34->23
+From 14 to 24 distance is 7
+14->34->24
+From 14 to 25 distance is 7
+14->1->32->25
+From 14 to 26 distance is 9
+14->1->32->25->26
+From 14 to 27 distance is 5
+14->34->27
+From 14 to 28 distance is 5
+14->3->28
+From 14 to 29 distance is 5
+14->3->29
+From 14 to 30 distance is 5
+14->34->30
+From 14 to 31 distance is 6
+14->34->31
+From 14 to 32 distance is 5
+14->1->32
+From 14 to 33 distance is 5
+14->3->33
+From 14 to 34 distance is 3
+14->34
+From 15 to 1 distance is 5
+15->34->20->1
+From 15 to 2 distance is 5
+15->34->20->2
+From 15 to 3 distance is 5
+15->33->3
+From 15 to 4 distance is 8
+15->34->20->1->4
+From 15 to 5 distance is 8
+15->34->20->1->5
+From 15 to 6 distance is 8
+15->34->20->1->6
+From 15 to 7 distance is 8
+15->34->20->1->7
+From 15 to 8 distance is 7
+15->34->20->1->8
+From 15 to 9 distance is 6
+15->34->9
+From 15 to 10 distance is 4
+15->34->10
+From 15 to 11 distance is 7
+15->34->20->1->11
+From 15 to 12 distance is 8
+15->34->20->1->12
+From 15 to 13 distance is 6
+15->34->20->1->13
+From 15 to 14 distance is 5
+15->34->14
+From 15 to 15 distance is 0
+15->15
+From 15 to 16 distance is 6
+15->34->16
+From 15 to 17 distance is 11
+15->34->20->1->6->17
+From 15 to 18 distance is 6
+15->34->20->2->18
+From 15 to 19 distance is 4
+15->34->19
+From 15 to 20 distance is 3
+15->34->20
+From 15 to 21 distance is 3
+15->34->21
+From 15 to 22 distance is 7
+15->34->20->1->22
+From 15 to 23 distance is 5
+15->34->23
+From 15 to 24 distance is 6
+15->34->24
+From 15 to 25 distance is 8
+15->34->32->25
+From 15 to 26 distance is 10
+15->34->32->25->26
+From 15 to 27 distance is 4
+15->34->27
+From 15 to 28 distance is 6
+15->34->28
+From 15 to 29 distance is 4
+15->34->29
+From 15 to 30 distance is 4
+15->34->30
+From 15 to 31 distance is 5
+15->34->31
+From 15 to 32 distance is 6
+15->34->32
+From 15 to 33 distance is 3
+15->33
+From 15 to 34 distance is 2
+15->34
+From 16 to 1 distance is 7
+16->34->20->1
+From 16 to 2 distance is 7
+16->34->20->2
+From 16 to 3 distance is 5
+16->33->3
+From 16 to 4 distance is 8
+16->33->3->4
+From 16 to 5 distance is 10
+16->34->20->1->5
+From 16 to 6 distance is 10
+16->34->20->1->6
+From 16 to 7 distance is 10
+16->34->20->1->7
+From 16 to 8 distance is 9
+16->33->3->8
+From 16 to 9 distance is 6
+16->33->9
+From 16 to 10 distance is 6
+16->34->10
+From 16 to 11 distance is 9
+16->34->20->1->11
+From 16 to 12 distance is 10
+16->34->20->1->12
+From 16 to 13 distance is 8
+16->34->20->1->13
+From 16 to 14 distance is 7
+16->34->14
+From 16 to 15 distance is 6
+16->33->15
+From 16 to 16 distance is 0
+16->16
+From 16 to 17 distance is 13
+16->34->20->1->6->17
+From 16 to 18 distance is 8
+16->34->20->2->18
+From 16 to 19 distance is 4
+16->33->19
+From 16 to 20 distance is 5
+16->34->20
+From 16 to 21 distance is 5
+16->34->21
+From 16 to 22 distance is 9
+16->34->20->1->22
+From 16 to 23 distance is 5
+16->33->23
+From 16 to 24 distance is 8
+16->33->24
+From 16 to 25 distance is 9
+16->33->32->25
+From 16 to 26 distance is 11
+16->33->32->25->26
+From 16 to 27 distance is 6
+16->34->27
+From 16 to 28 distance is 7
+16->33->3->28
+From 16 to 29 distance is 6
+16->34->29
+From 16 to 30 distance is 6
+16->34->30
+From 16 to 31 distance is 6
+16->33->31
+From 16 to 32 distance is 7
+16->33->32
+From 16 to 33 distance is 3
+16->33
+From 16 to 34 distance is 4
+16->34
+From 17 to 1 distance is 6
+17->6->1
+From 17 to 2 distance is 9
+17->6->1->18->2
+From 17 to 3 distance is 11
+17->6->1->3
+From 17 to 4 distance is 9
+17->6->1->4
+From 17 to 5 distance is 5
+17->7->5
+From 17 to 6 distance is 3
+17->6
+From 17 to 7 distance is 3
+17->7
+From 17 to 8 distance is 8
+17->6->1->8
+From 17 to 9 distance is 8
+17->6->1->9
+From 17 to 10 distance is 11
+17->6->1->20->34->10
+From 17 to 11 distance is 6
+17->6->11
+From 17 to 12 distance is 9
+17->6->1->12
+From 17 to 13 distance is 7
+17->6->1->13
+From 17 to 14 distance is 9
+17->6->1->14
+From 17 to 15 distance is 11
+17->6->1->20->34->15
+From 17 to 16 distance is 13
+17->6->1->20->34->16
+From 17 to 17 distance is 0
+17->17
+From 17 to 18 distance is 8
+17->6->1->18
+From 17 to 19 distance is 11
+17->6->1->20->34->19
+From 17 to 20 distance is 8
+17->6->1->20
+From 17 to 21 distance is 10
+17->6->1->20->34->21
+From 17 to 22 distance is 8
+17->6->1->22
+From 17 to 23 distance is 12
+17->6->1->20->34->23
+From 17 to 24 distance is 13
+17->6->1->20->34->24
+From 17 to 25 distance is 10
+17->6->1->32->25
+From 17 to 26 distance is 12
+17->6->1->32->25->26
+From 17 to 27 distance is 11
+17->6->1->20->34->27
+From 17 to 28 distance is 13
+17->6->1->20->34->28
+From 17 to 29 distance is 10
+17->6->1->32->29
+From 17 to 30 distance is 11
+17->6->1->20->34->30
+From 17 to 31 distance is 11
+17->6->1->9->31
+From 17 to 32 distance is 8
+17->6->1->32
+From 17 to 33 distance is 11
+17->6->1->9->33
+From 17 to 34 distance is 9
+17->6->1->20->34
+From 18 to 1 distance is 2
+18->1
+From 18 to 2 distance is 1
+18->2
+From 18 to 3 distance is 7
+18->2->3
+From 18 to 4 distance is 4
+18->2->4
+From 18 to 5 distance is 5
+18->1->5
+From 18 to 6 distance is 5
+18->1->6
+From 18 to 7 distance is 5
+18->1->7
+From 18 to 8 distance is 4
+18->1->8
+From 18 to 9 distance is 4
+18->1->9
+From 18 to 10 distance is 6
+18->2->20->34->10
+From 18 to 11 distance is 4
+18->1->11
+From 18 to 12 distance is 5
+18->1->12
+From 18 to 13 distance is 3
+18->1->13
+From 18 to 14 distance is 5
+18->1->14
+From 18 to 15 distance is 6
+18->2->20->34->15
+From 18 to 16 distance is 8
+18->2->20->34->16
+From 18 to 17 distance is 8
+18->1->6->17
+From 18 to 18 distance is 0
+18->18
+From 18 to 19 distance is 6
+18->2->20->34->19
+From 18 to 20 distance is 3
+18->2->20
+From 18 to 21 distance is 5
+18->2->20->34->21
+From 18 to 22 distance is 3
+18->2->22
+From 18 to 23 distance is 7
+18->2->20->34->23
+From 18 to 24 distance is 8
+18->2->20->34->24
+From 18 to 25 distance is 6
+18->1->32->25
+From 18 to 26 distance is 8
+18->1->32->25->26
+From 18 to 27 distance is 6
+18->2->20->34->27
+From 18 to 28 distance is 8
+18->2->20->34->28
+From 18 to 29 distance is 6
+18->1->32->29
+From 18 to 30 distance is 6
+18->2->20->34->30
+From 18 to 31 distance is 3
+18->2->31
+From 18 to 32 distance is 4
+18->1->32
+From 18 to 33 distance is 6
+18->2->31->33
+From 18 to 34 distance is 4
+18->2->20->34
+From 19 to 1 distance is 5
+19->34->20->1
+From 19 to 2 distance is 5
+19->34->20->2
+From 19 to 3 distance is 3
+19->33->3
+From 19 to 4 distance is 6
+19->33->3->4
+From 19 to 5 distance is 8
+19->34->20->1->5
+From 19 to 6 distance is 8
+19->34->20->1->6
+From 19 to 7 distance is 8
+19->34->20->1->7
+From 19 to 8 distance is 7
+19->33->3->8
+From 19 to 9 distance is 4
+19->33->9
+From 19 to 10 distance is 4
+19->34->10
+From 19 to 11 distance is 7
+19->34->20->1->11
+From 19 to 12 distance is 8
+19->34->20->1->12
+From 19 to 13 distance is 6
+19->34->20->1->13
+From 19 to 14 distance is 5
+19->34->14
+From 19 to 15 distance is 4
+19->33->15
+From 19 to 16 distance is 4
+19->33->16
+From 19 to 17 distance is 11
+19->34->20->1->6->17
+From 19 to 18 distance is 6
+19->34->20->2->18
+From 19 to 19 distance is 0
+19->19
+From 19 to 20 distance is 3
+19->34->20
+From 19 to 21 distance is 3
+19->34->21
+From 19 to 22 distance is 7
+19->34->20->1->22
+From 19 to 23 distance is 3
+19->33->23
+From 19 to 24 distance is 6
+19->33->24
+From 19 to 25 distance is 7
+19->33->32->25
+From 19 to 26 distance is 9
+19->33->32->25->26
+From 19 to 27 distance is 4
+19->34->27
+From 19 to 28 distance is 5
+19->33->3->28
+From 19 to 29 distance is 4
+19->34->29
+From 19 to 30 distance is 4
+19->34->30
+From 19 to 31 distance is 4
+19->33->31
+From 19 to 32 distance is 5
+19->33->32
+From 19 to 33 distance is 1
+19->33
+From 19 to 34 distance is 2
+19->34
+From 20 to 1 distance is 2
+20->1
+From 20 to 2 distance is 2
+20->2
+From 20 to 3 distance is 4
+20->34->10->3
+From 20 to 4 distance is 5
+20->1->4
+From 20 to 5 distance is 5
+20->1->5
+From 20 to 6 distance is 5
+20->1->6
+From 20 to 7 distance is 5
+20->1->7
+From 20 to 8 distance is 4
+20->1->8
+From 20 to 9 distance is 4
+20->1->9
+From 20 to 10 distance is 3
+20->34->10
+From 20 to 11 distance is 4
+20->1->11
+From 20 to 12 distance is 5
+20->1->12
+From 20 to 13 distance is 3
+20->1->13
+From 20 to 14 distance is 4
+20->34->14
+From 20 to 15 distance is 3
+20->34->15
+From 20 to 16 distance is 5
+20->34->16
+From 20 to 17 distance is 8
+20->1->6->17
+From 20 to 18 distance is 3
+20->2->18
+From 20 to 19 distance is 3
+20->34->19
+From 20 to 20 distance is 0
+20->20
+From 20 to 21 distance is 2
+20->34->21
+From 20 to 22 distance is 4
+20->1->22
+From 20 to 23 distance is 4
+20->34->23
+From 20 to 24 distance is 5
+20->34->24
+From 20 to 25 distance is 6
+20->1->32->25
+From 20 to 26 distance is 8
+20->1->32->25->26
+From 20 to 27 distance is 3
+20->34->27
+From 20 to 28 distance is 5
+20->34->28
+From 20 to 29 distance is 3
+20->34->29
+From 20 to 30 distance is 3
+20->34->30
+From 20 to 31 distance is 4
+20->34->31
+From 20 to 32 distance is 4
+20->1->32
+From 20 to 33 distance is 4
+20->34->19->33
+From 20 to 34 distance is 1
+20->34
+From 21 to 1 distance is 4
+21->34->20->1
+From 21 to 2 distance is 4
+21->34->20->2
+From 21 to 3 distance is 4
+21->34->10->3
+From 21 to 4 distance is 7
+21->34->20->1->4
+From 21 to 5 distance is 7
+21->34->20->1->5
+From 21 to 6 distance is 7
+21->34->20->1->6
+From 21 to 7 distance is 7
+21->34->20->1->7
+From 21 to 8 distance is 6
+21->34->20->1->8
+From 21 to 9 distance is 5
+21->34->9
+From 21 to 10 distance is 3
+21->34->10
+From 21 to 11 distance is 6
+21->34->20->1->11
+From 21 to 12 distance is 7
+21->34->20->1->12
+From 21 to 13 distance is 5
+21->34->20->1->13
+From 21 to 14 distance is 4
+21->34->14
+From 21 to 15 distance is 3
+21->34->15
+From 21 to 16 distance is 5
+21->34->16
+From 21 to 17 distance is 10
+21->34->20->1->6->17
+From 21 to 18 distance is 5
+21->34->20->2->18
+From 21 to 19 distance is 3
+21->34->19
+From 21 to 20 distance is 2
+21->34->20
+From 21 to 21 distance is 0
+21->21
+From 21 to 22 distance is 6
+21->34->20->1->22
+From 21 to 23 distance is 4
+21->34->23
+From 21 to 24 distance is 5
+21->34->24
+From 21 to 25 distance is 7
+21->34->32->25
+From 21 to 26 distance is 9
+21->34->32->25->26
+From 21 to 27 distance is 3
+21->34->27
+From 21 to 28 distance is 5
+21->34->28
+From 21 to 29 distance is 3
+21->34->29
+From 21 to 30 distance is 3
+21->34->30
+From 21 to 31 distance is 4
+21->34->31
+From 21 to 32 distance is 5
+21->34->32
+From 21 to 33 distance is 3
+21->33
+From 21 to 34 distance is 1
+21->34
+From 22 to 1 distance is 2
+22->1
+From 22 to 2 distance is 2
+22->2
+From 22 to 3 distance is 7
+22->1->3
+From 22 to 4 distance is 5
+22->1->4
+From 22 to 5 distance is 5
+22->1->5
+From 22 to 6 distance is 5
+22->1->6
+From 22 to 7 distance is 5
+22->1->7
+From 22 to 8 distance is 4
+22->1->8
+From 22 to 9 distance is 4
+22->1->9
+From 22 to 10 distance is 7
+22->1->20->34->10
+From 22 to 11 distance is 4
+22->1->11
+From 22 to 12 distance is 5
+22->1->12
+From 22 to 13 distance is 3
+22->1->13
+From 22 to 14 distance is 5
+22->1->14
+From 22 to 15 distance is 7
+22->1->20->34->15
+From 22 to 16 distance is 9
+22->1->20->34->16
+From 22 to 17 distance is 8
+22->1->6->17
+From 22 to 18 distance is 3
+22->2->18
+From 22 to 19 distance is 7
+22->1->20->34->19
+From 22 to 20 distance is 4
+22->1->20
+From 22 to 21 distance is 6
+22->1->20->34->21
+From 22 to 22 distance is 0
+22->22
+From 22 to 23 distance is 8
+22->1->20->34->23
+From 22 to 24 distance is 9
+22->1->20->34->24
+From 22 to 25 distance is 6
+22->1->32->25
+From 22 to 26 distance is 8
+22->1->32->25->26
+From 22 to 27 distance is 7
+22->1->20->34->27
+From 22 to 28 distance is 9
+22->1->20->34->28
+From 22 to 29 distance is 6
+22->1->32->29
+From 22 to 30 distance is 7
+22->1->20->34->30
+From 22 to 31 distance is 4
+22->2->31
+From 22 to 32 distance is 4
+22->1->32
+From 22 to 33 distance is 7
+22->1->9->33
+From 22 to 34 distance is 5
+22->1->20->34
+From 23 to 1 distance is 6
+23->34->20->1
+From 23 to 2 distance is 6
+23->34->20->2
+From 23 to 3 distance is 4
+23->33->3
+From 23 to 4 distance is 7
+23->33->3->4
+From 23 to 5 distance is 9
+23->34->20->1->5
+From 23 to 6 distance is 9
+23->34->20->1->6
+From 23 to 7 distance is 9
+23->34->20->1->7
+From 23 to 8 distance is 8
+23->33->3->8
+From 23 to 9 distance is 5
+23->33->9
+From 23 to 10 distance is 5
+23->34->10
+From 23 to 11 distance is 8
+23->34->20->1->11
+From 23 to 12 distance is 9
+23->34->20->1->12
+From 23 to 13 distance is 7
+23->34->20->1->13
+From 23 to 14 distance is 6
+23->34->14
+From 23 to 15 distance is 5
+23->33->15
+From 23 to 16 distance is 5
+23->33->16
+From 23 to 17 distance is 12
+23->34->20->1->6->17
+From 23 to 18 distance is 7
+23->34->20->2->18
+From 23 to 19 distance is 3
+23->33->19
+From 23 to 20 distance is 4
+23->34->20
+From 23 to 21 distance is 4
+23->34->21
+From 23 to 22 distance is 8
+23->34->20->1->22
+From 23 to 23 distance is 0
+23->23
+From 23 to 24 distance is 7
+23->33->24
+From 23 to 25 distance is 8
+23->33->32->25
+From 23 to 26 distance is 10
+23->33->32->25->26
+From 23 to 27 distance is 5
+23->34->27
+From 23 to 28 distance is 6
+23->33->3->28
+From 23 to 29 distance is 5
+23->34->29
+From 23 to 30 distance is 5
+23->34->30
+From 23 to 31 distance is 5
+23->33->31
+From 23 to 32 distance is 6
+23->33->32
+From 23 to 33 distance is 2
+23->33
+From 23 to 34 distance is 3
+23->34
+From 24 to 1 distance is 7
+24->34->20->1
+From 24 to 2 distance is 7
+24->34->20->2
+From 24 to 3 distance is 6
+24->28->3
+From 24 to 4 distance is 9
+24->28->3->4
+From 24 to 5 distance is 10
+24->34->20->1->5
+From 24 to 6 distance is 10
+24->34->20->1->6
+From 24 to 7 distance is 10
+24->34->20->1->7
+From 24 to 8 distance is 9
+24->34->20->1->8
+From 24 to 9 distance is 8
+24->34->9
+From 24 to 10 distance is 6
+24->34->10
+From 24 to 11 distance is 9
+24->34->20->1->11
+From 24 to 12 distance is 10
+24->34->20->1->12
+From 24 to 13 distance is 8
+24->34->20->1->13
+From 24 to 14 distance is 7
+24->34->14
+From 24 to 15 distance is 6
+24->34->15
+From 24 to 16 distance is 8
+24->34->16
+From 24 to 17 distance is 13
+24->34->20->1->6->17
+From 24 to 18 distance is 8
+24->34->20->2->18
+From 24 to 19 distance is 6
+24->34->19
+From 24 to 20 distance is 5
+24->34->20
+From 24 to 21 distance is 5
+24->34->21
+From 24 to 22 distance is 9
+24->34->20->1->22
+From 24 to 23 distance is 7
+24->34->23
+From 24 to 24 distance is 0
+24->24
+From 24 to 25 distance is 7
+24->28->25
+From 24 to 26 distance is 5
+24->26
+From 24 to 27 distance is 6
+24->34->27
+From 24 to 28 distance is 4
+24->28
+From 24 to 29 distance is 6
+24->34->29
+From 24 to 30 distance is 3
+24->30
+From 24 to 31 distance is 7
+24->34->31
+From 24 to 32 distance is 8
+24->34->32
+From 24 to 33 distance is 5
+24->33
+From 24 to 34 distance is 4
+24->34
+From 25 to 1 distance is 4
+25->32->1
+From 25 to 2 distance is 7
+25->32->1->18->2
+From 25 to 3 distance is 5
+25->28->3
+From 25 to 4 distance is 7
+25->32->1->4
+From 25 to 5 distance is 7
+25->32->1->5
+From 25 to 6 distance is 7
+25->32->1->6
+From 25 to 7 distance is 7
+25->32->1->7
+From 25 to 8 distance is 6
+25->32->1->8
+From 25 to 9 distance is 6
+25->32->1->9
+From 25 to 10 distance is 6
+25->28->3->10
+From 25 to 11 distance is 6
+25->32->1->11
+From 25 to 12 distance is 7
+25->32->1->12
+From 25 to 13 distance is 5
+25->32->1->13
+From 25 to 14 distance is 7
+25->32->1->14
+From 25 to 15 distance is 8
+25->32->34->15
+From 25 to 16 distance is 9
+25->32->33->16
+From 25 to 17 distance is 10
+25->32->1->6->17
+From 25 to 18 distance is 6
+25->32->1->18
+From 25 to 19 distance is 7
+25->32->33->19
+From 25 to 20 distance is 6
+25->32->1->20
+From 25 to 21 distance is 7
+25->32->34->21
+From 25 to 22 distance is 6
+25->32->1->22
+From 25 to 23 distance is 8
+25->32->33->23
+From 25 to 24 distance is 7
+25->26->24
+From 25 to 25 distance is 0
+25->25
+From 25 to 26 distance is 2
+25->26
+From 25 to 27 distance is 8
+25->32->34->27
+From 25 to 28 distance is 3
+25->28
+From 25 to 29 distance is 4
+25->32->29
+From 25 to 30 distance is 8
+25->32->34->30
+From 25 to 31 distance is 9
+25->32->1->9->31
+From 25 to 32 distance is 2
+25->32
+From 25 to 33 distance is 6
+25->32->33
+From 25 to 34 distance is 6
+25->32->34
+From 26 to 1 distance is 6
+26->25->32->1
+From 26 to 2 distance is 9
+26->25->32->1->18->2
+From 26 to 3 distance is 7
+26->25->28->3
+From 26 to 4 distance is 9
+26->25->32->1->4
+From 26 to 5 distance is 9
+26->25->32->1->5
+From 26 to 6 distance is 9
+26->25->32->1->6
+From 26 to 7 distance is 9
+26->25->32->1->7
+From 26 to 8 distance is 8
+26->25->32->1->8
+From 26 to 9 distance is 8
+26->25->32->1->9
+From 26 to 10 distance is 8
+26->25->28->3->10
+From 26 to 11 distance is 8
+26->25->32->1->11
+From 26 to 12 distance is 9
+26->25->32->1->12
+From 26 to 13 distance is 7
+26->25->32->1->13
+From 26 to 14 distance is 9
+26->25->32->1->14
+From 26 to 15 distance is 10
+26->25->32->34->15
+From 26 to 16 distance is 11
+26->25->32->33->16
+From 26 to 17 distance is 12
+26->25->32->1->6->17
+From 26 to 18 distance is 8
+26->25->32->1->18
+From 26 to 19 distance is 9
+26->25->32->33->19
+From 26 to 20 distance is 8
+26->25->32->1->20
+From 26 to 21 distance is 9
+26->25->32->34->21
+From 26 to 22 distance is 8
+26->25->32->1->22
+From 26 to 23 distance is 10
+26->25->32->33->23
+From 26 to 24 distance is 5
+26->24
+From 26 to 25 distance is 2
+26->25
+From 26 to 26 distance is 0
+26->26
+From 26 to 27 distance is 10
+26->25->32->34->27
+From 26 to 28 distance is 5
+26->25->28
+From 26 to 29 distance is 6
+26->25->32->29
+From 26 to 30 distance is 8
+26->24->30
+From 26 to 31 distance is 11
+26->25->32->1->9->31
+From 26 to 32 distance is 4
+26->25->32
+From 26 to 33 distance is 8
+26->25->32->33
+From 26 to 34 distance is 8
+26->25->32->34
+From 27 to 1 distance is 5
+27->34->20->1
+From 27 to 2 distance is 5
+27->34->20->2
+From 27 to 3 distance is 5
+27->34->10->3
+From 27 to 4 distance is 8
+27->34->20->1->4
+From 27 to 5 distance is 8
+27->34->20->1->5
+From 27 to 6 distance is 8
+27->34->20->1->6
+From 27 to 7 distance is 8
+27->34->20->1->7
+From 27 to 8 distance is 7
+27->34->20->1->8
+From 27 to 9 distance is 6
+27->34->9
+From 27 to 10 distance is 4
+27->34->10
+From 27 to 11 distance is 7
+27->34->20->1->11
+From 27 to 12 distance is 8
+27->34->20->1->12
+From 27 to 13 distance is 6
+27->34->20->1->13
+From 27 to 14 distance is 5
+27->34->14
+From 27 to 15 distance is 4
+27->34->15
+From 27 to 16 distance is 6
+27->34->16
+From 27 to 17 distance is 11
+27->34->20->1->6->17
+From 27 to 18 distance is 6
+27->34->20->2->18
+From 27 to 19 distance is 4
+27->34->19
+From 27 to 20 distance is 3
+27->34->20
+From 27 to 21 distance is 3
+27->34->21
+From 27 to 22 distance is 7
+27->34->20->1->22
+From 27 to 23 distance is 5
+27->34->23
+From 27 to 24 distance is 6
+27->34->24
+From 27 to 25 distance is 8
+27->34->32->25
+From 27 to 26 distance is 10
+27->34->32->25->26
+From 27 to 27 distance is 0
+27->27
+From 27 to 28 distance is 6
+27->34->28
+From 27 to 29 distance is 4
+27->34->29
+From 27 to 30 distance is 4
+27->30
+From 27 to 31 distance is 5
+27->34->31
+From 27 to 32 distance is 6
+27->34->32
+From 27 to 33 distance is 5
+27->34->19->33
+From 27 to 34 distance is 2
+27->34
+From 28 to 1 distance is 7
+28->3->1
+From 28 to 2 distance is 7
+28->34->20->2
+From 28 to 3 distance is 2
+28->3
+From 28 to 4 distance is 5
+28->3->4
+From 28 to 5 distance is 10
+28->3->1->5
+From 28 to 6 distance is 10
+28->3->1->6
+From 28 to 7 distance is 10
+28->3->1->7
+From 28 to 8 distance is 6
+28->3->8
+From 28 to 9 distance is 7
+28->3->9
+From 28 to 10 distance is 3
+28->3->10
+From 28 to 11 distance is 9
+28->3->1->11
+From 28 to 12 distance is 10
+28->3->1->12
+From 28 to 13 distance is 8
+28->3->4->13
+From 28 to 14 distance is 5
+28->3->14
+From 28 to 15 distance is 6
+28->34->15
+From 28 to 16 distance is 7
+28->3->33->16
+From 28 to 17 distance is 13
+28->3->1->6->17
+From 28 to 18 distance is 8
+28->34->20->2->18
+From 28 to 19 distance is 5
+28->3->33->19
+From 28 to 20 distance is 5
+28->34->20
+From 28 to 21 distance is 5
+28->34->21
+From 28 to 22 distance is 9
+28->3->1->22
+From 28 to 23 distance is 6
+28->3->33->23
+From 28 to 24 distance is 4
+28->24
+From 28 to 25 distance is 3
+28->25
+From 28 to 26 distance is 5
+28->25->26
+From 28 to 27 distance is 6
+28->34->27
+From 28 to 28 distance is 0
+28->28
+From 28 to 29 distance is 4
+28->3->29
+From 28 to 30 distance is 6
+28->34->30
+From 28 to 31 distance is 7
+28->3->33->31
+From 28 to 32 distance is 5
+28->25->32
+From 28 to 33 distance is 4
+28->3->33
+From 28 to 34 distance is 4
+28->34
+From 29 to 1 distance is 4
+29->32->1
+From 29 to 2 distance is 5
+29->34->20->2
+From 29 to 3 distance is 2
+29->3
+From 29 to 4 distance is 5
+29->3->4
+From 29 to 5 distance is 7
+29->32->1->5
+From 29 to 6 distance is 7
+29->32->1->6
+From 29 to 7 distance is 7
+29->32->1->7
+From 29 to 8 distance is 6
+29->3->8
+From 29 to 9 distance is 6
+29->34->9
+From 29 to 10 distance is 3
+29->3->10
+From 29 to 11 distance is 6
+29->32->1->11
+From 29 to 12 distance is 7
+29->32->1->12
+From 29 to 13 distance is 5
+29->32->1->13
+From 29 to 14 distance is 5
+29->3->14
+From 29 to 15 distance is 4
+29->34->15
+From 29 to 16 distance is 6
+29->34->16
+From 29 to 17 distance is 10
+29->32->1->6->17
+From 29 to 18 distance is 6
+29->32->1->18
+From 29 to 19 distance is 4
+29->34->19
+From 29 to 20 distance is 3
+29->34->20
+From 29 to 21 distance is 3
+29->34->21
+From 29 to 22 distance is 6
+29->32->1->22
+From 29 to 23 distance is 5
+29->34->23
+From 29 to 24 distance is 6
+29->34->24
+From 29 to 25 distance is 4
+29->32->25
+From 29 to 26 distance is 6
+29->32->25->26
+From 29 to 27 distance is 4
+29->34->27
+From 29 to 28 distance is 4
+29->3->28
+From 29 to 29 distance is 0
+29->29
+From 29 to 30 distance is 4
+29->34->30
+From 29 to 31 distance is 5
+29->34->31
+From 29 to 32 distance is 2
+29->32
+From 29 to 33 distance is 4
+29->3->33
+From 29 to 34 distance is 2
+29->34
+From 30 to 1 distance is 5
+30->34->20->1
+From 30 to 2 distance is 5
+30->34->20->2
+From 30 to 3 distance is 5
+30->34->10->3
+From 30 to 4 distance is 8
+30->34->20->1->4
+From 30 to 5 distance is 8
+30->34->20->1->5
+From 30 to 6 distance is 8
+30->34->20->1->6
+From 30 to 7 distance is 8
+30->34->20->1->7
+From 30 to 8 distance is 7
+30->34->20->1->8
+From 30 to 9 distance is 6
+30->34->9
+From 30 to 10 distance is 4
+30->34->10
+From 30 to 11 distance is 7
+30->34->20->1->11
+From 30 to 12 distance is 8
+30->34->20->1->12
+From 30 to 13 distance is 6
+30->34->20->1->13
+From 30 to 14 distance is 5
+30->34->14
+From 30 to 15 distance is 4
+30->34->15
+From 30 to 16 distance is 6
+30->34->16
+From 30 to 17 distance is 11
+30->34->20->1->6->17
+From 30 to 18 distance is 6
+30->34->20->2->18
+From 30 to 19 distance is 4
+30->34->19
+From 30 to 20 distance is 3
+30->34->20
+From 30 to 21 distance is 3
+30->34->21
+From 30 to 22 distance is 7
+30->34->20->1->22
+From 30 to 23 distance is 5
+30->34->23
+From 30 to 24 distance is 3
+30->24
+From 30 to 25 distance is 8
+30->34->32->25
+From 30 to 26 distance is 8
+30->24->26
+From 30 to 27 distance is 4
+30->27
+From 30 to 28 distance is 6
+30->34->28
+From 30 to 29 distance is 4
+30->34->29
+From 30 to 30 distance is 0
+30->30
+From 30 to 31 distance is 5
+30->34->31
+From 30 to 32 distance is 6
+30->34->32
+From 30 to 33 distance is 4
+30->33
+From 30 to 34 distance is 2
+30->34
+From 31 to 1 distance is 5
+31->9->1
+From 31 to 2 distance is 2
+31->2
+From 31 to 3 distance is 5
+31->33->3
+From 31 to 4 distance is 5
+31->2->4
+From 31 to 5 distance is 8
+31->9->1->5
+From 31 to 6 distance is 8
+31->9->1->6
+From 31 to 7 distance is 8
+31->9->1->7
+From 31 to 8 distance is 6
+31->2->8
+From 31 to 9 distance is 3
+31->9
+From 31 to 10 distance is 5
+31->34->10
+From 31 to 11 distance is 7
+31->9->1->11
+From 31 to 12 distance is 8
+31->9->1->12
+From 31 to 13 distance is 6
+31->9->1->13
+From 31 to 14 distance is 6
+31->34->14
+From 31 to 15 distance is 5
+31->34->15
+From 31 to 16 distance is 6
+31->33->16
+From 31 to 17 distance is 11
+31->9->1->6->17
+From 31 to 18 distance is 3
+31->2->18
+From 31 to 19 distance is 4
+31->33->19
+From 31 to 20 distance is 4
+31->2->20
+From 31 to 21 distance is 4
+31->34->21
+From 31 to 22 distance is 4
+31->2->22
+From 31 to 23 distance is 5
+31->33->23
+From 31 to 24 distance is 7
+31->34->24
+From 31 to 25 distance is 9
+31->33->32->25
+From 31 to 26 distance is 11
+31->33->32->25->26
+From 31 to 27 distance is 5
+31->34->27
+From 31 to 28 distance is 7
+31->34->28
+From 31 to 29 distance is 5
+31->34->29
+From 31 to 30 distance is 5
+31->34->30
+From 31 to 31 distance is 0
+31->31
+From 31 to 32 distance is 7
+31->33->32
+From 31 to 33 distance is 3
+31->33
+From 31 to 34 distance is 3
+31->34
+From 32 to 1 distance is 2
+32->1
+From 32 to 2 distance is 5
+32->1->18->2
+From 32 to 3 distance is 4
+32->29->3
+From 32 to 4 distance is 5
+32->1->4
+From 32 to 5 distance is 5
+32->1->5
+From 32 to 6 distance is 5
+32->1->6
+From 32 to 7 distance is 5
+32->1->7
+From 32 to 8 distance is 4
+32->1->8
+From 32 to 9 distance is 4
+32->1->9
+From 32 to 10 distance is 5
+32->29->3->10
+From 32 to 11 distance is 4
+32->1->11
+From 32 to 12 distance is 5
+32->1->12
+From 32 to 13 distance is 3
+32->1->13
+From 32 to 14 distance is 5
+32->1->14
+From 32 to 15 distance is 6
+32->34->15
+From 32 to 16 distance is 7
+32->33->16
+From 32 to 17 distance is 8
+32->1->6->17
+From 32 to 18 distance is 4
+32->1->18
+From 32 to 19 distance is 5
+32->33->19
+From 32 to 20 distance is 4
+32->1->20
+From 32 to 21 distance is 5
+32->34->21
+From 32 to 22 distance is 4
+32->1->22
+From 32 to 23 distance is 6
+32->33->23
+From 32 to 24 distance is 8
+32->34->24
+From 32 to 25 distance is 2
+32->25
+From 32 to 26 distance is 4
+32->25->26
+From 32 to 27 distance is 6
+32->34->27
+From 32 to 28 distance is 5
+32->25->28
+From 32 to 29 distance is 2
+32->29
+From 32 to 30 distance is 6
+32->34->30
+From 32 to 31 distance is 7
+32->1->9->31
+From 32 to 32 distance is 0
+32->32
+From 32 to 33 distance is 4
+32->33
+From 32 to 34 distance is 4
+32->34
+From 33 to 1 distance is 5
+33->9->1
+From 33 to 2 distance is 5
+33->31->2
+From 33 to 3 distance is 2
+33->3
+From 33 to 4 distance is 5
+33->3->4
+From 33 to 5 distance is 8
+33->9->1->5
+From 33 to 6 distance is 8
+33->9->1->6
+From 33 to 7 distance is 8
+33->9->1->7
+From 33 to 8 distance is 6
+33->3->8
+From 33 to 9 distance is 3
+33->9
+From 33 to 10 distance is 3
+33->3->10
+From 33 to 11 distance is 7
+33->9->1->11
+From 33 to 12 distance is 8
+33->9->1->12
+From 33 to 13 distance is 6
+33->9->1->13
+From 33 to 14 distance is 5
+33->3->14
+From 33 to 15 distance is 3
+33->15
+From 33 to 16 distance is 3
+33->16
+From 33 to 17 distance is 11
+33->9->1->6->17
+From 33 to 18 distance is 6
+33->31->2->18
+From 33 to 19 distance is 1
+33->19
+From 33 to 20 distance is 4
+33->19->34->20
+From 33 to 21 distance is 3
+33->21
+From 33 to 22 distance is 7
+33->9->1->22
+From 33 to 23 distance is 2
+33->23
+From 33 to 24 distance is 5
+33->24
+From 33 to 25 distance is 6
+33->32->25
+From 33 to 26 distance is 8
+33->32->25->26
+From 33 to 27 distance is 5
+33->19->34->27
+From 33 to 28 distance is 4
+33->3->28
+From 33 to 29 distance is 4
+33->3->29
+From 33 to 30 distance is 4
+33->30
+From 33 to 31 distance is 3
+33->31
+From 33 to 32 distance is 4
+33->32
+From 33 to 33 distance is 0
+33->33
+From 33 to 34 distance is 3
+33->19->34
+From 34 to 1 distance is 3
+34->20->1
+From 34 to 2 distance is 3
+34->20->2
+From 34 to 3 distance is 3
+34->10->3
+From 34 to 4 distance is 6
+34->20->1->4
+From 34 to 5 distance is 6
+34->20->1->5
+From 34 to 6 distance is 6
+34->20->1->6
+From 34 to 7 distance is 6
+34->20->1->7
+From 34 to 8 distance is 5
+34->20->1->8
+From 34 to 9 distance is 4
+34->9
+From 34 to 10 distance is 2
+34->10
+From 34 to 11 distance is 5
+34->20->1->11
+From 34 to 12 distance is 6
+34->20->1->12
+From 34 to 13 distance is 4
+34->20->1->13
+From 34 to 14 distance is 3
+34->14
+From 34 to 15 distance is 2
+34->15
+From 34 to 16 distance is 4
+34->16
+From 34 to 17 distance is 9
+34->20->1->6->17
+From 34 to 18 distance is 4
+34->20->2->18
+From 34 to 19 distance is 2
+34->19
+From 34 to 20 distance is 1
+34->20
+From 34 to 21 distance is 1
+34->21
+From 34 to 22 distance is 5
+34->20->1->22
+From 34 to 23 distance is 3
+34->23
+From 34 to 24 distance is 4
+34->24
+From 34 to 25 distance is 6
+34->32->25
+From 34 to 26 distance is 8
+34->32->25->26
+From 34 to 27 distance is 2
+34->27
+From 34 to 28 distance is 4
+34->28
+From 34 to 29 distance is 2
+34->29
+From 34 to 30 distance is 2
+34->30
+From 34 to 31 distance is 3
+34->31
+From 34 to 32 distance is 4
+34->32
+From 34 to 33 distance is 3
+34->19->33
+From 34 to 34 distance is 0
+34->34

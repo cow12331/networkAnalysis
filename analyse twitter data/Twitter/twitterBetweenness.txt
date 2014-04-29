@@ -1,0 +1,3610 @@
+the times of shortest path though node0 equal 3024700
+betweenness of note0 is 0.46419240619467506
+the times of shortest path though node1 equal 306936
+betweenness of note1 is 0.04710462538029186
+the times of shortest path though node2 equal 52866
+betweenness of note2 is 0.008113199902763147
+the times of shortest path though node3 equal 50096
+betweenness of note3 is 0.00768809560641665
+the times of shortest path though node4 equal 167320
+betweenness of note4 is 0.025678141106388414
+the times of shortest path though node5 equal 68172
+betweenness of note5 is 0.010462169707773791
+the times of shortest path though node6 equal 251056
+betweenness of note6 is 0.03852887517096252
+the times of shortest path though node7 equal 42992
+betweenness of note7 is 0.006597864226905633
+the times of shortest path though node8 equal 492004
+betweenness of note8 is 0.07550650332839783
+the times of shortest path though node9 equal 381282
+betweenness of note9 is 0.05851430192042784
+the times of shortest path though node10 equal 313102
+betweenness of note10 is 0.04805090447461406
+the times of shortest path though node11 equal 64602
+betweenness of note11 is 0.009914291607428306
+the times of shortest path though node12 equal 191726
+betweenness of note12 is 0.02942366293188755
+the times of shortest path though node13 equal 191652
+betweenness of note13 is 0.029412306355017643
+the times of shortest path though node14 equal 43140
+betweenness of note14 is 0.0066205773806454465
+the times of shortest path though node15 equal 198644
+betweenness of note15 is 0.0304853494019688
+the times of shortest path though node16 equal 548232
+betweenness of note16 is 0.08413566014246672
+the times of shortest path though node17 equal 202304
+betweenness of note17 is 0.031047039555264173
+the times of shortest path though node18 equal 237180
+betweenness of note18 is 0.03639936354060007
+the times of shortest path though node19 equal 21606
+betweenness of note19 is 0.003315813511502678
+the times of shortest path though node20 equal 135046
+betweenness of note20 is 0.020725138918559226
+the times of shortest path though node21 equal 354120
+betweenness of note21 is 0.05434582434015219
+the times of shortest path though node22 equal 188234
+betweenness of note22 is 0.028887755277431964
+the times of shortest path though node23 equal 18174
+betweenness of note23 is 0.0027891138923470176
+the times of shortest path though node24 equal 216392
+betweenness of note24 is 0.033209086243686355
+the times of shortest path though node25 equal 615942
+betweenness of note25 is 0.0945269279784311
+the times of shortest path though node26 equal 209332
+betweenness of note26 is 0.032125607423395285
+the times of shortest path though node27 equal 10894
+betweenness of note27 is 0.0016718722759562238
+the times of shortest path though node28 equal 81200
+betweenness of note28 is 0.012461541105897317
+the times of shortest path though node29 equal 323380
+betweenness of note29 is 0.04962824092149106
+the times of shortest path though node30 equal 103762
+betweenness of note30 is 0.015924069313178784
+the times of shortest path though node31 equal 137614
+betweenness of note31 is 0.02111924282939598
+the times of shortest path though node32 equal 0
+betweenness of note32 is 0.0
+the times of shortest path though node33 equal 0
+betweenness of note33 is 0.0
+the times of shortest path though node34 equal 0
+betweenness of note34 is 0.0
+the times of shortest path though node35 equal 0
+betweenness of note35 is 0.0
+the times of shortest path though node36 equal 0
+betweenness of note36 is 0.0
+the times of shortest path though node37 equal 0
+betweenness of note37 is 0.0
+the times of shortest path though node38 equal 0
+betweenness of note38 is 0.0
+the times of shortest path though node39 equal 0
+betweenness of note39 is 0.0
+the times of shortest path though node40 equal 0
+betweenness of note40 is 0.0
+the times of shortest path though node41 equal 0
+betweenness of note41 is 0.0
+the times of shortest path though node42 equal 0
+betweenness of note42 is 0.0
+the times of shortest path though node43 equal 0
+betweenness of note43 is 0.0
+the times of shortest path though node44 equal 0
+betweenness of note44 is 0.0
+the times of shortest path though node45 equal 0
+betweenness of note45 is 0.0
+the times of shortest path though node46 equal 0
+betweenness of note46 is 0.0
+the times of shortest path though node47 equal 0
+betweenness of note47 is 0.0
+the times of shortest path though node48 equal 0
+betweenness of note48 is 0.0
+the times of shortest path though node49 equal 0
+betweenness of note49 is 0.0
+the times of shortest path though node50 equal 0
+betweenness of note50 is 0.0
+the times of shortest path though node51 equal 0
+betweenness of note51 is 0.0
+the times of shortest path though node52 equal 0
+betweenness of note52 is 0.0
+the times of shortest path though node53 equal 0
+betweenness of note53 is 0.0
+the times of shortest path though node54 equal 0
+betweenness of note54 is 0.0
+the times of shortest path though node55 equal 0
+betweenness of note55 is 0.0
+the times of shortest path though node56 equal 0
+betweenness of note56 is 0.0
+the times of shortest path though node57 equal 0
+betweenness of note57 is 0.0
+the times of shortest path though node58 equal 0
+betweenness of note58 is 0.0
+the times of shortest path though node59 equal 0
+betweenness of note59 is 0.0
+the times of shortest path though node60 equal 0
+betweenness of note60 is 0.0
+the times of shortest path though node61 equal 0
+betweenness of note61 is 0.0
+the times of shortest path though node62 equal 0
+betweenness of note62 is 0.0
+the times of shortest path though node63 equal 0
+betweenness of note63 is 0.0
+the times of shortest path though node64 equal 0
+betweenness of note64 is 0.0
+the times of shortest path though node65 equal 0
+betweenness of note65 is 0.0
+the times of shortest path though node66 equal 0
+betweenness of note66 is 0.0
+the times of shortest path though node67 equal 0
+betweenness of note67 is 0.0
+the times of shortest path though node68 equal 0
+betweenness of note68 is 0.0
+the times of shortest path though node69 equal 0
+betweenness of note69 is 0.0
+the times of shortest path though node70 equal 0
+betweenness of note70 is 0.0
+the times of shortest path though node71 equal 0
+betweenness of note71 is 0.0
+the times of shortest path though node72 equal 0
+betweenness of note72 is 0.0
+the times of shortest path though node73 equal 0
+betweenness of note73 is 0.0
+the times of shortest path though node74 equal 0
+betweenness of note74 is 0.0
+the times of shortest path though node75 equal 0
+betweenness of note75 is 0.0
+the times of shortest path though node76 equal 0
+betweenness of note76 is 0.0
+the times of shortest path though node77 equal 0
+betweenness of note77 is 0.0
+the times of shortest path though node78 equal 0
+betweenness of note78 is 0.0
+the times of shortest path though node79 equal 0
+betweenness of note79 is 0.0
+the times of shortest path though node80 equal 0
+betweenness of note80 is 0.0
+the times of shortest path though node81 equal 0
+betweenness of note81 is 0.0
+the times of shortest path though node82 equal 0
+betweenness of note82 is 0.0
+the times of shortest path though node83 equal 0
+betweenness of note83 is 0.0
+the times of shortest path though node84 equal 0
+betweenness of note84 is 0.0
+the times of shortest path though node85 equal 0
+betweenness of note85 is 0.0
+the times of shortest path though node86 equal 0
+betweenness of note86 is 0.0
+the times of shortest path though node87 equal 0
+betweenness of note87 is 0.0
+the times of shortest path though node88 equal 0
+betweenness of note88 is 0.0
+the times of shortest path though node89 equal 0
+betweenness of note89 is 0.0
+the times of shortest path though node90 equal 0
+betweenness of note90 is 0.0
+the times of shortest path though node91 equal 0
+betweenness of note91 is 0.0
+the times of shortest path though node92 equal 0
+betweenness of note92 is 0.0
+the times of shortest path though node93 equal 0
+betweenness of note93 is 0.0
+the times of shortest path though node94 equal 0
+betweenness of note94 is 0.0
+the times of shortest path though node95 equal 0
+betweenness of note95 is 0.0
+the times of shortest path though node96 equal 0
+betweenness of note96 is 0.0
+the times of shortest path though node97 equal 0
+betweenness of note97 is 0.0
+the times of shortest path though node98 equal 0
+betweenness of note98 is 0.0
+the times of shortest path though node99 equal 0
+betweenness of note99 is 0.0
+the times of shortest path though node100 equal 0
+betweenness of note100 is 0.0
+the times of shortest path though node101 equal 0
+betweenness of note101 is 0.0
+the times of shortest path though node102 equal 0
+betweenness of note102 is 0.0
+the times of shortest path though node103 equal 0
+betweenness of note103 is 0.0
+the times of shortest path though node104 equal 0
+betweenness of note104 is 0.0
+the times of shortest path though node105 equal 0
+betweenness of note105 is 0.0
+the times of shortest path though node106 equal 0
+betweenness of note106 is 0.0
+the times of shortest path though node107 equal 0
+betweenness of note107 is 0.0
+the times of shortest path though node108 equal 0
+betweenness of note108 is 0.0
+the times of shortest path though node109 equal 0
+betweenness of note109 is 0.0
+the times of shortest path though node110 equal 0
+betweenness of note110 is 0.0
+the times of shortest path though node111 equal 0
+betweenness of note111 is 0.0
+the times of shortest path though node112 equal 0
+betweenness of note112 is 0.0
+the times of shortest path though node113 equal 0
+betweenness of note113 is 0.0
+the times of shortest path though node114 equal 0
+betweenness of note114 is 0.0
+the times of shortest path though node115 equal 0
+betweenness of note115 is 0.0
+the times of shortest path though node116 equal 0
+betweenness of note116 is 0.0
+the times of shortest path though node117 equal 0
+betweenness of note117 is 0.0
+the times of shortest path though node118 equal 0
+betweenness of note118 is 0.0
+the times of shortest path though node119 equal 0
+betweenness of note119 is 0.0
+the times of shortest path though node120 equal 0
+betweenness of note120 is 0.0
+the times of shortest path though node121 equal 0
+betweenness of note121 is 0.0
+the times of shortest path though node122 equal 0
+betweenness of note122 is 0.0
+the times of shortest path though node123 equal 0
+betweenness of note123 is 0.0
+the times of shortest path though node124 equal 0
+betweenness of note124 is 0.0
+the times of shortest path though node125 equal 0
+betweenness of note125 is 0.0
+the times of shortest path though node126 equal 0
+betweenness of note126 is 0.0
+the times of shortest path though node127 equal 0
+betweenness of note127 is 0.0
+the times of shortest path though node128 equal 0
+betweenness of note128 is 0.0
+the times of shortest path though node129 equal 0
+betweenness of note129 is 0.0
+the times of shortest path though node130 equal 0
+betweenness of note130 is 0.0
+the times of shortest path though node131 equal 0
+betweenness of note131 is 0.0
+the times of shortest path though node132 equal 0
+betweenness of note132 is 0.0
+the times of shortest path though node133 equal 0
+betweenness of note133 is 0.0
+the times of shortest path though node134 equal 0
+betweenness of note134 is 0.0
+the times of shortest path though node135 equal 0
+betweenness of note135 is 0.0
+the times of shortest path though node136 equal 0
+betweenness of note136 is 0.0
+the times of shortest path though node137 equal 0
+betweenness of note137 is 0.0
+the times of shortest path though node138 equal 0
+betweenness of note138 is 0.0
+the times of shortest path though node139 equal 0
+betweenness of note139 is 0.0
+the times of shortest path though node140 equal 0
+betweenness of note140 is 0.0
+the times of shortest path though node141 equal 0
+betweenness of note141 is 0.0
+the times of shortest path though node142 equal 0
+betweenness of note142 is 0.0
+the times of shortest path though node143 equal 0
+betweenness of note143 is 0.0
+the times of shortest path though node144 equal 0
+betweenness of note144 is 0.0
+the times of shortest path though node145 equal 0
+betweenness of note145 is 0.0
+the times of shortest path though node146 equal 0
+betweenness of note146 is 0.0
+the times of shortest path though node147 equal 0
+betweenness of note147 is 0.0
+the times of shortest path though node148 equal 0
+betweenness of note148 is 0.0
+the times of shortest path though node149 equal 0
+betweenness of note149 is 0.0
+the times of shortest path though node150 equal 0
+betweenness of note150 is 0.0
+the times of shortest path though node151 equal 0
+betweenness of note151 is 0.0
+the times of shortest path though node152 equal 0
+betweenness of note152 is 0.0
+the times of shortest path though node153 equal 0
+betweenness of note153 is 0.0
+the times of shortest path though node154 equal 0
+betweenness of note154 is 0.0
+the times of shortest path though node155 equal 0
+betweenness of note155 is 0.0
+the times of shortest path though node156 equal 0
+betweenness of note156 is 0.0
+the times of shortest path though node157 equal 0
+betweenness of note157 is 0.0
+the times of shortest path though node158 equal 0
+betweenness of note158 is 0.0
+the times of shortest path though node159 equal 0
+betweenness of note159 is 0.0
+the times of shortest path though node160 equal 0
+betweenness of note160 is 0.0
+the times of shortest path though node161 equal 0
+betweenness of note161 is 0.0
+the times of shortest path though node162 equal 0
+betweenness of note162 is 0.0
+the times of shortest path though node163 equal 0
+betweenness of note163 is 0.0
+the times of shortest path though node164 equal 0
+betweenness of note164 is 0.0
+the times of shortest path though node165 equal 0
+betweenness of note165 is 0.0
+the times of shortest path though node166 equal 0
+betweenness of note166 is 0.0
+the times of shortest path though node167 equal 0
+betweenness of note167 is 0.0
+the times of shortest path though node168 equal 0
+betweenness of note168 is 0.0
+the times of shortest path though node169 equal 0
+betweenness of note169 is 0.0
+the times of shortest path though node170 equal 0
+betweenness of note170 is 0.0
+the times of shortest path though node171 equal 0
+betweenness of note171 is 0.0
+the times of shortest path though node172 equal 0
+betweenness of note172 is 0.0
+the times of shortest path though node173 equal 0
+betweenness of note173 is 0.0
+the times of shortest path though node174 equal 0
+betweenness of note174 is 0.0
+the times of shortest path though node175 equal 0
+betweenness of note175 is 0.0
+the times of shortest path though node176 equal 0
+betweenness of note176 is 0.0
+the times of shortest path though node177 equal 0
+betweenness of note177 is 0.0
+the times of shortest path though node178 equal 0
+betweenness of note178 is 0.0
+the times of shortest path though node179 equal 0
+betweenness of note179 is 0.0
+the times of shortest path though node180 equal 0
+betweenness of note180 is 0.0
+the times of shortest path though node181 equal 0
+betweenness of note181 is 0.0
+the times of shortest path though node182 equal 0
+betweenness of note182 is 0.0
+the times of shortest path though node183 equal 0
+betweenness of note183 is 0.0
+the times of shortest path though node184 equal 0
+betweenness of note184 is 0.0
+the times of shortest path though node185 equal 0
+betweenness of note185 is 0.0
+the times of shortest path though node186 equal 0
+betweenness of note186 is 0.0
+the times of shortest path though node187 equal 0
+betweenness of note187 is 0.0
+the times of shortest path though node188 equal 0
+betweenness of note188 is 0.0
+the times of shortest path though node189 equal 0
+betweenness of note189 is 0.0
+the times of shortest path though node190 equal 0
+betweenness of note190 is 0.0
+the times of shortest path though node191 equal 0
+betweenness of note191 is 0.0
+the times of shortest path though node192 equal 0
+betweenness of note192 is 0.0
+the times of shortest path though node193 equal 0
+betweenness of note193 is 0.0
+the times of shortest path though node194 equal 0
+betweenness of note194 is 0.0
+the times of shortest path though node195 equal 0
+betweenness of note195 is 0.0
+the times of shortest path though node196 equal 0
+betweenness of note196 is 0.0
+the times of shortest path though node197 equal 0
+betweenness of note197 is 0.0
+the times of shortest path though node198 equal 0
+betweenness of note198 is 0.0
+the times of shortest path though node199 equal 0
+betweenness of note199 is 0.0
+the times of shortest path though node200 equal 0
+betweenness of note200 is 0.0
+the times of shortest path though node201 equal 0
+betweenness of note201 is 0.0
+the times of shortest path though node202 equal 0
+betweenness of note202 is 0.0
+the times of shortest path though node203 equal 0
+betweenness of note203 is 0.0
+the times of shortest path though node204 equal 0
+betweenness of note204 is 0.0
+the times of shortest path though node205 equal 0
+betweenness of note205 is 0.0
+the times of shortest path though node206 equal 0
+betweenness of note206 is 0.0
+the times of shortest path though node207 equal 0
+betweenness of note207 is 0.0
+the times of shortest path though node208 equal 0
+betweenness of note208 is 0.0
+the times of shortest path though node209 equal 0
+betweenness of note209 is 0.0
+the times of shortest path though node210 equal 0
+betweenness of note210 is 0.0
+the times of shortest path though node211 equal 0
+betweenness of note211 is 0.0
+the times of shortest path though node212 equal 0
+betweenness of note212 is 0.0
+the times of shortest path though node213 equal 0
+betweenness of note213 is 0.0
+the times of shortest path though node214 equal 0
+betweenness of note214 is 0.0
+the times of shortest path though node215 equal 0
+betweenness of note215 is 0.0
+the times of shortest path though node216 equal 0
+betweenness of note216 is 0.0
+the times of shortest path though node217 equal 0
+betweenness of note217 is 0.0
+the times of shortest path though node218 equal 0
+betweenness of note218 is 0.0
+the times of shortest path though node219 equal 0
+betweenness of note219 is 0.0
+the times of shortest path though node220 equal 0
+betweenness of note220 is 0.0
+the times of shortest path though node221 equal 0
+betweenness of note221 is 0.0
+the times of shortest path though node222 equal 0
+betweenness of note222 is 0.0
+the times of shortest path though node223 equal 0
+betweenness of note223 is 0.0
+the times of shortest path though node224 equal 0
+betweenness of note224 is 0.0
+the times of shortest path though node225 equal 0
+betweenness of note225 is 0.0
+the times of shortest path though node226 equal 0
+betweenness of note226 is 0.0
+the times of shortest path though node227 equal 0
+betweenness of note227 is 0.0
+the times of shortest path though node228 equal 0
+betweenness of note228 is 0.0
+the times of shortest path though node229 equal 0
+betweenness of note229 is 0.0
+the times of shortest path though node230 equal 0
+betweenness of note230 is 0.0
+the times of shortest path though node231 equal 0
+betweenness of note231 is 0.0
+the times of shortest path though node232 equal 0
+betweenness of note232 is 0.0
+the times of shortest path though node233 equal 0
+betweenness of note233 is 0.0
+the times of shortest path though node234 equal 0
+betweenness of note234 is 0.0
+the times of shortest path though node235 equal 0
+betweenness of note235 is 0.0
+the times of shortest path though node236 equal 0
+betweenness of note236 is 0.0
+the times of shortest path though node237 equal 0
+betweenness of note237 is 0.0
+the times of shortest path though node238 equal 0
+betweenness of note238 is 0.0
+the times of shortest path though node239 equal 0
+betweenness of note239 is 0.0
+the times of shortest path though node240 equal 0
+betweenness of note240 is 0.0
+the times of shortest path though node241 equal 0
+betweenness of note241 is 0.0
+the times of shortest path though node242 equal 0
+betweenness of note242 is 0.0
+the times of shortest path though node243 equal 0
+betweenness of note243 is 0.0
+the times of shortest path though node244 equal 0
+betweenness of note244 is 0.0
+the times of shortest path though node245 equal 0
+betweenness of note245 is 0.0
+the times of shortest path though node246 equal 0
+betweenness of note246 is 0.0
+the times of shortest path though node247 equal 0
+betweenness of note247 is 0.0
+the times of shortest path though node248 equal 0
+betweenness of note248 is 0.0
+the times of shortest path though node249 equal 0
+betweenness of note249 is 0.0
+the times of shortest path though node250 equal 0
+betweenness of note250 is 0.0
+the times of shortest path though node251 equal 0
+betweenness of note251 is 0.0
+the times of shortest path though node252 equal 0
+betweenness of note252 is 0.0
+the times of shortest path though node253 equal 0
+betweenness of note253 is 0.0
+the times of shortest path though node254 equal 0
+betweenness of note254 is 0.0
+the times of shortest path though node255 equal 0
+betweenness of note255 is 0.0
+the times of shortest path though node256 equal 0
+betweenness of note256 is 0.0
+the times of shortest path though node257 equal 0
+betweenness of note257 is 0.0
+the times of shortest path though node258 equal 0
+betweenness of note258 is 0.0
+the times of shortest path though node259 equal 0
+betweenness of note259 is 0.0
+the times of shortest path though node260 equal 0
+betweenness of note260 is 0.0
+the times of shortest path though node261 equal 0
+betweenness of note261 is 0.0
+the times of shortest path though node262 equal 0
+betweenness of note262 is 0.0
+the times of shortest path though node263 equal 0
+betweenness of note263 is 0.0
+the times of shortest path though node264 equal 0
+betweenness of note264 is 0.0
+the times of shortest path though node265 equal 0
+betweenness of note265 is 0.0
+the times of shortest path though node266 equal 0
+betweenness of note266 is 0.0
+the times of shortest path though node267 equal 0
+betweenness of note267 is 0.0
+the times of shortest path though node268 equal 0
+betweenness of note268 is 0.0
+the times of shortest path though node269 equal 0
+betweenness of note269 is 0.0
+the times of shortest path though node270 equal 0
+betweenness of note270 is 0.0
+the times of shortest path though node271 equal 0
+betweenness of note271 is 0.0
+the times of shortest path though node272 equal 0
+betweenness of note272 is 0.0
+the times of shortest path though node273 equal 0
+betweenness of note273 is 0.0
+the times of shortest path though node274 equal 0
+betweenness of note274 is 0.0
+the times of shortest path though node275 equal 0
+betweenness of note275 is 0.0
+the times of shortest path though node276 equal 0
+betweenness of note276 is 0.0
+the times of shortest path though node277 equal 0
+betweenness of note277 is 0.0
+the times of shortest path though node278 equal 0
+betweenness of note278 is 0.0
+the times of shortest path though node279 equal 0
+betweenness of note279 is 0.0
+the times of shortest path though node280 equal 0
+betweenness of note280 is 0.0
+the times of shortest path though node281 equal 0
+betweenness of note281 is 0.0
+the times of shortest path though node282 equal 0
+betweenness of note282 is 0.0
+the times of shortest path though node283 equal 0
+betweenness of note283 is 0.0
+the times of shortest path though node284 equal 0
+betweenness of note284 is 0.0
+the times of shortest path though node285 equal 0
+betweenness of note285 is 0.0
+the times of shortest path though node286 equal 0
+betweenness of note286 is 0.0
+the times of shortest path though node287 equal 0
+betweenness of note287 is 0.0
+the times of shortest path though node288 equal 0
+betweenness of note288 is 0.0
+the times of shortest path though node289 equal 0
+betweenness of note289 is 0.0
+the times of shortest path though node290 equal 0
+betweenness of note290 is 0.0
+the times of shortest path though node291 equal 0
+betweenness of note291 is 0.0
+the times of shortest path though node292 equal 0
+betweenness of note292 is 0.0
+the times of shortest path though node293 equal 0
+betweenness of note293 is 0.0
+the times of shortest path though node294 equal 0
+betweenness of note294 is 0.0
+the times of shortest path though node295 equal 0
+betweenness of note295 is 0.0
+the times of shortest path though node296 equal 0
+betweenness of note296 is 0.0
+the times of shortest path though node297 equal 0
+betweenness of note297 is 0.0
+the times of shortest path though node298 equal 0
+betweenness of note298 is 0.0
+the times of shortest path though node299 equal 0
+betweenness of note299 is 0.0
+the times of shortest path though node300 equal 0
+betweenness of note300 is 0.0
+the times of shortest path though node301 equal 0
+betweenness of note301 is 0.0
+the times of shortest path though node302 equal 0
+betweenness of note302 is 0.0
+the times of shortest path though node303 equal 0
+betweenness of note303 is 0.0
+the times of shortest path though node304 equal 0
+betweenness of note304 is 0.0
+the times of shortest path though node305 equal 0
+betweenness of note305 is 0.0
+the times of shortest path though node306 equal 0
+betweenness of note306 is 0.0
+the times of shortest path though node307 equal 0
+betweenness of note307 is 0.0
+the times of shortest path though node308 equal 0
+betweenness of note308 is 0.0
+the times of shortest path though node309 equal 0
+betweenness of note309 is 0.0
+the times of shortest path though node310 equal 0
+betweenness of note310 is 0.0
+the times of shortest path though node311 equal 0
+betweenness of note311 is 0.0
+the times of shortest path though node312 equal 0
+betweenness of note312 is 0.0
+the times of shortest path though node313 equal 0
+betweenness of note313 is 0.0
+the times of shortest path though node314 equal 0
+betweenness of note314 is 0.0
+the times of shortest path though node315 equal 0
+betweenness of note315 is 0.0
+the times of shortest path though node316 equal 0
+betweenness of note316 is 0.0
+the times of shortest path though node317 equal 0
+betweenness of note317 is 0.0
+the times of shortest path though node318 equal 0
+betweenness of note318 is 0.0
+the times of shortest path though node319 equal 0
+betweenness of note319 is 0.0
+the times of shortest path though node320 equal 0
+betweenness of note320 is 0.0
+the times of shortest path though node321 equal 0
+betweenness of note321 is 0.0
+the times of shortest path though node322 equal 0
+betweenness of note322 is 0.0
+the times of shortest path though node323 equal 0
+betweenness of note323 is 0.0
+the times of shortest path though node324 equal 0
+betweenness of note324 is 0.0
+the times of shortest path though node325 equal 0
+betweenness of note325 is 0.0
+the times of shortest path though node326 equal 0
+betweenness of note326 is 0.0
+the times of shortest path though node327 equal 0
+betweenness of note327 is 0.0
+the times of shortest path though node328 equal 0
+betweenness of note328 is 0.0
+the times of shortest path though node329 equal 0
+betweenness of note329 is 0.0
+the times of shortest path though node330 equal 0
+betweenness of note330 is 0.0
+the times of shortest path though node331 equal 0
+betweenness of note331 is 0.0
+the times of shortest path though node332 equal 0
+betweenness of note332 is 0.0
+the times of shortest path though node333 equal 0
+betweenness of note333 is 0.0
+the times of shortest path though node334 equal 0
+betweenness of note334 is 0.0
+the times of shortest path though node335 equal 0
+betweenness of note335 is 0.0
+the times of shortest path though node336 equal 0
+betweenness of note336 is 0.0
+the times of shortest path though node337 equal 0
+betweenness of note337 is 0.0
+the times of shortest path though node338 equal 0
+betweenness of note338 is 0.0
+the times of shortest path though node339 equal 0
+betweenness of note339 is 0.0
+the times of shortest path though node340 equal 0
+betweenness of note340 is 0.0
+the times of shortest path though node341 equal 0
+betweenness of note341 is 0.0
+the times of shortest path though node342 equal 0
+betweenness of note342 is 0.0
+the times of shortest path though node343 equal 0
+betweenness of note343 is 0.0
+the times of shortest path though node344 equal 0
+betweenness of note344 is 0.0
+the times of shortest path though node345 equal 0
+betweenness of note345 is 0.0
+the times of shortest path though node346 equal 0
+betweenness of note346 is 0.0
+the times of shortest path though node347 equal 0
+betweenness of note347 is 0.0
+the times of shortest path though node348 equal 0
+betweenness of note348 is 0.0
+the times of shortest path though node349 equal 0
+betweenness of note349 is 0.0
+the times of shortest path though node350 equal 0
+betweenness of note350 is 0.0
+the times of shortest path though node351 equal 0
+betweenness of note351 is 0.0
+the times of shortest path though node352 equal 0
+betweenness of note352 is 0.0
+the times of shortest path though node353 equal 0
+betweenness of note353 is 0.0
+the times of shortest path though node354 equal 0
+betweenness of note354 is 0.0
+the times of shortest path though node355 equal 0
+betweenness of note355 is 0.0
+the times of shortest path though node356 equal 0
+betweenness of note356 is 0.0
+the times of shortest path though node357 equal 0
+betweenness of note357 is 0.0
+the times of shortest path though node358 equal 0
+betweenness of note358 is 0.0
+the times of shortest path though node359 equal 0
+betweenness of note359 is 0.0
+the times of shortest path though node360 equal 0
+betweenness of note360 is 0.0
+the times of shortest path though node361 equal 0
+betweenness of note361 is 0.0
+the times of shortest path though node362 equal 0
+betweenness of note362 is 0.0
+the times of shortest path though node363 equal 0
+betweenness of note363 is 0.0
+the times of shortest path though node364 equal 0
+betweenness of note364 is 0.0
+the times of shortest path though node365 equal 0
+betweenness of note365 is 0.0
+the times of shortest path though node366 equal 0
+betweenness of note366 is 0.0
+the times of shortest path though node367 equal 0
+betweenness of note367 is 0.0
+the times of shortest path though node368 equal 0
+betweenness of note368 is 0.0
+the times of shortest path though node369 equal 0
+betweenness of note369 is 0.0
+the times of shortest path though node370 equal 0
+betweenness of note370 is 0.0
+the times of shortest path though node371 equal 0
+betweenness of note371 is 0.0
+the times of shortest path though node372 equal 0
+betweenness of note372 is 0.0
+the times of shortest path though node373 equal 0
+betweenness of note373 is 0.0
+the times of shortest path though node374 equal 0
+betweenness of note374 is 0.0
+the times of shortest path though node375 equal 0
+betweenness of note375 is 0.0
+the times of shortest path though node376 equal 0
+betweenness of note376 is 0.0
+the times of shortest path though node377 equal 0
+betweenness of note377 is 0.0
+the times of shortest path though node378 equal 0
+betweenness of note378 is 0.0
+the times of shortest path though node379 equal 0
+betweenness of note379 is 0.0
+the times of shortest path though node380 equal 0
+betweenness of note380 is 0.0
+the times of shortest path though node381 equal 0
+betweenness of note381 is 0.0
+the times of shortest path though node382 equal 0
+betweenness of note382 is 0.0
+the times of shortest path though node383 equal 0
+betweenness of note383 is 0.0
+the times of shortest path though node384 equal 0
+betweenness of note384 is 0.0
+the times of shortest path though node385 equal 0
+betweenness of note385 is 0.0
+the times of shortest path though node386 equal 0
+betweenness of note386 is 0.0
+the times of shortest path though node387 equal 0
+betweenness of note387 is 0.0
+the times of shortest path though node388 equal 0
+betweenness of note388 is 0.0
+the times of shortest path though node389 equal 0
+betweenness of note389 is 0.0
+the times of shortest path though node390 equal 0
+betweenness of note390 is 0.0
+the times of shortest path though node391 equal 0
+betweenness of note391 is 0.0
+the times of shortest path though node392 equal 0
+betweenness of note392 is 0.0
+the times of shortest path though node393 equal 0
+betweenness of note393 is 0.0
+the times of shortest path though node394 equal 0
+betweenness of note394 is 0.0
+the times of shortest path though node395 equal 0
+betweenness of note395 is 0.0
+the times of shortest path though node396 equal 0
+betweenness of note396 is 0.0
+the times of shortest path though node397 equal 0
+betweenness of note397 is 0.0
+the times of shortest path though node398 equal 0
+betweenness of note398 is 0.0
+the times of shortest path though node399 equal 0
+betweenness of note399 is 0.0
+the times of shortest path though node400 equal 0
+betweenness of note400 is 0.0
+the times of shortest path though node401 equal 0
+betweenness of note401 is 0.0
+the times of shortest path though node402 equal 0
+betweenness of note402 is 0.0
+the times of shortest path though node403 equal 0
+betweenness of note403 is 0.0
+the times of shortest path though node404 equal 0
+betweenness of note404 is 0.0
+the times of shortest path though node405 equal 0
+betweenness of note405 is 0.0
+the times of shortest path though node406 equal 0
+betweenness of note406 is 0.0
+the times of shortest path though node407 equal 0
+betweenness of note407 is 0.0
+the times of shortest path though node408 equal 0
+betweenness of note408 is 0.0
+the times of shortest path though node409 equal 0
+betweenness of note409 is 0.0
+the times of shortest path though node410 equal 0
+betweenness of note410 is 0.0
+the times of shortest path though node411 equal 0
+betweenness of note411 is 0.0
+the times of shortest path though node412 equal 0
+betweenness of note412 is 0.0
+the times of shortest path though node413 equal 0
+betweenness of note413 is 0.0
+the times of shortest path though node414 equal 0
+betweenness of note414 is 0.0
+the times of shortest path though node415 equal 0
+betweenness of note415 is 0.0
+the times of shortest path though node416 equal 0
+betweenness of note416 is 0.0
+the times of shortest path though node417 equal 0
+betweenness of note417 is 0.0
+the times of shortest path though node418 equal 0
+betweenness of note418 is 0.0
+the times of shortest path though node419 equal 0
+betweenness of note419 is 0.0
+the times of shortest path though node420 equal 0
+betweenness of note420 is 0.0
+the times of shortest path though node421 equal 0
+betweenness of note421 is 0.0
+the times of shortest path though node422 equal 0
+betweenness of note422 is 0.0
+the times of shortest path though node423 equal 0
+betweenness of note423 is 0.0
+the times of shortest path though node424 equal 0
+betweenness of note424 is 0.0
+the times of shortest path though node425 equal 0
+betweenness of note425 is 0.0
+the times of shortest path though node426 equal 0
+betweenness of note426 is 0.0
+the times of shortest path though node427 equal 0
+betweenness of note427 is 0.0
+the times of shortest path though node428 equal 0
+betweenness of note428 is 0.0
+the times of shortest path though node429 equal 0
+betweenness of note429 is 0.0
+the times of shortest path though node430 equal 0
+betweenness of note430 is 0.0
+the times of shortest path though node431 equal 0
+betweenness of note431 is 0.0
+the times of shortest path though node432 equal 0
+betweenness of note432 is 0.0
+the times of shortest path though node433 equal 0
+betweenness of note433 is 0.0
+the times of shortest path though node434 equal 0
+betweenness of note434 is 0.0
+the times of shortest path though node435 equal 0
+betweenness of note435 is 0.0
+the times of shortest path though node436 equal 0
+betweenness of note436 is 0.0
+the times of shortest path though node437 equal 0
+betweenness of note437 is 0.0
+the times of shortest path though node438 equal 0
+betweenness of note438 is 0.0
+the times of shortest path though node439 equal 0
+betweenness of note439 is 0.0
+the times of shortest path though node440 equal 0
+betweenness of note440 is 0.0
+the times of shortest path though node441 equal 0
+betweenness of note441 is 0.0
+the times of shortest path though node442 equal 0
+betweenness of note442 is 0.0
+the times of shortest path though node443 equal 0
+betweenness of note443 is 0.0
+the times of shortest path though node444 equal 0
+betweenness of note444 is 0.0
+the times of shortest path though node445 equal 0
+betweenness of note445 is 0.0
+the times of shortest path though node446 equal 0
+betweenness of note446 is 0.0
+the times of shortest path though node447 equal 0
+betweenness of note447 is 0.0
+the times of shortest path though node448 equal 0
+betweenness of note448 is 0.0
+the times of shortest path though node449 equal 0
+betweenness of note449 is 0.0
+the times of shortest path though node450 equal 0
+betweenness of note450 is 0.0
+the times of shortest path though node451 equal 0
+betweenness of note451 is 0.0
+the times of shortest path though node452 equal 0
+betweenness of note452 is 0.0
+the times of shortest path though node453 equal 0
+betweenness of note453 is 0.0
+the times of shortest path though node454 equal 0
+betweenness of note454 is 0.0
+the times of shortest path though node455 equal 0
+betweenness of note455 is 0.0
+the times of shortest path though node456 equal 0
+betweenness of note456 is 0.0
+the times of shortest path though node457 equal 0
+betweenness of note457 is 0.0
+the times of shortest path though node458 equal 0
+betweenness of note458 is 0.0
+the times of shortest path though node459 equal 0
+betweenness of note459 is 0.0
+the times of shortest path though node460 equal 0
+betweenness of note460 is 0.0
+the times of shortest path though node461 equal 0
+betweenness of note461 is 0.0
+the times of shortest path though node462 equal 0
+betweenness of note462 is 0.0
+the times of shortest path though node463 equal 0
+betweenness of note463 is 0.0
+the times of shortest path though node464 equal 0
+betweenness of note464 is 0.0
+the times of shortest path though node465 equal 0
+betweenness of note465 is 0.0
+the times of shortest path though node466 equal 0
+betweenness of note466 is 0.0
+the times of shortest path though node467 equal 0
+betweenness of note467 is 0.0
+the times of shortest path though node468 equal 0
+betweenness of note468 is 0.0
+the times of shortest path though node469 equal 0
+betweenness of note469 is 0.0
+the times of shortest path though node470 equal 0
+betweenness of note470 is 0.0
+the times of shortest path though node471 equal 0
+betweenness of note471 is 0.0
+the times of shortest path though node472 equal 0
+betweenness of note472 is 0.0
+the times of shortest path though node473 equal 0
+betweenness of note473 is 0.0
+the times of shortest path though node474 equal 0
+betweenness of note474 is 0.0
+the times of shortest path though node475 equal 0
+betweenness of note475 is 0.0
+the times of shortest path though node476 equal 0
+betweenness of note476 is 0.0
+the times of shortest path though node477 equal 0
+betweenness of note477 is 0.0
+the times of shortest path though node478 equal 0
+betweenness of note478 is 0.0
+the times of shortest path though node479 equal 0
+betweenness of note479 is 0.0
+the times of shortest path though node480 equal 0
+betweenness of note480 is 0.0
+the times of shortest path though node481 equal 0
+betweenness of note481 is 0.0
+the times of shortest path though node482 equal 0
+betweenness of note482 is 0.0
+the times of shortest path though node483 equal 0
+betweenness of note483 is 0.0
+the times of shortest path though node484 equal 0
+betweenness of note484 is 0.0
+the times of shortest path though node485 equal 0
+betweenness of note485 is 0.0
+the times of shortest path though node486 equal 0
+betweenness of note486 is 0.0
+the times of shortest path though node487 equal 0
+betweenness of note487 is 0.0
+the times of shortest path though node488 equal 0
+betweenness of note488 is 0.0
+the times of shortest path though node489 equal 0
+betweenness of note489 is 0.0
+the times of shortest path though node490 equal 0
+betweenness of note490 is 0.0
+the times of shortest path though node491 equal 0
+betweenness of note491 is 0.0
+the times of shortest path though node492 equal 0
+betweenness of note492 is 0.0
+the times of shortest path though node493 equal 0
+betweenness of note493 is 0.0
+the times of shortest path though node494 equal 0
+betweenness of note494 is 0.0
+the times of shortest path though node495 equal 0
+betweenness of note495 is 0.0
+the times of shortest path though node496 equal 0
+betweenness of note496 is 0.0
+the times of shortest path though node497 equal 0
+betweenness of note497 is 0.0
+the times of shortest path though node498 equal 0
+betweenness of note498 is 0.0
+the times of shortest path though node499 equal 0
+betweenness of note499 is 0.0
+the times of shortest path though node500 equal 0
+betweenness of note500 is 0.0
+the times of shortest path though node501 equal 0
+betweenness of note501 is 0.0
+the times of shortest path though node502 equal 0
+betweenness of note502 is 0.0
+the times of shortest path though node503 equal 0
+betweenness of note503 is 0.0
+the times of shortest path though node504 equal 0
+betweenness of note504 is 0.0
+the times of shortest path though node505 equal 0
+betweenness of note505 is 0.0
+the times of shortest path though node506 equal 0
+betweenness of note506 is 0.0
+the times of shortest path though node507 equal 0
+betweenness of note507 is 0.0
+the times of shortest path though node508 equal 0
+betweenness of note508 is 0.0
+the times of shortest path though node509 equal 0
+betweenness of note509 is 0.0
+the times of shortest path though node510 equal 0
+betweenness of note510 is 0.0
+the times of shortest path though node511 equal 0
+betweenness of note511 is 0.0
+the times of shortest path though node512 equal 0
+betweenness of note512 is 0.0
+the times of shortest path though node513 equal 0
+betweenness of note513 is 0.0
+the times of shortest path though node514 equal 0
+betweenness of note514 is 0.0
+the times of shortest path though node515 equal 0
+betweenness of note515 is 0.0
+the times of shortest path though node516 equal 0
+betweenness of note516 is 0.0
+the times of shortest path though node517 equal 0
+betweenness of note517 is 0.0
+the times of shortest path though node518 equal 0
+betweenness of note518 is 0.0
+the times of shortest path though node519 equal 0
+betweenness of note519 is 0.0
+the times of shortest path though node520 equal 0
+betweenness of note520 is 0.0
+the times of shortest path though node521 equal 0
+betweenness of note521 is 0.0
+the times of shortest path though node522 equal 0
+betweenness of note522 is 0.0
+the times of shortest path though node523 equal 0
+betweenness of note523 is 0.0
+the times of shortest path though node524 equal 0
+betweenness of note524 is 0.0
+the times of shortest path though node525 equal 0
+betweenness of note525 is 0.0
+the times of shortest path though node526 equal 0
+betweenness of note526 is 0.0
+the times of shortest path though node527 equal 0
+betweenness of note527 is 0.0
+the times of shortest path though node528 equal 0
+betweenness of note528 is 0.0
+the times of shortest path though node529 equal 0
+betweenness of note529 is 0.0
+the times of shortest path though node530 equal 0
+betweenness of note530 is 0.0
+the times of shortest path though node531 equal 0
+betweenness of note531 is 0.0
+the times of shortest path though node532 equal 0
+betweenness of note532 is 0.0
+the times of shortest path though node533 equal 0
+betweenness of note533 is 0.0
+the times of shortest path though node534 equal 0
+betweenness of note534 is 0.0
+the times of shortest path though node535 equal 0
+betweenness of note535 is 0.0
+the times of shortest path though node536 equal 0
+betweenness of note536 is 0.0
+the times of shortest path though node537 equal 0
+betweenness of note537 is 0.0
+the times of shortest path though node538 equal 0
+betweenness of note538 is 0.0
+the times of shortest path though node539 equal 0
+betweenness of note539 is 0.0
+the times of shortest path though node540 equal 0
+betweenness of note540 is 0.0
+the times of shortest path though node541 equal 0
+betweenness of note541 is 0.0
+the times of shortest path though node542 equal 0
+betweenness of note542 is 0.0
+the times of shortest path though node543 equal 0
+betweenness of note543 is 0.0
+the times of shortest path though node544 equal 0
+betweenness of note544 is 0.0
+the times of shortest path though node545 equal 0
+betweenness of note545 is 0.0
+the times of shortest path though node546 equal 0
+betweenness of note546 is 0.0
+the times of shortest path though node547 equal 0
+betweenness of note547 is 0.0
+the times of shortest path though node548 equal 0
+betweenness of note548 is 0.0
+the times of shortest path though node549 equal 0
+betweenness of note549 is 0.0
+the times of shortest path though node550 equal 0
+betweenness of note550 is 0.0
+the times of shortest path though node551 equal 0
+betweenness of note551 is 0.0
+the times of shortest path though node552 equal 0
+betweenness of note552 is 0.0
+the times of shortest path though node553 equal 0
+betweenness of note553 is 0.0
+the times of shortest path though node554 equal 0
+betweenness of note554 is 0.0
+the times of shortest path though node555 equal 0
+betweenness of note555 is 0.0
+the times of shortest path though node556 equal 0
+betweenness of note556 is 0.0
+the times of shortest path though node557 equal 0
+betweenness of note557 is 0.0
+the times of shortest path though node558 equal 0
+betweenness of note558 is 0.0
+the times of shortest path though node559 equal 0
+betweenness of note559 is 0.0
+the times of shortest path though node560 equal 0
+betweenness of note560 is 0.0
+the times of shortest path though node561 equal 0
+betweenness of note561 is 0.0
+the times of shortest path though node562 equal 0
+betweenness of note562 is 0.0
+the times of shortest path though node563 equal 0
+betweenness of note563 is 0.0
+the times of shortest path though node564 equal 0
+betweenness of note564 is 0.0
+the times of shortest path though node565 equal 0
+betweenness of note565 is 0.0
+the times of shortest path though node566 equal 0
+betweenness of note566 is 0.0
+the times of shortest path though node567 equal 0
+betweenness of note567 is 0.0
+the times of shortest path though node568 equal 0
+betweenness of note568 is 0.0
+the times of shortest path though node569 equal 0
+betweenness of note569 is 0.0
+the times of shortest path though node570 equal 0
+betweenness of note570 is 0.0
+the times of shortest path though node571 equal 0
+betweenness of note571 is 0.0
+the times of shortest path though node572 equal 0
+betweenness of note572 is 0.0
+the times of shortest path though node573 equal 0
+betweenness of note573 is 0.0
+the times of shortest path though node574 equal 0
+betweenness of note574 is 0.0
+the times of shortest path though node575 equal 0
+betweenness of note575 is 0.0
+the times of shortest path though node576 equal 0
+betweenness of note576 is 0.0
+the times of shortest path though node577 equal 0
+betweenness of note577 is 0.0
+the times of shortest path though node578 equal 0
+betweenness of note578 is 0.0
+the times of shortest path though node579 equal 0
+betweenness of note579 is 0.0
+the times of shortest path though node580 equal 0
+betweenness of note580 is 0.0
+the times of shortest path though node581 equal 0
+betweenness of note581 is 0.0
+the times of shortest path though node582 equal 0
+betweenness of note582 is 0.0
+the times of shortest path though node583 equal 0
+betweenness of note583 is 0.0
+the times of shortest path though node584 equal 0
+betweenness of note584 is 0.0
+the times of shortest path though node585 equal 0
+betweenness of note585 is 0.0
+the times of shortest path though node586 equal 0
+betweenness of note586 is 0.0
+the times of shortest path though node587 equal 0
+betweenness of note587 is 0.0
+the times of shortest path though node588 equal 0
+betweenness of note588 is 0.0
+the times of shortest path though node589 equal 0
+betweenness of note589 is 0.0
+the times of shortest path though node590 equal 0
+betweenness of note590 is 0.0
+the times of shortest path though node591 equal 0
+betweenness of note591 is 0.0
+the times of shortest path though node592 equal 0
+betweenness of note592 is 0.0
+the times of shortest path though node593 equal 0
+betweenness of note593 is 0.0
+the times of shortest path though node594 equal 0
+betweenness of note594 is 0.0
+the times of shortest path though node595 equal 0
+betweenness of note595 is 0.0
+the times of shortest path though node596 equal 0
+betweenness of note596 is 0.0
+the times of shortest path though node597 equal 0
+betweenness of note597 is 0.0
+the times of shortest path though node598 equal 0
+betweenness of note598 is 0.0
+the times of shortest path though node599 equal 0
+betweenness of note599 is 0.0
+the times of shortest path though node600 equal 0
+betweenness of note600 is 0.0
+the times of shortest path though node601 equal 0
+betweenness of note601 is 0.0
+the times of shortest path though node602 equal 0
+betweenness of note602 is 0.0
+the times of shortest path though node603 equal 0
+betweenness of note603 is 0.0
+the times of shortest path though node604 equal 0
+betweenness of note604 is 0.0
+the times of shortest path though node605 equal 0
+betweenness of note605 is 0.0
+the times of shortest path though node606 equal 0
+betweenness of note606 is 0.0
+the times of shortest path though node607 equal 0
+betweenness of note607 is 0.0
+the times of shortest path though node608 equal 0
+betweenness of note608 is 0.0
+the times of shortest path though node609 equal 0
+betweenness of note609 is 0.0
+the times of shortest path though node610 equal 0
+betweenness of note610 is 0.0
+the times of shortest path though node611 equal 0
+betweenness of note611 is 0.0
+the times of shortest path though node612 equal 0
+betweenness of note612 is 0.0
+the times of shortest path though node613 equal 0
+betweenness of note613 is 0.0
+the times of shortest path though node614 equal 0
+betweenness of note614 is 0.0
+the times of shortest path though node615 equal 0
+betweenness of note615 is 0.0
+the times of shortest path though node616 equal 0
+betweenness of note616 is 0.0
+the times of shortest path though node617 equal 0
+betweenness of note617 is 0.0
+the times of shortest path though node618 equal 0
+betweenness of note618 is 0.0
+the times of shortest path though node619 equal 0
+betweenness of note619 is 0.0
+the times of shortest path though node620 equal 0
+betweenness of note620 is 0.0
+the times of shortest path though node621 equal 0
+betweenness of note621 is 0.0
+the times of shortest path though node622 equal 0
+betweenness of note622 is 0.0
+the times of shortest path though node623 equal 0
+betweenness of note623 is 0.0
+the times of shortest path though node624 equal 0
+betweenness of note624 is 0.0
+the times of shortest path though node625 equal 0
+betweenness of note625 is 0.0
+the times of shortest path though node626 equal 0
+betweenness of note626 is 0.0
+the times of shortest path though node627 equal 0
+betweenness of note627 is 0.0
+the times of shortest path though node628 equal 0
+betweenness of note628 is 0.0
+the times of shortest path though node629 equal 0
+betweenness of note629 is 0.0
+the times of shortest path though node630 equal 0
+betweenness of note630 is 0.0
+the times of shortest path though node631 equal 0
+betweenness of note631 is 0.0
+the times of shortest path though node632 equal 0
+betweenness of note632 is 0.0
+the times of shortest path though node633 equal 0
+betweenness of note633 is 0.0
+the times of shortest path though node634 equal 0
+betweenness of note634 is 0.0
+the times of shortest path though node635 equal 0
+betweenness of note635 is 0.0
+the times of shortest path though node636 equal 0
+betweenness of note636 is 0.0
+the times of shortest path though node637 equal 0
+betweenness of note637 is 0.0
+the times of shortest path though node638 equal 0
+betweenness of note638 is 0.0
+the times of shortest path though node639 equal 0
+betweenness of note639 is 0.0
+the times of shortest path though node640 equal 0
+betweenness of note640 is 0.0
+the times of shortest path though node641 equal 0
+betweenness of note641 is 0.0
+the times of shortest path though node642 equal 0
+betweenness of note642 is 0.0
+the times of shortest path though node643 equal 0
+betweenness of note643 is 0.0
+the times of shortest path though node644 equal 0
+betweenness of note644 is 0.0
+the times of shortest path though node645 equal 0
+betweenness of note645 is 0.0
+the times of shortest path though node646 equal 0
+betweenness of note646 is 0.0
+the times of shortest path though node647 equal 0
+betweenness of note647 is 0.0
+the times of shortest path though node648 equal 0
+betweenness of note648 is 0.0
+the times of shortest path though node649 equal 0
+betweenness of note649 is 0.0
+the times of shortest path though node650 equal 0
+betweenness of note650 is 0.0
+the times of shortest path though node651 equal 0
+betweenness of note651 is 0.0
+the times of shortest path though node652 equal 0
+betweenness of note652 is 0.0
+the times of shortest path though node653 equal 0
+betweenness of note653 is 0.0
+the times of shortest path though node654 equal 0
+betweenness of note654 is 0.0
+the times of shortest path though node655 equal 0
+betweenness of note655 is 0.0
+the times of shortest path though node656 equal 0
+betweenness of note656 is 0.0
+the times of shortest path though node657 equal 0
+betweenness of note657 is 0.0
+the times of shortest path though node658 equal 0
+betweenness of note658 is 0.0
+the times of shortest path though node659 equal 0
+betweenness of note659 is 0.0
+the times of shortest path though node660 equal 0
+betweenness of note660 is 0.0
+the times of shortest path though node661 equal 0
+betweenness of note661 is 0.0
+the times of shortest path though node662 equal 0
+betweenness of note662 is 0.0
+the times of shortest path though node663 equal 0
+betweenness of note663 is 0.0
+the times of shortest path though node664 equal 0
+betweenness of note664 is 0.0
+the times of shortest path though node665 equal 0
+betweenness of note665 is 0.0
+the times of shortest path though node666 equal 0
+betweenness of note666 is 0.0
+the times of shortest path though node667 equal 0
+betweenness of note667 is 0.0
+the times of shortest path though node668 equal 0
+betweenness of note668 is 0.0
+the times of shortest path though node669 equal 0
+betweenness of note669 is 0.0
+the times of shortest path though node670 equal 0
+betweenness of note670 is 0.0
+the times of shortest path though node671 equal 0
+betweenness of note671 is 0.0
+the times of shortest path though node672 equal 0
+betweenness of note672 is 0.0
+the times of shortest path though node673 equal 0
+betweenness of note673 is 0.0
+the times of shortest path though node674 equal 0
+betweenness of note674 is 0.0
+the times of shortest path though node675 equal 0
+betweenness of note675 is 0.0
+the times of shortest path though node676 equal 0
+betweenness of note676 is 0.0
+the times of shortest path though node677 equal 0
+betweenness of note677 is 0.0
+the times of shortest path though node678 equal 0
+betweenness of note678 is 0.0
+the times of shortest path though node679 equal 0
+betweenness of note679 is 0.0
+the times of shortest path though node680 equal 0
+betweenness of note680 is 0.0
+the times of shortest path though node681 equal 0
+betweenness of note681 is 0.0
+the times of shortest path though node682 equal 0
+betweenness of note682 is 0.0
+the times of shortest path though node683 equal 0
+betweenness of note683 is 0.0
+the times of shortest path though node684 equal 0
+betweenness of note684 is 0.0
+the times of shortest path though node685 equal 0
+betweenness of note685 is 0.0
+the times of shortest path though node686 equal 0
+betweenness of note686 is 0.0
+the times of shortest path though node687 equal 0
+betweenness of note687 is 0.0
+the times of shortest path though node688 equal 0
+betweenness of note688 is 0.0
+the times of shortest path though node689 equal 0
+betweenness of note689 is 0.0
+the times of shortest path though node690 equal 0
+betweenness of note690 is 0.0
+the times of shortest path though node691 equal 0
+betweenness of note691 is 0.0
+the times of shortest path though node692 equal 0
+betweenness of note692 is 0.0
+the times of shortest path though node693 equal 0
+betweenness of note693 is 0.0
+the times of shortest path though node694 equal 0
+betweenness of note694 is 0.0
+the times of shortest path though node695 equal 0
+betweenness of note695 is 0.0
+the times of shortest path though node696 equal 0
+betweenness of note696 is 0.0
+the times of shortest path though node697 equal 0
+betweenness of note697 is 0.0
+the times of shortest path though node698 equal 0
+betweenness of note698 is 0.0
+the times of shortest path though node699 equal 0
+betweenness of note699 is 0.0
+the times of shortest path though node700 equal 0
+betweenness of note700 is 0.0
+the times of shortest path though node701 equal 0
+betweenness of note701 is 0.0
+the times of shortest path though node702 equal 0
+betweenness of note702 is 0.0
+the times of shortest path though node703 equal 0
+betweenness of note703 is 0.0
+the times of shortest path though node704 equal 0
+betweenness of note704 is 0.0
+the times of shortest path though node705 equal 0
+betweenness of note705 is 0.0
+the times of shortest path though node706 equal 0
+betweenness of note706 is 0.0
+the times of shortest path though node707 equal 0
+betweenness of note707 is 0.0
+the times of shortest path though node708 equal 0
+betweenness of note708 is 0.0
+the times of shortest path though node709 equal 0
+betweenness of note709 is 0.0
+the times of shortest path though node710 equal 0
+betweenness of note710 is 0.0
+the times of shortest path though node711 equal 0
+betweenness of note711 is 0.0
+the times of shortest path though node712 equal 0
+betweenness of note712 is 0.0
+the times of shortest path though node713 equal 0
+betweenness of note713 is 0.0
+the times of shortest path though node714 equal 0
+betweenness of note714 is 0.0
+the times of shortest path though node715 equal 0
+betweenness of note715 is 0.0
+the times of shortest path though node716 equal 0
+betweenness of note716 is 0.0
+the times of shortest path though node717 equal 0
+betweenness of note717 is 0.0
+the times of shortest path though node718 equal 0
+betweenness of note718 is 0.0
+the times of shortest path though node719 equal 0
+betweenness of note719 is 0.0
+the times of shortest path though node720 equal 0
+betweenness of note720 is 0.0
+the times of shortest path though node721 equal 0
+betweenness of note721 is 0.0
+the times of shortest path though node722 equal 0
+betweenness of note722 is 0.0
+the times of shortest path though node723 equal 0
+betweenness of note723 is 0.0
+the times of shortest path though node724 equal 0
+betweenness of note724 is 0.0
+the times of shortest path though node725 equal 0
+betweenness of note725 is 0.0
+the times of shortest path though node726 equal 0
+betweenness of note726 is 0.0
+the times of shortest path though node727 equal 0
+betweenness of note727 is 0.0
+the times of shortest path though node728 equal 0
+betweenness of note728 is 0.0
+the times of shortest path though node729 equal 0
+betweenness of note729 is 0.0
+the times of shortest path though node730 equal 0
+betweenness of note730 is 0.0
+the times of shortest path though node731 equal 0
+betweenness of note731 is 0.0
+the times of shortest path though node732 equal 0
+betweenness of note732 is 0.0
+the times of shortest path though node733 equal 0
+betweenness of note733 is 0.0
+the times of shortest path though node734 equal 0
+betweenness of note734 is 0.0
+the times of shortest path though node735 equal 0
+betweenness of note735 is 0.0
+the times of shortest path though node736 equal 0
+betweenness of note736 is 0.0
+the times of shortest path though node737 equal 0
+betweenness of note737 is 0.0
+the times of shortest path though node738 equal 0
+betweenness of note738 is 0.0
+the times of shortest path though node739 equal 0
+betweenness of note739 is 0.0
+the times of shortest path though node740 equal 0
+betweenness of note740 is 0.0
+the times of shortest path though node741 equal 0
+betweenness of note741 is 0.0
+the times of shortest path though node742 equal 0
+betweenness of note742 is 0.0
+the times of shortest path though node743 equal 0
+betweenness of note743 is 0.0
+the times of shortest path though node744 equal 0
+betweenness of note744 is 0.0
+the times of shortest path though node745 equal 0
+betweenness of note745 is 0.0
+the times of shortest path though node746 equal 0
+betweenness of note746 is 0.0
+the times of shortest path though node747 equal 0
+betweenness of note747 is 0.0
+the times of shortest path though node748 equal 0
+betweenness of note748 is 0.0
+the times of shortest path though node749 equal 0
+betweenness of note749 is 0.0
+the times of shortest path though node750 equal 0
+betweenness of note750 is 0.0
+the times of shortest path though node751 equal 0
+betweenness of note751 is 0.0
+the times of shortest path though node752 equal 0
+betweenness of note752 is 0.0
+the times of shortest path though node753 equal 0
+betweenness of note753 is 0.0
+the times of shortest path though node754 equal 0
+betweenness of note754 is 0.0
+the times of shortest path though node755 equal 0
+betweenness of note755 is 0.0
+the times of shortest path though node756 equal 0
+betweenness of note756 is 0.0
+the times of shortest path though node757 equal 0
+betweenness of note757 is 0.0
+the times of shortest path though node758 equal 0
+betweenness of note758 is 0.0
+the times of shortest path though node759 equal 0
+betweenness of note759 is 0.0
+the times of shortest path though node760 equal 0
+betweenness of note760 is 0.0
+the times of shortest path though node761 equal 0
+betweenness of note761 is 0.0
+the times of shortest path though node762 equal 0
+betweenness of note762 is 0.0
+the times of shortest path though node763 equal 0
+betweenness of note763 is 0.0
+the times of shortest path though node764 equal 0
+betweenness of note764 is 0.0
+the times of shortest path though node765 equal 0
+betweenness of note765 is 0.0
+the times of shortest path though node766 equal 0
+betweenness of note766 is 0.0
+the times of shortest path though node767 equal 0
+betweenness of note767 is 0.0
+the times of shortest path though node768 equal 0
+betweenness of note768 is 0.0
+the times of shortest path though node769 equal 0
+betweenness of note769 is 0.0
+the times of shortest path though node770 equal 0
+betweenness of note770 is 0.0
+the times of shortest path though node771 equal 0
+betweenness of note771 is 0.0
+the times of shortest path though node772 equal 0
+betweenness of note772 is 0.0
+the times of shortest path though node773 equal 0
+betweenness of note773 is 0.0
+the times of shortest path though node774 equal 0
+betweenness of note774 is 0.0
+the times of shortest path though node775 equal 0
+betweenness of note775 is 0.0
+the times of shortest path though node776 equal 0
+betweenness of note776 is 0.0
+the times of shortest path though node777 equal 0
+betweenness of note777 is 0.0
+the times of shortest path though node778 equal 0
+betweenness of note778 is 0.0
+the times of shortest path though node779 equal 0
+betweenness of note779 is 0.0
+the times of shortest path though node780 equal 0
+betweenness of note780 is 0.0
+the times of shortest path though node781 equal 0
+betweenness of note781 is 0.0
+the times of shortest path though node782 equal 0
+betweenness of note782 is 0.0
+the times of shortest path though node783 equal 0
+betweenness of note783 is 0.0
+the times of shortest path though node784 equal 0
+betweenness of note784 is 0.0
+the times of shortest path though node785 equal 0
+betweenness of note785 is 0.0
+the times of shortest path though node786 equal 0
+betweenness of note786 is 0.0
+the times of shortest path though node787 equal 0
+betweenness of note787 is 0.0
+the times of shortest path though node788 equal 0
+betweenness of note788 is 0.0
+the times of shortest path though node789 equal 0
+betweenness of note789 is 0.0
+the times of shortest path though node790 equal 0
+betweenness of note790 is 0.0
+the times of shortest path though node791 equal 0
+betweenness of note791 is 0.0
+the times of shortest path though node792 equal 0
+betweenness of note792 is 0.0
+the times of shortest path though node793 equal 0
+betweenness of note793 is 0.0
+the times of shortest path though node794 equal 0
+betweenness of note794 is 0.0
+the times of shortest path though node795 equal 0
+betweenness of note795 is 0.0
+the times of shortest path though node796 equal 0
+betweenness of note796 is 0.0
+the times of shortest path though node797 equal 0
+betweenness of note797 is 0.0
+the times of shortest path though node798 equal 0
+betweenness of note798 is 0.0
+the times of shortest path though node799 equal 0
+betweenness of note799 is 0.0
+the times of shortest path though node800 equal 0
+betweenness of note800 is 0.0
+the times of shortest path though node801 equal 0
+betweenness of note801 is 0.0
+the times of shortest path though node802 equal 0
+betweenness of note802 is 0.0
+the times of shortest path though node803 equal 0
+betweenness of note803 is 0.0
+the times of shortest path though node804 equal 0
+betweenness of note804 is 0.0
+the times of shortest path though node805 equal 0
+betweenness of note805 is 0.0
+the times of shortest path though node806 equal 0
+betweenness of note806 is 0.0
+the times of shortest path though node807 equal 0
+betweenness of note807 is 0.0
+the times of shortest path though node808 equal 0
+betweenness of note808 is 0.0
+the times of shortest path though node809 equal 0
+betweenness of note809 is 0.0
+the times of shortest path though node810 equal 0
+betweenness of note810 is 0.0
+the times of shortest path though node811 equal 0
+betweenness of note811 is 0.0
+the times of shortest path though node812 equal 0
+betweenness of note812 is 0.0
+the times of shortest path though node813 equal 0
+betweenness of note813 is 0.0
+the times of shortest path though node814 equal 0
+betweenness of note814 is 0.0
+the times of shortest path though node815 equal 0
+betweenness of note815 is 0.0
+the times of shortest path though node816 equal 0
+betweenness of note816 is 0.0
+the times of shortest path though node817 equal 0
+betweenness of note817 is 0.0
+the times of shortest path though node818 equal 0
+betweenness of note818 is 0.0
+the times of shortest path though node819 equal 0
+betweenness of note819 is 0.0
+the times of shortest path though node820 equal 0
+betweenness of note820 is 0.0
+the times of shortest path though node821 equal 0
+betweenness of note821 is 0.0
+the times of shortest path though node822 equal 0
+betweenness of note822 is 0.0
+the times of shortest path though node823 equal 0
+betweenness of note823 is 0.0
+the times of shortest path though node824 equal 0
+betweenness of note824 is 0.0
+the times of shortest path though node825 equal 0
+betweenness of note825 is 0.0
+the times of shortest path though node826 equal 0
+betweenness of note826 is 0.0
+the times of shortest path though node827 equal 0
+betweenness of note827 is 0.0
+the times of shortest path though node828 equal 0
+betweenness of note828 is 0.0
+the times of shortest path though node829 equal 0
+betweenness of note829 is 0.0
+the times of shortest path though node830 equal 0
+betweenness of note830 is 0.0
+the times of shortest path though node831 equal 0
+betweenness of note831 is 0.0
+the times of shortest path though node832 equal 0
+betweenness of note832 is 0.0
+the times of shortest path though node833 equal 0
+betweenness of note833 is 0.0
+the times of shortest path though node834 equal 0
+betweenness of note834 is 0.0
+the times of shortest path though node835 equal 0
+betweenness of note835 is 0.0
+the times of shortest path though node836 equal 0
+betweenness of note836 is 0.0
+the times of shortest path though node837 equal 0
+betweenness of note837 is 0.0
+the times of shortest path though node838 equal 0
+betweenness of note838 is 0.0
+the times of shortest path though node839 equal 0
+betweenness of note839 is 0.0
+the times of shortest path though node840 equal 0
+betweenness of note840 is 0.0
+the times of shortest path though node841 equal 0
+betweenness of note841 is 0.0
+the times of shortest path though node842 equal 0
+betweenness of note842 is 0.0
+the times of shortest path though node843 equal 0
+betweenness of note843 is 0.0
+the times of shortest path though node844 equal 0
+betweenness of note844 is 0.0
+the times of shortest path though node845 equal 0
+betweenness of note845 is 0.0
+the times of shortest path though node846 equal 0
+betweenness of note846 is 0.0
+the times of shortest path though node847 equal 0
+betweenness of note847 is 0.0
+the times of shortest path though node848 equal 0
+betweenness of note848 is 0.0
+the times of shortest path though node849 equal 0
+betweenness of note849 is 0.0
+the times of shortest path though node850 equal 0
+betweenness of note850 is 0.0
+the times of shortest path though node851 equal 0
+betweenness of note851 is 0.0
+the times of shortest path though node852 equal 0
+betweenness of note852 is 0.0
+the times of shortest path though node853 equal 0
+betweenness of note853 is 0.0
+the times of shortest path though node854 equal 0
+betweenness of note854 is 0.0
+the times of shortest path though node855 equal 0
+betweenness of note855 is 0.0
+the times of shortest path though node856 equal 0
+betweenness of note856 is 0.0
+the times of shortest path though node857 equal 0
+betweenness of note857 is 0.0
+the times of shortest path though node858 equal 0
+betweenness of note858 is 0.0
+the times of shortest path though node859 equal 0
+betweenness of note859 is 0.0
+the times of shortest path though node860 equal 0
+betweenness of note860 is 0.0
+the times of shortest path though node861 equal 0
+betweenness of note861 is 0.0
+the times of shortest path though node862 equal 0
+betweenness of note862 is 0.0
+the times of shortest path though node863 equal 0
+betweenness of note863 is 0.0
+the times of shortest path though node864 equal 0
+betweenness of note864 is 0.0
+the times of shortest path though node865 equal 0
+betweenness of note865 is 0.0
+the times of shortest path though node866 equal 0
+betweenness of note866 is 0.0
+the times of shortest path though node867 equal 0
+betweenness of note867 is 0.0
+the times of shortest path though node868 equal 0
+betweenness of note868 is 0.0
+the times of shortest path though node869 equal 0
+betweenness of note869 is 0.0
+the times of shortest path though node870 equal 0
+betweenness of note870 is 0.0
+the times of shortest path though node871 equal 0
+betweenness of note871 is 0.0
+the times of shortest path though node872 equal 0
+betweenness of note872 is 0.0
+the times of shortest path though node873 equal 0
+betweenness of note873 is 0.0
+the times of shortest path though node874 equal 0
+betweenness of note874 is 0.0
+the times of shortest path though node875 equal 0
+betweenness of note875 is 0.0
+the times of shortest path though node876 equal 0
+betweenness of note876 is 0.0
+the times of shortest path though node877 equal 0
+betweenness of note877 is 0.0
+the times of shortest path though node878 equal 0
+betweenness of note878 is 0.0
+the times of shortest path though node879 equal 0
+betweenness of note879 is 0.0
+the times of shortest path though node880 equal 0
+betweenness of note880 is 0.0
+the times of shortest path though node881 equal 0
+betweenness of note881 is 0.0
+the times of shortest path though node882 equal 0
+betweenness of note882 is 0.0
+the times of shortest path though node883 equal 0
+betweenness of note883 is 0.0
+the times of shortest path though node884 equal 0
+betweenness of note884 is 0.0
+the times of shortest path though node885 equal 0
+betweenness of note885 is 0.0
+the times of shortest path though node886 equal 0
+betweenness of note886 is 0.0
+the times of shortest path though node887 equal 0
+betweenness of note887 is 0.0
+the times of shortest path though node888 equal 0
+betweenness of note888 is 0.0
+the times of shortest path though node889 equal 0
+betweenness of note889 is 0.0
+the times of shortest path though node890 equal 0
+betweenness of note890 is 0.0
+the times of shortest path though node891 equal 0
+betweenness of note891 is 0.0
+the times of shortest path though node892 equal 0
+betweenness of note892 is 0.0
+the times of shortest path though node893 equal 0
+betweenness of note893 is 0.0
+the times of shortest path though node894 equal 0
+betweenness of note894 is 0.0
+the times of shortest path though node895 equal 0
+betweenness of note895 is 0.0
+the times of shortest path though node896 equal 0
+betweenness of note896 is 0.0
+the times of shortest path though node897 equal 0
+betweenness of note897 is 0.0
+the times of shortest path though node898 equal 0
+betweenness of note898 is 0.0
+the times of shortest path though node899 equal 0
+betweenness of note899 is 0.0
+the times of shortest path though node900 equal 0
+betweenness of note900 is 0.0
+the times of shortest path though node901 equal 0
+betweenness of note901 is 0.0
+the times of shortest path though node902 equal 0
+betweenness of note902 is 0.0
+the times of shortest path though node903 equal 0
+betweenness of note903 is 0.0
+the times of shortest path though node904 equal 0
+betweenness of note904 is 0.0
+the times of shortest path though node905 equal 0
+betweenness of note905 is 0.0
+the times of shortest path though node906 equal 0
+betweenness of note906 is 0.0
+the times of shortest path though node907 equal 0
+betweenness of note907 is 0.0
+the times of shortest path though node908 equal 0
+betweenness of note908 is 0.0
+the times of shortest path though node909 equal 0
+betweenness of note909 is 0.0
+the times of shortest path though node910 equal 0
+betweenness of note910 is 0.0
+the times of shortest path though node911 equal 0
+betweenness of note911 is 0.0
+the times of shortest path though node912 equal 0
+betweenness of note912 is 0.0
+the times of shortest path though node913 equal 0
+betweenness of note913 is 0.0
+the times of shortest path though node914 equal 0
+betweenness of note914 is 0.0
+the times of shortest path though node915 equal 0
+betweenness of note915 is 0.0
+the times of shortest path though node916 equal 0
+betweenness of note916 is 0.0
+the times of shortest path though node917 equal 0
+betweenness of note917 is 0.0
+the times of shortest path though node918 equal 0
+betweenness of note918 is 0.0
+the times of shortest path though node919 equal 0
+betweenness of note919 is 0.0
+the times of shortest path though node920 equal 0
+betweenness of note920 is 0.0
+the times of shortest path though node921 equal 0
+betweenness of note921 is 0.0
+the times of shortest path though node922 equal 0
+betweenness of note922 is 0.0
+the times of shortest path though node923 equal 0
+betweenness of note923 is 0.0
+the times of shortest path though node924 equal 0
+betweenness of note924 is 0.0
+the times of shortest path though node925 equal 0
+betweenness of note925 is 0.0
+the times of shortest path though node926 equal 0
+betweenness of note926 is 0.0
+the times of shortest path though node927 equal 0
+betweenness of note927 is 0.0
+the times of shortest path though node928 equal 0
+betweenness of note928 is 0.0
+the times of shortest path though node929 equal 0
+betweenness of note929 is 0.0
+the times of shortest path though node930 equal 0
+betweenness of note930 is 0.0
+the times of shortest path though node931 equal 0
+betweenness of note931 is 0.0
+the times of shortest path though node932 equal 0
+betweenness of note932 is 0.0
+the times of shortest path though node933 equal 0
+betweenness of note933 is 0.0
+the times of shortest path though node934 equal 0
+betweenness of note934 is 0.0
+the times of shortest path though node935 equal 0
+betweenness of note935 is 0.0
+the times of shortest path though node936 equal 0
+betweenness of note936 is 0.0
+the times of shortest path though node937 equal 0
+betweenness of note937 is 0.0
+the times of shortest path though node938 equal 0
+betweenness of note938 is 0.0
+the times of shortest path though node939 equal 0
+betweenness of note939 is 0.0
+the times of shortest path though node940 equal 0
+betweenness of note940 is 0.0
+the times of shortest path though node941 equal 0
+betweenness of note941 is 0.0
+the times of shortest path though node942 equal 0
+betweenness of note942 is 0.0
+the times of shortest path though node943 equal 0
+betweenness of note943 is 0.0
+the times of shortest path though node944 equal 0
+betweenness of note944 is 0.0
+the times of shortest path though node945 equal 0
+betweenness of note945 is 0.0
+the times of shortest path though node946 equal 0
+betweenness of note946 is 0.0
+the times of shortest path though node947 equal 0
+betweenness of note947 is 0.0
+the times of shortest path though node948 equal 0
+betweenness of note948 is 0.0
+the times of shortest path though node949 equal 0
+betweenness of note949 is 0.0
+the times of shortest path though node950 equal 0
+betweenness of note950 is 0.0
+the times of shortest path though node951 equal 0
+betweenness of note951 is 0.0
+the times of shortest path though node952 equal 0
+betweenness of note952 is 0.0
+the times of shortest path though node953 equal 0
+betweenness of note953 is 0.0
+the times of shortest path though node954 equal 0
+betweenness of note954 is 0.0
+the times of shortest path though node955 equal 0
+betweenness of note955 is 0.0
+the times of shortest path though node956 equal 0
+betweenness of note956 is 0.0
+the times of shortest path though node957 equal 0
+betweenness of note957 is 0.0
+the times of shortest path though node958 equal 0
+betweenness of note958 is 0.0
+the times of shortest path though node959 equal 0
+betweenness of note959 is 0.0
+the times of shortest path though node960 equal 0
+betweenness of note960 is 0.0
+the times of shortest path though node961 equal 0
+betweenness of note961 is 0.0
+the times of shortest path though node962 equal 0
+betweenness of note962 is 0.0
+the times of shortest path though node963 equal 0
+betweenness of note963 is 0.0
+the times of shortest path though node964 equal 0
+betweenness of note964 is 0.0
+the times of shortest path though node965 equal 0
+betweenness of note965 is 0.0
+the times of shortest path though node966 equal 0
+betweenness of note966 is 0.0
+the times of shortest path though node967 equal 0
+betweenness of note967 is 0.0
+the times of shortest path though node968 equal 0
+betweenness of note968 is 0.0
+the times of shortest path though node969 equal 0
+betweenness of note969 is 0.0
+the times of shortest path though node970 equal 0
+betweenness of note970 is 0.0
+the times of shortest path though node971 equal 0
+betweenness of note971 is 0.0
+the times of shortest path though node972 equal 0
+betweenness of note972 is 0.0
+the times of shortest path though node973 equal 0
+betweenness of note973 is 0.0
+the times of shortest path though node974 equal 0
+betweenness of note974 is 0.0
+the times of shortest path though node975 equal 0
+betweenness of note975 is 0.0
+the times of shortest path though node976 equal 0
+betweenness of note976 is 0.0
+the times of shortest path though node977 equal 0
+betweenness of note977 is 0.0
+the times of shortest path though node978 equal 0
+betweenness of note978 is 0.0
+the times of shortest path though node979 equal 0
+betweenness of note979 is 0.0
+the times of shortest path though node980 equal 0
+betweenness of note980 is 0.0
+the times of shortest path though node981 equal 0
+betweenness of note981 is 0.0
+the times of shortest path though node982 equal 0
+betweenness of note982 is 0.0
+the times of shortest path though node983 equal 0
+betweenness of note983 is 0.0
+the times of shortest path though node984 equal 0
+betweenness of note984 is 0.0
+the times of shortest path though node985 equal 0
+betweenness of note985 is 0.0
+the times of shortest path though node986 equal 0
+betweenness of note986 is 0.0
+the times of shortest path though node987 equal 0
+betweenness of note987 is 0.0
+the times of shortest path though node988 equal 0
+betweenness of note988 is 0.0
+the times of shortest path though node989 equal 0
+betweenness of note989 is 0.0
+the times of shortest path though node990 equal 0
+betweenness of note990 is 0.0
+the times of shortest path though node991 equal 0
+betweenness of note991 is 0.0
+the times of shortest path though node992 equal 0
+betweenness of note992 is 0.0
+the times of shortest path though node993 equal 0
+betweenness of note993 is 0.0
+the times of shortest path though node994 equal 0
+betweenness of note994 is 0.0
+the times of shortest path though node995 equal 0
+betweenness of note995 is 0.0
+the times of shortest path though node996 equal 0
+betweenness of note996 is 0.0
+the times of shortest path though node997 equal 0
+betweenness of note997 is 0.0
+the times of shortest path though node998 equal 0
+betweenness of note998 is 0.0
+the times of shortest path though node999 equal 0
+betweenness of note999 is 0.0
+the times of shortest path though node1000 equal 0
+betweenness of note1000 is 0.0
+the times of shortest path though node1001 equal 0
+betweenness of note1001 is 0.0
+the times of shortest path though node1002 equal 0
+betweenness of note1002 is 0.0
+the times of shortest path though node1003 equal 0
+betweenness of note1003 is 0.0
+the times of shortest path though node1004 equal 0
+betweenness of note1004 is 0.0
+the times of shortest path though node1005 equal 0
+betweenness of note1005 is 0.0
+the times of shortest path though node1006 equal 0
+betweenness of note1006 is 0.0
+the times of shortest path though node1007 equal 0
+betweenness of note1007 is 0.0
+the times of shortest path though node1008 equal 0
+betweenness of note1008 is 0.0
+the times of shortest path though node1009 equal 0
+betweenness of note1009 is 0.0
+the times of shortest path though node1010 equal 0
+betweenness of note1010 is 0.0
+the times of shortest path though node1011 equal 0
+betweenness of note1011 is 0.0
+the times of shortest path though node1012 equal 0
+betweenness of note1012 is 0.0
+the times of shortest path though node1013 equal 0
+betweenness of note1013 is 0.0
+the times of shortest path though node1014 equal 0
+betweenness of note1014 is 0.0
+the times of shortest path though node1015 equal 0
+betweenness of note1015 is 0.0
+the times of shortest path though node1016 equal 0
+betweenness of note1016 is 0.0
+the times of shortest path though node1017 equal 0
+betweenness of note1017 is 0.0
+the times of shortest path though node1018 equal 0
+betweenness of note1018 is 0.0
+the times of shortest path though node1019 equal 0
+betweenness of note1019 is 0.0
+the times of shortest path though node1020 equal 0
+betweenness of note1020 is 0.0
+the times of shortest path though node1021 equal 0
+betweenness of note1021 is 0.0
+the times of shortest path though node1022 equal 0
+betweenness of note1022 is 0.0
+the times of shortest path though node1023 equal 0
+betweenness of note1023 is 0.0
+the times of shortest path though node1024 equal 0
+betweenness of note1024 is 0.0
+the times of shortest path though node1025 equal 0
+betweenness of note1025 is 0.0
+the times of shortest path though node1026 equal 0
+betweenness of note1026 is 0.0
+the times of shortest path though node1027 equal 0
+betweenness of note1027 is 0.0
+the times of shortest path though node1028 equal 0
+betweenness of note1028 is 0.0
+the times of shortest path though node1029 equal 0
+betweenness of note1029 is 0.0
+the times of shortest path though node1030 equal 0
+betweenness of note1030 is 0.0
+the times of shortest path though node1031 equal 0
+betweenness of note1031 is 0.0
+the times of shortest path though node1032 equal 0
+betweenness of note1032 is 0.0
+the times of shortest path though node1033 equal 0
+betweenness of note1033 is 0.0
+the times of shortest path though node1034 equal 0
+betweenness of note1034 is 0.0
+the times of shortest path though node1035 equal 0
+betweenness of note1035 is 0.0
+the times of shortest path though node1036 equal 0
+betweenness of note1036 is 0.0
+the times of shortest path though node1037 equal 0
+betweenness of note1037 is 0.0
+the times of shortest path though node1038 equal 0
+betweenness of note1038 is 0.0
+the times of shortest path though node1039 equal 0
+betweenness of note1039 is 0.0
+the times of shortest path though node1040 equal 0
+betweenness of note1040 is 0.0
+the times of shortest path though node1041 equal 0
+betweenness of note1041 is 0.0
+the times of shortest path though node1042 equal 0
+betweenness of note1042 is 0.0
+the times of shortest path though node1043 equal 0
+betweenness of note1043 is 0.0
+the times of shortest path though node1044 equal 0
+betweenness of note1044 is 0.0
+the times of shortest path though node1045 equal 0
+betweenness of note1045 is 0.0
+the times of shortest path though node1046 equal 0
+betweenness of note1046 is 0.0
+the times of shortest path though node1047 equal 0
+betweenness of note1047 is 0.0
+the times of shortest path though node1048 equal 0
+betweenness of note1048 is 0.0
+the times of shortest path though node1049 equal 0
+betweenness of note1049 is 0.0
+the times of shortest path though node1050 equal 0
+betweenness of note1050 is 0.0
+the times of shortest path though node1051 equal 0
+betweenness of note1051 is 0.0
+the times of shortest path though node1052 equal 0
+betweenness of note1052 is 0.0
+the times of shortest path though node1053 equal 0
+betweenness of note1053 is 0.0
+the times of shortest path though node1054 equal 0
+betweenness of note1054 is 0.0
+the times of shortest path though node1055 equal 0
+betweenness of note1055 is 0.0
+the times of shortest path though node1056 equal 0
+betweenness of note1056 is 0.0
+the times of shortest path though node1057 equal 0
+betweenness of note1057 is 0.0
+the times of shortest path though node1058 equal 0
+betweenness of note1058 is 0.0
+the times of shortest path though node1059 equal 0
+betweenness of note1059 is 0.0
+the times of shortest path though node1060 equal 0
+betweenness of note1060 is 0.0
+the times of shortest path though node1061 equal 0
+betweenness of note1061 is 0.0
+the times of shortest path though node1062 equal 0
+betweenness of note1062 is 0.0
+the times of shortest path though node1063 equal 0
+betweenness of note1063 is 0.0
+the times of shortest path though node1064 equal 0
+betweenness of note1064 is 0.0
+the times of shortest path though node1065 equal 0
+betweenness of note1065 is 0.0
+the times of shortest path though node1066 equal 0
+betweenness of note1066 is 0.0
+the times of shortest path though node1067 equal 0
+betweenness of note1067 is 0.0
+the times of shortest path though node1068 equal 0
+betweenness of note1068 is 0.0
+the times of shortest path though node1069 equal 0
+betweenness of note1069 is 0.0
+the times of shortest path though node1070 equal 0
+betweenness of note1070 is 0.0
+the times of shortest path though node1071 equal 0
+betweenness of note1071 is 0.0
+the times of shortest path though node1072 equal 0
+betweenness of note1072 is 0.0
+the times of shortest path though node1073 equal 0
+betweenness of note1073 is 0.0
+the times of shortest path though node1074 equal 0
+betweenness of note1074 is 0.0
+the times of shortest path though node1075 equal 0
+betweenness of note1075 is 0.0
+the times of shortest path though node1076 equal 0
+betweenness of note1076 is 0.0
+the times of shortest path though node1077 equal 0
+betweenness of note1077 is 0.0
+the times of shortest path though node1078 equal 0
+betweenness of note1078 is 0.0
+the times of shortest path though node1079 equal 0
+betweenness of note1079 is 0.0
+the times of shortest path though node1080 equal 0
+betweenness of note1080 is 0.0
+the times of shortest path though node1081 equal 0
+betweenness of note1081 is 0.0
+the times of shortest path though node1082 equal 0
+betweenness of note1082 is 0.0
+the times of shortest path though node1083 equal 0
+betweenness of note1083 is 0.0
+the times of shortest path though node1084 equal 0
+betweenness of note1084 is 0.0
+the times of shortest path though node1085 equal 0
+betweenness of note1085 is 0.0
+the times of shortest path though node1086 equal 0
+betweenness of note1086 is 0.0
+the times of shortest path though node1087 equal 0
+betweenness of note1087 is 0.0
+the times of shortest path though node1088 equal 0
+betweenness of note1088 is 0.0
+the times of shortest path though node1089 equal 0
+betweenness of note1089 is 0.0
+the times of shortest path though node1090 equal 0
+betweenness of note1090 is 0.0
+the times of shortest path though node1091 equal 0
+betweenness of note1091 is 0.0
+the times of shortest path though node1092 equal 0
+betweenness of note1092 is 0.0
+the times of shortest path though node1093 equal 0
+betweenness of note1093 is 0.0
+the times of shortest path though node1094 equal 0
+betweenness of note1094 is 0.0
+the times of shortest path though node1095 equal 0
+betweenness of note1095 is 0.0
+the times of shortest path though node1096 equal 0
+betweenness of note1096 is 0.0
+the times of shortest path though node1097 equal 0
+betweenness of note1097 is 0.0
+the times of shortest path though node1098 equal 0
+betweenness of note1098 is 0.0
+the times of shortest path though node1099 equal 0
+betweenness of note1099 is 0.0
+the times of shortest path though node1100 equal 0
+betweenness of note1100 is 0.0
+the times of shortest path though node1101 equal 0
+betweenness of note1101 is 0.0
+the times of shortest path though node1102 equal 0
+betweenness of note1102 is 0.0
+the times of shortest path though node1103 equal 0
+betweenness of note1103 is 0.0
+the times of shortest path though node1104 equal 0
+betweenness of note1104 is 0.0
+the times of shortest path though node1105 equal 0
+betweenness of note1105 is 0.0
+the times of shortest path though node1106 equal 0
+betweenness of note1106 is 0.0
+the times of shortest path though node1107 equal 0
+betweenness of note1107 is 0.0
+the times of shortest path though node1108 equal 0
+betweenness of note1108 is 0.0
+the times of shortest path though node1109 equal 0
+betweenness of note1109 is 0.0
+the times of shortest path though node1110 equal 0
+betweenness of note1110 is 0.0
+the times of shortest path though node1111 equal 0
+betweenness of note1111 is 0.0
+the times of shortest path though node1112 equal 0
+betweenness of note1112 is 0.0
+the times of shortest path though node1113 equal 0
+betweenness of note1113 is 0.0
+the times of shortest path though node1114 equal 0
+betweenness of note1114 is 0.0
+the times of shortest path though node1115 equal 0
+betweenness of note1115 is 0.0
+the times of shortest path though node1116 equal 0
+betweenness of note1116 is 0.0
+the times of shortest path though node1117 equal 0
+betweenness of note1117 is 0.0
+the times of shortest path though node1118 equal 0
+betweenness of note1118 is 0.0
+the times of shortest path though node1119 equal 0
+betweenness of note1119 is 0.0
+the times of shortest path though node1120 equal 0
+betweenness of note1120 is 0.0
+the times of shortest path though node1121 equal 0
+betweenness of note1121 is 0.0
+the times of shortest path though node1122 equal 0
+betweenness of note1122 is 0.0
+the times of shortest path though node1123 equal 0
+betweenness of note1123 is 0.0
+the times of shortest path though node1124 equal 0
+betweenness of note1124 is 0.0
+the times of shortest path though node1125 equal 0
+betweenness of note1125 is 0.0
+the times of shortest path though node1126 equal 0
+betweenness of note1126 is 0.0
+the times of shortest path though node1127 equal 0
+betweenness of note1127 is 0.0
+the times of shortest path though node1128 equal 0
+betweenness of note1128 is 0.0
+the times of shortest path though node1129 equal 0
+betweenness of note1129 is 0.0
+the times of shortest path though node1130 equal 0
+betweenness of note1130 is 0.0
+the times of shortest path though node1131 equal 0
+betweenness of note1131 is 0.0
+the times of shortest path though node1132 equal 0
+betweenness of note1132 is 0.0
+the times of shortest path though node1133 equal 0
+betweenness of note1133 is 0.0
+the times of shortest path though node1134 equal 0
+betweenness of note1134 is 0.0
+the times of shortest path though node1135 equal 0
+betweenness of note1135 is 0.0
+the times of shortest path though node1136 equal 0
+betweenness of note1136 is 0.0
+the times of shortest path though node1137 equal 0
+betweenness of note1137 is 0.0
+the times of shortest path though node1138 equal 0
+betweenness of note1138 is 0.0
+the times of shortest path though node1139 equal 0
+betweenness of note1139 is 0.0
+the times of shortest path though node1140 equal 0
+betweenness of note1140 is 0.0
+the times of shortest path though node1141 equal 0
+betweenness of note1141 is 0.0
+the times of shortest path though node1142 equal 0
+betweenness of note1142 is 0.0
+the times of shortest path though node1143 equal 0
+betweenness of note1143 is 0.0
+the times of shortest path though node1144 equal 0
+betweenness of note1144 is 0.0
+the times of shortest path though node1145 equal 0
+betweenness of note1145 is 0.0
+the times of shortest path though node1146 equal 0
+betweenness of note1146 is 0.0
+the times of shortest path though node1147 equal 0
+betweenness of note1147 is 0.0
+the times of shortest path though node1148 equal 0
+betweenness of note1148 is 0.0
+the times of shortest path though node1149 equal 0
+betweenness of note1149 is 0.0
+the times of shortest path though node1150 equal 0
+betweenness of note1150 is 0.0
+the times of shortest path though node1151 equal 0
+betweenness of note1151 is 0.0
+the times of shortest path though node1152 equal 0
+betweenness of note1152 is 0.0
+the times of shortest path though node1153 equal 0
+betweenness of note1153 is 0.0
+the times of shortest path though node1154 equal 0
+betweenness of note1154 is 0.0
+the times of shortest path though node1155 equal 0
+betweenness of note1155 is 0.0
+the times of shortest path though node1156 equal 0
+betweenness of note1156 is 0.0
+the times of shortest path though node1157 equal 0
+betweenness of note1157 is 0.0
+the times of shortest path though node1158 equal 0
+betweenness of note1158 is 0.0
+the times of shortest path though node1159 equal 0
+betweenness of note1159 is 0.0
+the times of shortest path though node1160 equal 0
+betweenness of note1160 is 0.0
+the times of shortest path though node1161 equal 0
+betweenness of note1161 is 0.0
+the times of shortest path though node1162 equal 0
+betweenness of note1162 is 0.0
+the times of shortest path though node1163 equal 0
+betweenness of note1163 is 0.0
+the times of shortest path though node1164 equal 0
+betweenness of note1164 is 0.0
+the times of shortest path though node1165 equal 0
+betweenness of note1165 is 0.0
+the times of shortest path though node1166 equal 0
+betweenness of note1166 is 0.0
+the times of shortest path though node1167 equal 0
+betweenness of note1167 is 0.0
+the times of shortest path though node1168 equal 0
+betweenness of note1168 is 0.0
+the times of shortest path though node1169 equal 0
+betweenness of note1169 is 0.0
+the times of shortest path though node1170 equal 0
+betweenness of note1170 is 0.0
+the times of shortest path though node1171 equal 0
+betweenness of note1171 is 0.0
+the times of shortest path though node1172 equal 0
+betweenness of note1172 is 0.0
+the times of shortest path though node1173 equal 0
+betweenness of note1173 is 0.0
+the times of shortest path though node1174 equal 0
+betweenness of note1174 is 0.0
+the times of shortest path though node1175 equal 0
+betweenness of note1175 is 0.0
+the times of shortest path though node1176 equal 0
+betweenness of note1176 is 0.0
+the times of shortest path though node1177 equal 0
+betweenness of note1177 is 0.0
+the times of shortest path though node1178 equal 0
+betweenness of note1178 is 0.0
+the times of shortest path though node1179 equal 0
+betweenness of note1179 is 0.0
+the times of shortest path though node1180 equal 0
+betweenness of note1180 is 0.0
+the times of shortest path though node1181 equal 0
+betweenness of note1181 is 0.0
+the times of shortest path though node1182 equal 0
+betweenness of note1182 is 0.0
+the times of shortest path though node1183 equal 0
+betweenness of note1183 is 0.0
+the times of shortest path though node1184 equal 0
+betweenness of note1184 is 0.0
+the times of shortest path though node1185 equal 0
+betweenness of note1185 is 0.0
+the times of shortest path though node1186 equal 0
+betweenness of note1186 is 0.0
+the times of shortest path though node1187 equal 0
+betweenness of note1187 is 0.0
+the times of shortest path though node1188 equal 0
+betweenness of note1188 is 0.0
+the times of shortest path though node1189 equal 0
+betweenness of note1189 is 0.0
+the times of shortest path though node1190 equal 0
+betweenness of note1190 is 0.0
+the times of shortest path though node1191 equal 0
+betweenness of note1191 is 0.0
+the times of shortest path though node1192 equal 0
+betweenness of note1192 is 0.0
+the times of shortest path though node1193 equal 0
+betweenness of note1193 is 0.0
+the times of shortest path though node1194 equal 0
+betweenness of note1194 is 0.0
+the times of shortest path though node1195 equal 0
+betweenness of note1195 is 0.0
+the times of shortest path though node1196 equal 0
+betweenness of note1196 is 0.0
+the times of shortest path though node1197 equal 0
+betweenness of note1197 is 0.0
+the times of shortest path though node1198 equal 0
+betweenness of note1198 is 0.0
+the times of shortest path though node1199 equal 0
+betweenness of note1199 is 0.0
+the times of shortest path though node1200 equal 0
+betweenness of note1200 is 0.0
+the times of shortest path though node1201 equal 0
+betweenness of note1201 is 0.0
+the times of shortest path though node1202 equal 0
+betweenness of note1202 is 0.0
+the times of shortest path though node1203 equal 0
+betweenness of note1203 is 0.0
+the times of shortest path though node1204 equal 0
+betweenness of note1204 is 0.0
+the times of shortest path though node1205 equal 0
+betweenness of note1205 is 0.0
+the times of shortest path though node1206 equal 0
+betweenness of note1206 is 0.0
+the times of shortest path though node1207 equal 0
+betweenness of note1207 is 0.0
+the times of shortest path though node1208 equal 0
+betweenness of note1208 is 0.0
+the times of shortest path though node1209 equal 0
+betweenness of note1209 is 0.0
+the times of shortest path though node1210 equal 0
+betweenness of note1210 is 0.0
+the times of shortest path though node1211 equal 0
+betweenness of note1211 is 0.0
+the times of shortest path though node1212 equal 0
+betweenness of note1212 is 0.0
+the times of shortest path though node1213 equal 0
+betweenness of note1213 is 0.0
+the times of shortest path though node1214 equal 0
+betweenness of note1214 is 0.0
+the times of shortest path though node1215 equal 0
+betweenness of note1215 is 0.0
+the times of shortest path though node1216 equal 0
+betweenness of note1216 is 0.0
+the times of shortest path though node1217 equal 0
+betweenness of note1217 is 0.0
+the times of shortest path though node1218 equal 0
+betweenness of note1218 is 0.0
+the times of shortest path though node1219 equal 0
+betweenness of note1219 is 0.0
+the times of shortest path though node1220 equal 0
+betweenness of note1220 is 0.0
+the times of shortest path though node1221 equal 0
+betweenness of note1221 is 0.0
+the times of shortest path though node1222 equal 0
+betweenness of note1222 is 0.0
+the times of shortest path though node1223 equal 0
+betweenness of note1223 is 0.0
+the times of shortest path though node1224 equal 0
+betweenness of note1224 is 0.0
+the times of shortest path though node1225 equal 0
+betweenness of note1225 is 0.0
+the times of shortest path though node1226 equal 0
+betweenness of note1226 is 0.0
+the times of shortest path though node1227 equal 0
+betweenness of note1227 is 0.0
+the times of shortest path though node1228 equal 0
+betweenness of note1228 is 0.0
+the times of shortest path though node1229 equal 0
+betweenness of note1229 is 0.0
+the times of shortest path though node1230 equal 0
+betweenness of note1230 is 0.0
+the times of shortest path though node1231 equal 0
+betweenness of note1231 is 0.0
+the times of shortest path though node1232 equal 0
+betweenness of note1232 is 0.0
+the times of shortest path though node1233 equal 0
+betweenness of note1233 is 0.0
+the times of shortest path though node1234 equal 0
+betweenness of note1234 is 0.0
+the times of shortest path though node1235 equal 0
+betweenness of note1235 is 0.0
+the times of shortest path though node1236 equal 0
+betweenness of note1236 is 0.0
+the times of shortest path though node1237 equal 0
+betweenness of note1237 is 0.0
+the times of shortest path though node1238 equal 0
+betweenness of note1238 is 0.0
+the times of shortest path though node1239 equal 0
+betweenness of note1239 is 0.0
+the times of shortest path though node1240 equal 0
+betweenness of note1240 is 0.0
+the times of shortest path though node1241 equal 0
+betweenness of note1241 is 0.0
+the times of shortest path though node1242 equal 0
+betweenness of note1242 is 0.0
+the times of shortest path though node1243 equal 0
+betweenness of note1243 is 0.0
+the times of shortest path though node1244 equal 0
+betweenness of note1244 is 0.0
+the times of shortest path though node1245 equal 0
+betweenness of note1245 is 0.0
+the times of shortest path though node1246 equal 0
+betweenness of note1246 is 0.0
+the times of shortest path though node1247 equal 0
+betweenness of note1247 is 0.0
+the times of shortest path though node1248 equal 0
+betweenness of note1248 is 0.0
+the times of shortest path though node1249 equal 0
+betweenness of note1249 is 0.0
+the times of shortest path though node1250 equal 0
+betweenness of note1250 is 0.0
+the times of shortest path though node1251 equal 0
+betweenness of note1251 is 0.0
+the times of shortest path though node1252 equal 0
+betweenness of note1252 is 0.0
+the times of shortest path though node1253 equal 0
+betweenness of note1253 is 0.0
+the times of shortest path though node1254 equal 0
+betweenness of note1254 is 0.0
+the times of shortest path though node1255 equal 0
+betweenness of note1255 is 0.0
+the times of shortest path though node1256 equal 0
+betweenness of note1256 is 0.0
+the times of shortest path though node1257 equal 0
+betweenness of note1257 is 0.0
+the times of shortest path though node1258 equal 0
+betweenness of note1258 is 0.0
+the times of shortest path though node1259 equal 0
+betweenness of note1259 is 0.0
+the times of shortest path though node1260 equal 0
+betweenness of note1260 is 0.0
+the times of shortest path though node1261 equal 0
+betweenness of note1261 is 0.0
+the times of shortest path though node1262 equal 0
+betweenness of note1262 is 0.0
+the times of shortest path though node1263 equal 0
+betweenness of note1263 is 0.0
+the times of shortest path though node1264 equal 0
+betweenness of note1264 is 0.0
+the times of shortest path though node1265 equal 0
+betweenness of note1265 is 0.0
+the times of shortest path though node1266 equal 0
+betweenness of note1266 is 0.0
+the times of shortest path though node1267 equal 0
+betweenness of note1267 is 0.0
+the times of shortest path though node1268 equal 0
+betweenness of note1268 is 0.0
+the times of shortest path though node1269 equal 0
+betweenness of note1269 is 0.0
+the times of shortest path though node1270 equal 0
+betweenness of note1270 is 0.0
+the times of shortest path though node1271 equal 0
+betweenness of note1271 is 0.0
+the times of shortest path though node1272 equal 0
+betweenness of note1272 is 0.0
+the times of shortest path though node1273 equal 0
+betweenness of note1273 is 0.0
+the times of shortest path though node1274 equal 0
+betweenness of note1274 is 0.0
+the times of shortest path though node1275 equal 0
+betweenness of note1275 is 0.0
+the times of shortest path though node1276 equal 0
+betweenness of note1276 is 0.0
+the times of shortest path though node1277 equal 0
+betweenness of note1277 is 0.0
+the times of shortest path though node1278 equal 0
+betweenness of note1278 is 0.0
+the times of shortest path though node1279 equal 0
+betweenness of note1279 is 0.0
+the times of shortest path though node1280 equal 0
+betweenness of note1280 is 0.0
+the times of shortest path though node1281 equal 0
+betweenness of note1281 is 0.0
+the times of shortest path though node1282 equal 0
+betweenness of note1282 is 0.0
+the times of shortest path though node1283 equal 0
+betweenness of note1283 is 0.0
+the times of shortest path though node1284 equal 0
+betweenness of note1284 is 0.0
+the times of shortest path though node1285 equal 0
+betweenness of note1285 is 0.0
+the times of shortest path though node1286 equal 0
+betweenness of note1286 is 0.0
+the times of shortest path though node1287 equal 0
+betweenness of note1287 is 0.0
+the times of shortest path though node1288 equal 0
+betweenness of note1288 is 0.0
+the times of shortest path though node1289 equal 0
+betweenness of note1289 is 0.0
+the times of shortest path though node1290 equal 0
+betweenness of note1290 is 0.0
+the times of shortest path though node1291 equal 0
+betweenness of note1291 is 0.0
+the times of shortest path though node1292 equal 0
+betweenness of note1292 is 0.0
+the times of shortest path though node1293 equal 0
+betweenness of note1293 is 0.0
+the times of shortest path though node1294 equal 0
+betweenness of note1294 is 0.0
+the times of shortest path though node1295 equal 0
+betweenness of note1295 is 0.0
+the times of shortest path though node1296 equal 0
+betweenness of note1296 is 0.0
+the times of shortest path though node1297 equal 0
+betweenness of note1297 is 0.0
+the times of shortest path though node1298 equal 0
+betweenness of note1298 is 0.0
+the times of shortest path though node1299 equal 0
+betweenness of note1299 is 0.0
+the times of shortest path though node1300 equal 0
+betweenness of note1300 is 0.0
+the times of shortest path though node1301 equal 0
+betweenness of note1301 is 0.0
+the times of shortest path though node1302 equal 0
+betweenness of note1302 is 0.0
+the times of shortest path though node1303 equal 0
+betweenness of note1303 is 0.0
+the times of shortest path though node1304 equal 0
+betweenness of note1304 is 0.0
+the times of shortest path though node1305 equal 0
+betweenness of note1305 is 0.0
+the times of shortest path though node1306 equal 0
+betweenness of note1306 is 0.0
+the times of shortest path though node1307 equal 0
+betweenness of note1307 is 0.0
+the times of shortest path though node1308 equal 0
+betweenness of note1308 is 0.0
+the times of shortest path though node1309 equal 0
+betweenness of note1309 is 0.0
+the times of shortest path though node1310 equal 0
+betweenness of note1310 is 0.0
+the times of shortest path though node1311 equal 0
+betweenness of note1311 is 0.0
+the times of shortest path though node1312 equal 0
+betweenness of note1312 is 0.0
+the times of shortest path though node1313 equal 0
+betweenness of note1313 is 0.0
+the times of shortest path though node1314 equal 0
+betweenness of note1314 is 0.0
+the times of shortest path though node1315 equal 0
+betweenness of note1315 is 0.0
+the times of shortest path though node1316 equal 0
+betweenness of note1316 is 0.0
+the times of shortest path though node1317 equal 0
+betweenness of note1317 is 0.0
+the times of shortest path though node1318 equal 0
+betweenness of note1318 is 0.0
+the times of shortest path though node1319 equal 0
+betweenness of note1319 is 0.0
+the times of shortest path though node1320 equal 0
+betweenness of note1320 is 0.0
+the times of shortest path though node1321 equal 0
+betweenness of note1321 is 0.0
+the times of shortest path though node1322 equal 0
+betweenness of note1322 is 0.0
+the times of shortest path though node1323 equal 0
+betweenness of note1323 is 0.0
+the times of shortest path though node1324 equal 0
+betweenness of note1324 is 0.0
+the times of shortest path though node1325 equal 0
+betweenness of note1325 is 0.0
+the times of shortest path though node1326 equal 0
+betweenness of note1326 is 0.0
+the times of shortest path though node1327 equal 0
+betweenness of note1327 is 0.0
+the times of shortest path though node1328 equal 0
+betweenness of note1328 is 0.0
+the times of shortest path though node1329 equal 0
+betweenness of note1329 is 0.0
+the times of shortest path though node1330 equal 0
+betweenness of note1330 is 0.0
+the times of shortest path though node1331 equal 0
+betweenness of note1331 is 0.0
+the times of shortest path though node1332 equal 0
+betweenness of note1332 is 0.0
+the times of shortest path though node1333 equal 0
+betweenness of note1333 is 0.0
+the times of shortest path though node1334 equal 0
+betweenness of note1334 is 0.0
+the times of shortest path though node1335 equal 0
+betweenness of note1335 is 0.0
+the times of shortest path though node1336 equal 0
+betweenness of note1336 is 0.0
+the times of shortest path though node1337 equal 0
+betweenness of note1337 is 0.0
+the times of shortest path though node1338 equal 0
+betweenness of note1338 is 0.0
+the times of shortest path though node1339 equal 0
+betweenness of note1339 is 0.0
+the times of shortest path though node1340 equal 0
+betweenness of note1340 is 0.0
+the times of shortest path though node1341 equal 0
+betweenness of note1341 is 0.0
+the times of shortest path though node1342 equal 0
+betweenness of note1342 is 0.0
+the times of shortest path though node1343 equal 0
+betweenness of note1343 is 0.0
+the times of shortest path though node1344 equal 0
+betweenness of note1344 is 0.0
+the times of shortest path though node1345 equal 0
+betweenness of note1345 is 0.0
+the times of shortest path though node1346 equal 0
+betweenness of note1346 is 0.0
+the times of shortest path though node1347 equal 0
+betweenness of note1347 is 0.0
+the times of shortest path though node1348 equal 0
+betweenness of note1348 is 0.0
+the times of shortest path though node1349 equal 0
+betweenness of note1349 is 0.0
+the times of shortest path though node1350 equal 0
+betweenness of note1350 is 0.0
+the times of shortest path though node1351 equal 0
+betweenness of note1351 is 0.0
+the times of shortest path though node1352 equal 0
+betweenness of note1352 is 0.0
+the times of shortest path though node1353 equal 0
+betweenness of note1353 is 0.0
+the times of shortest path though node1354 equal 0
+betweenness of note1354 is 0.0
+the times of shortest path though node1355 equal 0
+betweenness of note1355 is 0.0
+the times of shortest path though node1356 equal 0
+betweenness of note1356 is 0.0
+the times of shortest path though node1357 equal 0
+betweenness of note1357 is 0.0
+the times of shortest path though node1358 equal 0
+betweenness of note1358 is 0.0
+the times of shortest path though node1359 equal 0
+betweenness of note1359 is 0.0
+the times of shortest path though node1360 equal 0
+betweenness of note1360 is 0.0
+the times of shortest path though node1361 equal 0
+betweenness of note1361 is 0.0
+the times of shortest path though node1362 equal 0
+betweenness of note1362 is 0.0
+the times of shortest path though node1363 equal 0
+betweenness of note1363 is 0.0
+the times of shortest path though node1364 equal 0
+betweenness of note1364 is 0.0
+the times of shortest path though node1365 equal 0
+betweenness of note1365 is 0.0
+the times of shortest path though node1366 equal 0
+betweenness of note1366 is 0.0
+the times of shortest path though node1367 equal 0
+betweenness of note1367 is 0.0
+the times of shortest path though node1368 equal 0
+betweenness of note1368 is 0.0
+the times of shortest path though node1369 equal 0
+betweenness of note1369 is 0.0
+the times of shortest path though node1370 equal 0
+betweenness of note1370 is 0.0
+the times of shortest path though node1371 equal 0
+betweenness of note1371 is 0.0
+the times of shortest path though node1372 equal 0
+betweenness of note1372 is 0.0
+the times of shortest path though node1373 equal 0
+betweenness of note1373 is 0.0
+the times of shortest path though node1374 equal 0
+betweenness of note1374 is 0.0
+the times of shortest path though node1375 equal 0
+betweenness of note1375 is 0.0
+the times of shortest path though node1376 equal 0
+betweenness of note1376 is 0.0
+the times of shortest path though node1377 equal 0
+betweenness of note1377 is 0.0
+the times of shortest path though node1378 equal 0
+betweenness of note1378 is 0.0
+the times of shortest path though node1379 equal 0
+betweenness of note1379 is 0.0
+the times of shortest path though node1380 equal 0
+betweenness of note1380 is 0.0
+the times of shortest path though node1381 equal 0
+betweenness of note1381 is 0.0
+the times of shortest path though node1382 equal 0
+betweenness of note1382 is 0.0
+the times of shortest path though node1383 equal 0
+betweenness of note1383 is 0.0
+the times of shortest path though node1384 equal 0
+betweenness of note1384 is 0.0
+the times of shortest path though node1385 equal 0
+betweenness of note1385 is 0.0
+the times of shortest path though node1386 equal 0
+betweenness of note1386 is 0.0
+the times of shortest path though node1387 equal 0
+betweenness of note1387 is 0.0
+the times of shortest path though node1388 equal 0
+betweenness of note1388 is 0.0
+the times of shortest path though node1389 equal 0
+betweenness of note1389 is 0.0
+the times of shortest path though node1390 equal 0
+betweenness of note1390 is 0.0
+the times of shortest path though node1391 equal 0
+betweenness of note1391 is 0.0
+the times of shortest path though node1392 equal 0
+betweenness of note1392 is 0.0
+the times of shortest path though node1393 equal 0
+betweenness of note1393 is 0.0
+the times of shortest path though node1394 equal 0
+betweenness of note1394 is 0.0
+the times of shortest path though node1395 equal 0
+betweenness of note1395 is 0.0
+the times of shortest path though node1396 equal 0
+betweenness of note1396 is 0.0
+the times of shortest path though node1397 equal 0
+betweenness of note1397 is 0.0
+the times of shortest path though node1398 equal 0
+betweenness of note1398 is 0.0
+the times of shortest path though node1399 equal 0
+betweenness of note1399 is 0.0
+the times of shortest path though node1400 equal 0
+betweenness of note1400 is 0.0
+the times of shortest path though node1401 equal 0
+betweenness of note1401 is 0.0
+the times of shortest path though node1402 equal 0
+betweenness of note1402 is 0.0
+the times of shortest path though node1403 equal 0
+betweenness of note1403 is 0.0
+the times of shortest path though node1404 equal 0
+betweenness of note1404 is 0.0
+the times of shortest path though node1405 equal 0
+betweenness of note1405 is 0.0
+the times of shortest path though node1406 equal 0
+betweenness of note1406 is 0.0
+the times of shortest path though node1407 equal 0
+betweenness of note1407 is 0.0
+the times of shortest path though node1408 equal 0
+betweenness of note1408 is 0.0
+the times of shortest path though node1409 equal 0
+betweenness of note1409 is 0.0
+the times of shortest path though node1410 equal 0
+betweenness of note1410 is 0.0
+the times of shortest path though node1411 equal 0
+betweenness of note1411 is 0.0
+the times of shortest path though node1412 equal 0
+betweenness of note1412 is 0.0
+the times of shortest path though node1413 equal 0
+betweenness of note1413 is 0.0
+the times of shortest path though node1414 equal 0
+betweenness of note1414 is 0.0
+the times of shortest path though node1415 equal 0
+betweenness of note1415 is 0.0
+the times of shortest path though node1416 equal 0
+betweenness of note1416 is 0.0
+the times of shortest path though node1417 equal 0
+betweenness of note1417 is 0.0
+the times of shortest path though node1418 equal 0
+betweenness of note1418 is 0.0
+the times of shortest path though node1419 equal 0
+betweenness of note1419 is 0.0
+the times of shortest path though node1420 equal 0
+betweenness of note1420 is 0.0
+the times of shortest path though node1421 equal 0
+betweenness of note1421 is 0.0
+the times of shortest path though node1422 equal 0
+betweenness of note1422 is 0.0
+the times of shortest path though node1423 equal 0
+betweenness of note1423 is 0.0
+the times of shortest path though node1424 equal 0
+betweenness of note1424 is 0.0
+the times of shortest path though node1425 equal 0
+betweenness of note1425 is 0.0
+the times of shortest path though node1426 equal 0
+betweenness of note1426 is 0.0
+the times of shortest path though node1427 equal 0
+betweenness of note1427 is 0.0
+the times of shortest path though node1428 equal 0
+betweenness of note1428 is 0.0
+the times of shortest path though node1429 equal 0
+betweenness of note1429 is 0.0
+the times of shortest path though node1430 equal 0
+betweenness of note1430 is 0.0
+the times of shortest path though node1431 equal 0
+betweenness of note1431 is 0.0
+the times of shortest path though node1432 equal 0
+betweenness of note1432 is 0.0
+the times of shortest path though node1433 equal 0
+betweenness of note1433 is 0.0
+the times of shortest path though node1434 equal 0
+betweenness of note1434 is 0.0
+the times of shortest path though node1435 equal 0
+betweenness of note1435 is 0.0
+the times of shortest path though node1436 equal 0
+betweenness of note1436 is 0.0
+the times of shortest path though node1437 equal 0
+betweenness of note1437 is 0.0
+the times of shortest path though node1438 equal 0
+betweenness of note1438 is 0.0
+the times of shortest path though node1439 equal 0
+betweenness of note1439 is 0.0
+the times of shortest path though node1440 equal 0
+betweenness of note1440 is 0.0
+the times of shortest path though node1441 equal 0
+betweenness of note1441 is 0.0
+the times of shortest path though node1442 equal 0
+betweenness of note1442 is 0.0
+the times of shortest path though node1443 equal 0
+betweenness of note1443 is 0.0
+the times of shortest path though node1444 equal 0
+betweenness of note1444 is 0.0
+the times of shortest path though node1445 equal 0
+betweenness of note1445 is 0.0
+the times of shortest path though node1446 equal 0
+betweenness of note1446 is 0.0
+the times of shortest path though node1447 equal 0
+betweenness of note1447 is 0.0
+the times of shortest path though node1448 equal 0
+betweenness of note1448 is 0.0
+the times of shortest path though node1449 equal 0
+betweenness of note1449 is 0.0
+the times of shortest path though node1450 equal 0
+betweenness of note1450 is 0.0
+the times of shortest path though node1451 equal 0
+betweenness of note1451 is 0.0
+the times of shortest path though node1452 equal 0
+betweenness of note1452 is 0.0
+the times of shortest path though node1453 equal 0
+betweenness of note1453 is 0.0
+the times of shortest path though node1454 equal 0
+betweenness of note1454 is 0.0
+the times of shortest path though node1455 equal 0
+betweenness of note1455 is 0.0
+the times of shortest path though node1456 equal 0
+betweenness of note1456 is 0.0
+the times of shortest path though node1457 equal 0
+betweenness of note1457 is 0.0
+the times of shortest path though node1458 equal 0
+betweenness of note1458 is 0.0
+the times of shortest path though node1459 equal 0
+betweenness of note1459 is 0.0
+the times of shortest path though node1460 equal 0
+betweenness of note1460 is 0.0
+the times of shortest path though node1461 equal 0
+betweenness of note1461 is 0.0
+the times of shortest path though node1462 equal 0
+betweenness of note1462 is 0.0
+the times of shortest path though node1463 equal 0
+betweenness of note1463 is 0.0
+the times of shortest path though node1464 equal 0
+betweenness of note1464 is 0.0
+the times of shortest path though node1465 equal 0
+betweenness of note1465 is 0.0
+the times of shortest path though node1466 equal 0
+betweenness of note1466 is 0.0
+the times of shortest path though node1467 equal 0
+betweenness of note1467 is 0.0
+the times of shortest path though node1468 equal 0
+betweenness of note1468 is 0.0
+the times of shortest path though node1469 equal 0
+betweenness of note1469 is 0.0
+the times of shortest path though node1470 equal 0
+betweenness of note1470 is 0.0
+the times of shortest path though node1471 equal 0
+betweenness of note1471 is 0.0
+the times of shortest path though node1472 equal 0
+betweenness of note1472 is 0.0
+the times of shortest path though node1473 equal 0
+betweenness of note1473 is 0.0
+the times of shortest path though node1474 equal 0
+betweenness of note1474 is 0.0
+the times of shortest path though node1475 equal 0
+betweenness of note1475 is 0.0
+the times of shortest path though node1476 equal 0
+betweenness of note1476 is 0.0
+the times of shortest path though node1477 equal 0
+betweenness of note1477 is 0.0
+the times of shortest path though node1478 equal 0
+betweenness of note1478 is 0.0
+the times of shortest path though node1479 equal 0
+betweenness of note1479 is 0.0
+the times of shortest path though node1480 equal 0
+betweenness of note1480 is 0.0
+the times of shortest path though node1481 equal 0
+betweenness of note1481 is 0.0
+the times of shortest path though node1482 equal 0
+betweenness of note1482 is 0.0
+the times of shortest path though node1483 equal 0
+betweenness of note1483 is 0.0
+the times of shortest path though node1484 equal 0
+betweenness of note1484 is 0.0
+the times of shortest path though node1485 equal 0
+betweenness of note1485 is 0.0
+the times of shortest path though node1486 equal 0
+betweenness of note1486 is 0.0
+the times of shortest path though node1487 equal 0
+betweenness of note1487 is 0.0
+the times of shortest path though node1488 equal 0
+betweenness of note1488 is 0.0
+the times of shortest path though node1489 equal 0
+betweenness of note1489 is 0.0
+the times of shortest path though node1490 equal 0
+betweenness of note1490 is 0.0
+the times of shortest path though node1491 equal 0
+betweenness of note1491 is 0.0
+the times of shortest path though node1492 equal 0
+betweenness of note1492 is 0.0
+the times of shortest path though node1493 equal 0
+betweenness of note1493 is 0.0
+the times of shortest path though node1494 equal 0
+betweenness of note1494 is 0.0
+the times of shortest path though node1495 equal 0
+betweenness of note1495 is 0.0
+the times of shortest path though node1496 equal 0
+betweenness of note1496 is 0.0
+the times of shortest path though node1497 equal 0
+betweenness of note1497 is 0.0
+the times of shortest path though node1498 equal 0
+betweenness of note1498 is 0.0
+the times of shortest path though node1499 equal 0
+betweenness of note1499 is 0.0
+the times of shortest path though node1500 equal 0
+betweenness of note1500 is 0.0
+the times of shortest path though node1501 equal 0
+betweenness of note1501 is 0.0
+the times of shortest path though node1502 equal 0
+betweenness of note1502 is 0.0
+the times of shortest path though node1503 equal 0
+betweenness of note1503 is 0.0
+the times of shortest path though node1504 equal 0
+betweenness of note1504 is 0.0
+the times of shortest path though node1505 equal 0
+betweenness of note1505 is 0.0
+the times of shortest path though node1506 equal 0
+betweenness of note1506 is 0.0
+the times of shortest path though node1507 equal 0
+betweenness of note1507 is 0.0
+the times of shortest path though node1508 equal 0
+betweenness of note1508 is 0.0
+the times of shortest path though node1509 equal 0
+betweenness of note1509 is 0.0
+the times of shortest path though node1510 equal 0
+betweenness of note1510 is 0.0
+the times of shortest path though node1511 equal 0
+betweenness of note1511 is 0.0
+the times of shortest path though node1512 equal 0
+betweenness of note1512 is 0.0
+the times of shortest path though node1513 equal 0
+betweenness of note1513 is 0.0
+the times of shortest path though node1514 equal 0
+betweenness of note1514 is 0.0
+the times of shortest path though node1515 equal 0
+betweenness of note1515 is 0.0
+the times of shortest path though node1516 equal 0
+betweenness of note1516 is 0.0
+the times of shortest path though node1517 equal 0
+betweenness of note1517 is 0.0
+the times of shortest path though node1518 equal 0
+betweenness of note1518 is 0.0
+the times of shortest path though node1519 equal 0
+betweenness of note1519 is 0.0
+the times of shortest path though node1520 equal 0
+betweenness of note1520 is 0.0
+the times of shortest path though node1521 equal 0
+betweenness of note1521 is 0.0
+the times of shortest path though node1522 equal 0
+betweenness of note1522 is 0.0
+the times of shortest path though node1523 equal 0
+betweenness of note1523 is 0.0
+the times of shortest path though node1524 equal 0
+betweenness of note1524 is 0.0
+the times of shortest path though node1525 equal 0
+betweenness of note1525 is 0.0
+the times of shortest path though node1526 equal 0
+betweenness of note1526 is 0.0
+the times of shortest path though node1527 equal 0
+betweenness of note1527 is 0.0
+the times of shortest path though node1528 equal 0
+betweenness of note1528 is 0.0
+the times of shortest path though node1529 equal 0
+betweenness of note1529 is 0.0
+the times of shortest path though node1530 equal 0
+betweenness of note1530 is 0.0
+the times of shortest path though node1531 equal 0
+betweenness of note1531 is 0.0
+the times of shortest path though node1532 equal 0
+betweenness of note1532 is 0.0
+the times of shortest path though node1533 equal 0
+betweenness of note1533 is 0.0
+the times of shortest path though node1534 equal 0
+betweenness of note1534 is 0.0
+the times of shortest path though node1535 equal 0
+betweenness of note1535 is 0.0
+the times of shortest path though node1536 equal 0
+betweenness of note1536 is 0.0
+the times of shortest path though node1537 equal 0
+betweenness of note1537 is 0.0
+the times of shortest path though node1538 equal 0
+betweenness of note1538 is 0.0
+the times of shortest path though node1539 equal 0
+betweenness of note1539 is 0.0
+the times of shortest path though node1540 equal 0
+betweenness of note1540 is 0.0
+the times of shortest path though node1541 equal 0
+betweenness of note1541 is 0.0
+the times of shortest path though node1542 equal 0
+betweenness of note1542 is 0.0
+the times of shortest path though node1543 equal 0
+betweenness of note1543 is 0.0
+the times of shortest path though node1544 equal 0
+betweenness of note1544 is 0.0
+the times of shortest path though node1545 equal 0
+betweenness of note1545 is 0.0
+the times of shortest path though node1546 equal 0
+betweenness of note1546 is 0.0
+the times of shortest path though node1547 equal 0
+betweenness of note1547 is 0.0
+the times of shortest path though node1548 equal 0
+betweenness of note1548 is 0.0
+the times of shortest path though node1549 equal 0
+betweenness of note1549 is 0.0
+the times of shortest path though node1550 equal 0
+betweenness of note1550 is 0.0
+the times of shortest path though node1551 equal 0
+betweenness of note1551 is 0.0
+the times of shortest path though node1552 equal 0
+betweenness of note1552 is 0.0
+the times of shortest path though node1553 equal 0
+betweenness of note1553 is 0.0
+the times of shortest path though node1554 equal 0
+betweenness of note1554 is 0.0
+the times of shortest path though node1555 equal 0
+betweenness of note1555 is 0.0
+the times of shortest path though node1556 equal 0
+betweenness of note1556 is 0.0
+the times of shortest path though node1557 equal 0
+betweenness of note1557 is 0.0
+the times of shortest path though node1558 equal 0
+betweenness of note1558 is 0.0
+the times of shortest path though node1559 equal 0
+betweenness of note1559 is 0.0
+the times of shortest path though node1560 equal 0
+betweenness of note1560 is 0.0
+the times of shortest path though node1561 equal 0
+betweenness of note1561 is 0.0
+the times of shortest path though node1562 equal 0
+betweenness of note1562 is 0.0
+the times of shortest path though node1563 equal 0
+betweenness of note1563 is 0.0
+the times of shortest path though node1564 equal 0
+betweenness of note1564 is 0.0
+the times of shortest path though node1565 equal 0
+betweenness of note1565 is 0.0
+the times of shortest path though node1566 equal 0
+betweenness of note1566 is 0.0
+the times of shortest path though node1567 equal 0
+betweenness of note1567 is 0.0
+the times of shortest path though node1568 equal 0
+betweenness of note1568 is 0.0
+the times of shortest path though node1569 equal 0
+betweenness of note1569 is 0.0
+the times of shortest path though node1570 equal 0
+betweenness of note1570 is 0.0
+the times of shortest path though node1571 equal 0
+betweenness of note1571 is 0.0
+the times of shortest path though node1572 equal 0
+betweenness of note1572 is 0.0
+the times of shortest path though node1573 equal 0
+betweenness of note1573 is 0.0
+the times of shortest path though node1574 equal 0
+betweenness of note1574 is 0.0
+the times of shortest path though node1575 equal 0
+betweenness of note1575 is 0.0
+the times of shortest path though node1576 equal 0
+betweenness of note1576 is 0.0
+the times of shortest path though node1577 equal 0
+betweenness of note1577 is 0.0
+the times of shortest path though node1578 equal 0
+betweenness of note1578 is 0.0
+the times of shortest path though node1579 equal 0
+betweenness of note1579 is 0.0
+the times of shortest path though node1580 equal 0
+betweenness of note1580 is 0.0
+the times of shortest path though node1581 equal 0
+betweenness of note1581 is 0.0
+the times of shortest path though node1582 equal 0
+betweenness of note1582 is 0.0
+the times of shortest path though node1583 equal 0
+betweenness of note1583 is 0.0
+the times of shortest path though node1584 equal 0
+betweenness of note1584 is 0.0
+the times of shortest path though node1585 equal 0
+betweenness of note1585 is 0.0
+the times of shortest path though node1586 equal 0
+betweenness of note1586 is 0.0
+the times of shortest path though node1587 equal 0
+betweenness of note1587 is 0.0
+the times of shortest path though node1588 equal 0
+betweenness of note1588 is 0.0
+the times of shortest path though node1589 equal 0
+betweenness of note1589 is 0.0
+the times of shortest path though node1590 equal 0
+betweenness of note1590 is 0.0
+the times of shortest path though node1591 equal 0
+betweenness of note1591 is 0.0
+the times of shortest path though node1592 equal 0
+betweenness of note1592 is 0.0
+the times of shortest path though node1593 equal 0
+betweenness of note1593 is 0.0
+the times of shortest path though node1594 equal 0
+betweenness of note1594 is 0.0
+the times of shortest path though node1595 equal 0
+betweenness of note1595 is 0.0
+the times of shortest path though node1596 equal 0
+betweenness of note1596 is 0.0
+the times of shortest path though node1597 equal 0
+betweenness of note1597 is 0.0
+the times of shortest path though node1598 equal 0
+betweenness of note1598 is 0.0
+the times of shortest path though node1599 equal 0
+betweenness of note1599 is 0.0
+the times of shortest path though node1600 equal 0
+betweenness of note1600 is 0.0
+the times of shortest path though node1601 equal 0
+betweenness of note1601 is 0.0
+the times of shortest path though node1602 equal 0
+betweenness of note1602 is 0.0
+the times of shortest path though node1603 equal 0
+betweenness of note1603 is 0.0
+the times of shortest path though node1604 equal 0
+betweenness of note1604 is 0.0
+the times of shortest path though node1605 equal 0
+betweenness of note1605 is 0.0
+the times of shortest path though node1606 equal 0
+betweenness of note1606 is 0.0
+the times of shortest path though node1607 equal 0
+betweenness of note1607 is 0.0
+the times of shortest path though node1608 equal 0
+betweenness of note1608 is 0.0
+the times of shortest path though node1609 equal 0
+betweenness of note1609 is 0.0
+the times of shortest path though node1610 equal 0
+betweenness of note1610 is 0.0
+the times of shortest path though node1611 equal 0
+betweenness of note1611 is 0.0
+the times of shortest path though node1612 equal 0
+betweenness of note1612 is 0.0
+the times of shortest path though node1613 equal 0
+betweenness of note1613 is 0.0
+the times of shortest path though node1614 equal 0
+betweenness of note1614 is 0.0
+the times of shortest path though node1615 equal 0
+betweenness of note1615 is 0.0
+the times of shortest path though node1616 equal 0
+betweenness of note1616 is 0.0
+the times of shortest path though node1617 equal 0
+betweenness of note1617 is 0.0
+the times of shortest path though node1618 equal 0
+betweenness of note1618 is 0.0
+the times of shortest path though node1619 equal 0
+betweenness of note1619 is 0.0
+the times of shortest path though node1620 equal 0
+betweenness of note1620 is 0.0
+the times of shortest path though node1621 equal 0
+betweenness of note1621 is 0.0
+the times of shortest path though node1622 equal 0
+betweenness of note1622 is 0.0
+the times of shortest path though node1623 equal 0
+betweenness of note1623 is 0.0
+the times of shortest path though node1624 equal 0
+betweenness of note1624 is 0.0
+the times of shortest path though node1625 equal 0
+betweenness of note1625 is 0.0
+the times of shortest path though node1626 equal 0
+betweenness of note1626 is 0.0
+the times of shortest path though node1627 equal 0
+betweenness of note1627 is 0.0
+the times of shortest path though node1628 equal 0
+betweenness of note1628 is 0.0
+the times of shortest path though node1629 equal 0
+betweenness of note1629 is 0.0
+the times of shortest path though node1630 equal 0
+betweenness of note1630 is 0.0
+the times of shortest path though node1631 equal 0
+betweenness of note1631 is 0.0
+the times of shortest path though node1632 equal 0
+betweenness of note1632 is 0.0
+the times of shortest path though node1633 equal 0
+betweenness of note1633 is 0.0
+the times of shortest path though node1634 equal 0
+betweenness of note1634 is 0.0
+the times of shortest path though node1635 equal 0
+betweenness of note1635 is 0.0
+the times of shortest path though node1636 equal 0
+betweenness of note1636 is 0.0
+the times of shortest path though node1637 equal 0
+betweenness of note1637 is 0.0
+the times of shortest path though node1638 equal 0
+betweenness of note1638 is 0.0
+the times of shortest path though node1639 equal 0
+betweenness of note1639 is 0.0
+the times of shortest path though node1640 equal 0
+betweenness of note1640 is 0.0
+the times of shortest path though node1641 equal 0
+betweenness of note1641 is 0.0
+the times of shortest path though node1642 equal 0
+betweenness of note1642 is 0.0
+the times of shortest path though node1643 equal 0
+betweenness of note1643 is 0.0
+the times of shortest path though node1644 equal 0
+betweenness of note1644 is 0.0
+the times of shortest path though node1645 equal 0
+betweenness of note1645 is 0.0
+the times of shortest path though node1646 equal 0
+betweenness of note1646 is 0.0
+the times of shortest path though node1647 equal 0
+betweenness of note1647 is 0.0
+the times of shortest path though node1648 equal 0
+betweenness of note1648 is 0.0
+the times of shortest path though node1649 equal 0
+betweenness of note1649 is 0.0
+the times of shortest path though node1650 equal 0
+betweenness of note1650 is 0.0
+the times of shortest path though node1651 equal 0
+betweenness of note1651 is 0.0
+the times of shortest path though node1652 equal 0
+betweenness of note1652 is 0.0
+the times of shortest path though node1653 equal 0
+betweenness of note1653 is 0.0
+the times of shortest path though node1654 equal 0
+betweenness of note1654 is 0.0
+the times of shortest path though node1655 equal 0
+betweenness of note1655 is 0.0
+the times of shortest path though node1656 equal 0
+betweenness of note1656 is 0.0
+the times of shortest path though node1657 equal 0
+betweenness of note1657 is 0.0
+the times of shortest path though node1658 equal 0
+betweenness of note1658 is 0.0
+the times of shortest path though node1659 equal 0
+betweenness of note1659 is 0.0
+the times of shortest path though node1660 equal 0
+betweenness of note1660 is 0.0
+the times of shortest path though node1661 equal 0
+betweenness of note1661 is 0.0
+the times of shortest path though node1662 equal 0
+betweenness of note1662 is 0.0
+the times of shortest path though node1663 equal 0
+betweenness of note1663 is 0.0
+the times of shortest path though node1664 equal 0
+betweenness of note1664 is 0.0
+the times of shortest path though node1665 equal 0
+betweenness of note1665 is 0.0
+the times of shortest path though node1666 equal 0
+betweenness of note1666 is 0.0
+the times of shortest path though node1667 equal 0
+betweenness of note1667 is 0.0
+the times of shortest path though node1668 equal 0
+betweenness of note1668 is 0.0
+the times of shortest path though node1669 equal 0
+betweenness of note1669 is 0.0
+the times of shortest path though node1670 equal 0
+betweenness of note1670 is 0.0
+the times of shortest path though node1671 equal 0
+betweenness of note1671 is 0.0
+the times of shortest path though node1672 equal 0
+betweenness of note1672 is 0.0
+the times of shortest path though node1673 equal 0
+betweenness of note1673 is 0.0
+the times of shortest path though node1674 equal 0
+betweenness of note1674 is 0.0
+the times of shortest path though node1675 equal 0
+betweenness of note1675 is 0.0
+the times of shortest path though node1676 equal 0
+betweenness of note1676 is 0.0
+the times of shortest path though node1677 equal 0
+betweenness of note1677 is 0.0
+the times of shortest path though node1678 equal 0
+betweenness of note1678 is 0.0
+the times of shortest path though node1679 equal 0
+betweenness of note1679 is 0.0
+the times of shortest path though node1680 equal 0
+betweenness of note1680 is 0.0
+the times of shortest path though node1681 equal 0
+betweenness of note1681 is 0.0
+the times of shortest path though node1682 equal 0
+betweenness of note1682 is 0.0
+the times of shortest path though node1683 equal 0
+betweenness of note1683 is 0.0
+the times of shortest path though node1684 equal 0
+betweenness of note1684 is 0.0
+the times of shortest path though node1685 equal 0
+betweenness of note1685 is 0.0
+the times of shortest path though node1686 equal 0
+betweenness of note1686 is 0.0
+the times of shortest path though node1687 equal 0
+betweenness of note1687 is 0.0
+the times of shortest path though node1688 equal 0
+betweenness of note1688 is 0.0
+the times of shortest path though node1689 equal 0
+betweenness of note1689 is 0.0
+the times of shortest path though node1690 equal 0
+betweenness of note1690 is 0.0
+the times of shortest path though node1691 equal 0
+betweenness of note1691 is 0.0
+the times of shortest path though node1692 equal 0
+betweenness of note1692 is 0.0
+the times of shortest path though node1693 equal 0
+betweenness of note1693 is 0.0
+the times of shortest path though node1694 equal 0
+betweenness of note1694 is 0.0
+the times of shortest path though node1695 equal 0
+betweenness of note1695 is 0.0
+the times of shortest path though node1696 equal 0
+betweenness of note1696 is 0.0
+the times of shortest path though node1697 equal 0
+betweenness of note1697 is 0.0
+the times of shortest path though node1698 equal 0
+betweenness of note1698 is 0.0
+the times of shortest path though node1699 equal 0
+betweenness of note1699 is 0.0
+the times of shortest path though node1700 equal 0
+betweenness of note1700 is 0.0
+the times of shortest path though node1701 equal 0
+betweenness of note1701 is 0.0
+the times of shortest path though node1702 equal 0
+betweenness of note1702 is 0.0
+the times of shortest path though node1703 equal 0
+betweenness of note1703 is 0.0
+the times of shortest path though node1704 equal 0
+betweenness of note1704 is 0.0
+the times of shortest path though node1705 equal 0
+betweenness of note1705 is 0.0
+the times of shortest path though node1706 equal 0
+betweenness of note1706 is 0.0
+the times of shortest path though node1707 equal 0
+betweenness of note1707 is 0.0
+the times of shortest path though node1708 equal 0
+betweenness of note1708 is 0.0
+the times of shortest path though node1709 equal 0
+betweenness of note1709 is 0.0
+the times of shortest path though node1710 equal 0
+betweenness of note1710 is 0.0
+the times of shortest path though node1711 equal 0
+betweenness of note1711 is 0.0
+the times of shortest path though node1712 equal 0
+betweenness of note1712 is 0.0
+the times of shortest path though node1713 equal 0
+betweenness of note1713 is 0.0
+the times of shortest path though node1714 equal 0
+betweenness of note1714 is 0.0
+the times of shortest path though node1715 equal 0
+betweenness of note1715 is 0.0
+the times of shortest path though node1716 equal 0
+betweenness of note1716 is 0.0
+the times of shortest path though node1717 equal 0
+betweenness of note1717 is 0.0
+the times of shortest path though node1718 equal 0
+betweenness of note1718 is 0.0
+the times of shortest path though node1719 equal 0
+betweenness of note1719 is 0.0
+the times of shortest path though node1720 equal 0
+betweenness of note1720 is 0.0
+the times of shortest path though node1721 equal 0
+betweenness of note1721 is 0.0
+the times of shortest path though node1722 equal 0
+betweenness of note1722 is 0.0
+the times of shortest path though node1723 equal 0
+betweenness of note1723 is 0.0
+the times of shortest path though node1724 equal 0
+betweenness of note1724 is 0.0
+the times of shortest path though node1725 equal 0
+betweenness of note1725 is 0.0
+the times of shortest path though node1726 equal 0
+betweenness of note1726 is 0.0
+the times of shortest path though node1727 equal 0
+betweenness of note1727 is 0.0
+the times of shortest path though node1728 equal 0
+betweenness of note1728 is 0.0
+the times of shortest path though node1729 equal 0
+betweenness of note1729 is 0.0
+the times of shortest path though node1730 equal 0
+betweenness of note1730 is 0.0
+the times of shortest path though node1731 equal 0
+betweenness of note1731 is 0.0
+the times of shortest path though node1732 equal 0
+betweenness of note1732 is 0.0
+the times of shortest path though node1733 equal 0
+betweenness of note1733 is 0.0
+the times of shortest path though node1734 equal 0
+betweenness of note1734 is 0.0
+the times of shortest path though node1735 equal 0
+betweenness of note1735 is 0.0
+the times of shortest path though node1736 equal 0
+betweenness of note1736 is 0.0
+the times of shortest path though node1737 equal 0
+betweenness of note1737 is 0.0
+the times of shortest path though node1738 equal 0
+betweenness of note1738 is 0.0
+the times of shortest path though node1739 equal 0
+betweenness of note1739 is 0.0
+the times of shortest path though node1740 equal 0
+betweenness of note1740 is 0.0
+the times of shortest path though node1741 equal 0
+betweenness of note1741 is 0.0
+the times of shortest path though node1742 equal 0
+betweenness of note1742 is 0.0
+the times of shortest path though node1743 equal 0
+betweenness of note1743 is 0.0
+the times of shortest path though node1744 equal 0
+betweenness of note1744 is 0.0
+the times of shortest path though node1745 equal 0
+betweenness of note1745 is 0.0
+the times of shortest path though node1746 equal 0
+betweenness of note1746 is 0.0
+the times of shortest path though node1747 equal 0
+betweenness of note1747 is 0.0
+the times of shortest path though node1748 equal 0
+betweenness of note1748 is 0.0
+the times of shortest path though node1749 equal 0
+betweenness of note1749 is 0.0
+the times of shortest path though node1750 equal 0
+betweenness of note1750 is 0.0
+the times of shortest path though node1751 equal 0
+betweenness of note1751 is 0.0
+the times of shortest path though node1752 equal 0
+betweenness of note1752 is 0.0
+the times of shortest path though node1753 equal 0
+betweenness of note1753 is 0.0
+the times of shortest path though node1754 equal 0
+betweenness of note1754 is 0.0
+the times of shortest path though node1755 equal 0
+betweenness of note1755 is 0.0
+the times of shortest path though node1756 equal 0
+betweenness of note1756 is 0.0
+the times of shortest path though node1757 equal 0
+betweenness of note1757 is 0.0
+the times of shortest path though node1758 equal 0
+betweenness of note1758 is 0.0
+the times of shortest path though node1759 equal 0
+betweenness of note1759 is 0.0
+the times of shortest path though node1760 equal 0
+betweenness of note1760 is 0.0
+the times of shortest path though node1761 equal 0
+betweenness of note1761 is 0.0
+the times of shortest path though node1762 equal 0
+betweenness of note1762 is 0.0
+the times of shortest path though node1763 equal 0
+betweenness of note1763 is 0.0
+the times of shortest path though node1764 equal 0
+betweenness of note1764 is 0.0
+the times of shortest path though node1765 equal 0
+betweenness of note1765 is 0.0
+the times of shortest path though node1766 equal 0
+betweenness of note1766 is 0.0
+the times of shortest path though node1767 equal 0
+betweenness of note1767 is 0.0
+the times of shortest path though node1768 equal 0
+betweenness of note1768 is 0.0
+the times of shortest path though node1769 equal 0
+betweenness of note1769 is 0.0
+the times of shortest path though node1770 equal 0
+betweenness of note1770 is 0.0
+the times of shortest path though node1771 equal 0
+betweenness of note1771 is 0.0
+the times of shortest path though node1772 equal 0
+betweenness of note1772 is 0.0
+the times of shortest path though node1773 equal 0
+betweenness of note1773 is 0.0
+the times of shortest path though node1774 equal 0
+betweenness of note1774 is 0.0
+the times of shortest path though node1775 equal 0
+betweenness of note1775 is 0.0
+the times of shortest path though node1776 equal 0
+betweenness of note1776 is 0.0
+the times of shortest path though node1777 equal 0
+betweenness of note1777 is 0.0
+the times of shortest path though node1778 equal 0
+betweenness of note1778 is 0.0
+the times of shortest path though node1779 equal 0
+betweenness of note1779 is 0.0
+the times of shortest path though node1780 equal 0
+betweenness of note1780 is 0.0
+the times of shortest path though node1781 equal 0
+betweenness of note1781 is 0.0
+the times of shortest path though node1782 equal 0
+betweenness of note1782 is 0.0
+the times of shortest path though node1783 equal 0
+betweenness of note1783 is 0.0
+the times of shortest path though node1784 equal 0
+betweenness of note1784 is 0.0
+the times of shortest path though node1785 equal 0
+betweenness of note1785 is 0.0
+the times of shortest path though node1786 equal 0
+betweenness of note1786 is 0.0
+the times of shortest path though node1787 equal 0
+betweenness of note1787 is 0.0
+the times of shortest path though node1788 equal 0
+betweenness of note1788 is 0.0
+the times of shortest path though node1789 equal 0
+betweenness of note1789 is 0.0
+the times of shortest path though node1790 equal 0
+betweenness of note1790 is 0.0
+the times of shortest path though node1791 equal 0
+betweenness of note1791 is 0.0
+the times of shortest path though node1792 equal 0
+betweenness of note1792 is 0.0
+the times of shortest path though node1793 equal 0
+betweenness of note1793 is 0.0
+the times of shortest path though node1794 equal 0
+betweenness of note1794 is 0.0
+the times of shortest path though node1795 equal 0
+betweenness of note1795 is 0.0
+the times of shortest path though node1796 equal 0
+betweenness of note1796 is 0.0
+the times of shortest path though node1797 equal 0
+betweenness of note1797 is 0.0
+the times of shortest path though node1798 equal 0
+betweenness of note1798 is 0.0
+the times of shortest path though node1799 equal 0
+betweenness of note1799 is 0.0
+the times of shortest path though node1800 equal 0
+betweenness of note1800 is 0.0
+the times of shortest path though node1801 equal 0
+betweenness of note1801 is 0.0
+the times of shortest path though node1802 equal 0
+betweenness of note1802 is 0.0
+the times of shortest path though node1803 equal 0
+betweenness of note1803 is 0.0
+the times of shortest path though node1804 equal 0
+betweenness of note1804 is 0.0

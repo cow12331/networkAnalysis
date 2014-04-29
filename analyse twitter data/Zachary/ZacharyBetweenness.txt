@@ -1,0 +1,68 @@
+the times of shortest path though node1 equal 518
+betweenness of note1 is 0.22424242424242424
+the times of shortest path though node2 equal 40
+betweenness of note2 is 0.017316017316017316
+the times of shortest path though node3 equal 73
+betweenness of note3 is 0.0316017316017316
+the times of shortest path though node4 equal 2
+betweenness of note4 is 8.658008658008658E-4
+the times of shortest path though node5 equal 1
+betweenness of note5 is 4.329004329004329E-4
+the times of shortest path though node6 equal 60
+betweenness of note6 is 0.025974025974025976
+the times of shortest path though node7 equal 2
+betweenness of note7 is 8.658008658008658E-4
+the times of shortest path though node8 equal 0
+betweenness of note8 is 0.0
+the times of shortest path though node9 equal 37
+betweenness of note9 is 0.016017316017316017
+the times of shortest path though node10 equal 10
+betweenness of note10 is 0.004329004329004329
+the times of shortest path though node11 equal 0
+betweenness of note11 is 0.0
+the times of shortest path though node12 equal 0
+betweenness of note12 is 0.0
+the times of shortest path though node13 equal 0
+betweenness of note13 is 0.0
+the times of shortest path though node14 equal 4
+betweenness of note14 is 0.0017316017316017316
+the times of shortest path though node15 equal 0
+betweenness of note15 is 0.0
+the times of shortest path though node16 equal 0
+betweenness of note16 is 0.0
+the times of shortest path though node17 equal 0
+betweenness of note17 is 0.0
+the times of shortest path though node18 equal 22
+betweenness of note18 is 0.009523809523809525
+the times of shortest path though node19 equal 6
+betweenness of note19 is 0.0025974025974025974
+the times of shortest path though node20 equal 255
+betweenness of note20 is 0.11038961038961038
+the times of shortest path though node21 equal 0
+betweenness of note21 is 0.0
+the times of shortest path though node22 equal 0
+betweenness of note22 is 0.0
+the times of shortest path though node23 equal 0
+betweenness of note23 is 0.0
+the times of shortest path though node24 equal 2
+betweenness of note24 is 8.658008658008658E-4
+the times of shortest path though node25 equal 62
+betweenness of note25 is 0.02683982683982684
+the times of shortest path though node26 equal 1
+betweenness of note26 is 4.329004329004329E-4
+the times of shortest path though node27 equal 0
+betweenness of note27 is 0.0
+the times of shortest path though node28 equal 13
+betweenness of note28 is 0.005627705627705628
+the times of shortest path though node29 equal 4
+betweenness of note29 is 0.0017316017316017316
+the times of shortest path though node30 equal 0
+betweenness of note30 is 0.0
+the times of shortest path though node31 equal 6
+betweenness of note31 is 0.0025974025974025974
+the times of shortest path though node32 equal 127
+betweenness of note32 is 0.05497835497835498
+the times of shortest path though node33 equal 74
+betweenness of note33 is 0.032034632034632034
+the times of shortest path though node34 equal 417
+betweenness of note34 is 0.18051948051948052
