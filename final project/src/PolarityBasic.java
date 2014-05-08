@@ -29,7 +29,7 @@ public class PolarityBasic {
 		mPolarityDir = new File(args[0], "txt_sentoken2");
 		System.out.println("\nData Directory=" + mPolarityDir);
 		mCategories = mPolarityDir.list();
-		int nGram = 8;
+		int nGram = 3;
 		mClassifier = DynamicLMClassifier
 				.createNGramProcess(mCategories, nGram);
 	}

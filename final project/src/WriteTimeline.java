@@ -23,6 +23,7 @@ import twitter4j.TwitterFactory;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -49,25 +50,27 @@ public class WriteTimeline {
 			List<Status> statuses;
 			String user;
 			String out = "";
-			Paging page = new Paging(1, 200);
+			Paging page = new Paging(10, 200);
 			int count = 0;
-			user = "AmericanBanking";
+			//user = "AmericanBanking";
+			user = "iHugoAlbert";
 			statuses = twitter.getUserTimeline(user, page);
 
 			for (Status status : statuses) {
-				
-				String tweet = status.getText();				
+				//get tweet text
+				String tweet = status.getText();	
+				//get time 
 				String time	= status.getCreatedAt()+" ";
-				String stockName = parser.getStockName(tweet);
+				
+				ArrayList<String> stockNames = parser.getStockName(tweet);				
+				for(String stockName : stockNames) {
 				String attitude = sentiAnalyse.myEvaluate(tweet);	
 				System.out.println(tweet);
 				System.out.println(stockName +" "+time+" "+attitude);
-				System.out.println("========"+(count++)+"======");
+				System.out.println("========"+(++count)+"======");
 				out += stockName +" "+time+" "+attitude +"\n";
-				
-				if(!stockName.equals("WrongStock")) {
-					StockCompare4.isCorrect(stockName, time, attitude);
-				}				
+				StockCompare4.isCorrect(stockName, time, attitude);
+				}
 			}
 			System.out.print("r="+StockCompare4.accuracy());
 			out += "\n"+"r="+StockCompare4.accuracy();
