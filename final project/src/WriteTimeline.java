@@ -26,62 +26,92 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Yusuke Yamamoto - yusuke at mac.com
- * @since Twitter4J 2.1.7
- */
 public class WriteTimeline {
-	/**
-	 * Usage: java twitter4j.examples.timeline.GetUserTimeline
-	 * 
-	 * @param args
-	 *            String[]
-	 * @throws Exception
-	 */
 	public static void main(String[] args) throws Exception {
-		// gets Twitter instance with default credentials
+		
+		String[] ids = { "iHugoAlbert", "LaMonicaBuzz", "Stockaholics",
+				"SamanthaLaDuc", "KeeneOnMarket", "AlertTrade", "portefeuillefun",
+				"MargieTBBJ", "LouisvilleWhale", "RealFanboy101"}; 
+		//String[] ids = { "iHugoAlbert"};
+		for(String id: ids) {
+			writeFile("target/"+id+".txt", getContent(id));
+		}
+		/**
+		 * Twitter twitter = new TwitterFactory().getInstance(); FileWriter fw =
+		 * new FileWriter("test.txt"); BufferedWriter bw1 = new
+		 * BufferedWriter(fw); Parser parser = new Parser(); StockCompare4
+		 * stockCompare = new StockCompare4(); SentiAnalyse sentiAnalyse = new
+		 * SentiAnalyse(); try { List<Status> statuses; String user; String out
+		 * = ""; Paging page = new Paging(10, 200); int count = 0; // user =
+		 * "AmericanBanking"; user = "iHugoAlbert"; statuses =
+		 * twitter.getUserTimeline(user, page);
+		 * 
+		 * for (Status status : statuses) { // get tweet text String tweet =
+		 * status.getText(); // get time String time = status.getCreatedAt() +
+		 * " ";
+		 * 
+		 * ArrayList<String> stockNames = parser.getStockName(tweet); for
+		 * (String stockName : stockNames) { String attitude =
+		 * sentiAnalyse.myEvaluate(tweet); System.out.println(tweet);
+		 * System.out.println(stockName + " " + time + " " + attitude);
+		 * System.out.println("========" + (++count) + "======"); out +=
+		 * stockName + " " + time + " " + attitude + "\n";
+		 * StockCompare4.isCorrect(stockName, time, attitude); } }
+		 * System.out.print("r=" + StockCompare4.accuracy()); out += "\n" + "r="
+		 * + StockCompare4.accuracy(); bw1.write(out); bw1.flush(); bw1.close();
+		 * 
+		 * } catch (TwitterException te) { te.printStackTrace();
+		 * System.out.println("Failed to get timeline: " + te.getMessage());
+		 * System.exit(-1); }
+		 */
+	}
+
+	public static String getContent(String id) throws Exception {
 		Twitter twitter = new TwitterFactory().getInstance();
-		FileWriter fw = new FileWriter("test.txt");
-		BufferedWriter bw1 = new BufferedWriter(fw);
+
 		Parser parser = new Parser();
 		StockCompare4 stockCompare = new StockCompare4();
 		SentiAnalyse sentiAnalyse = new SentiAnalyse();
-		try {
-			List<Status> statuses;
-			String user;
-			String out = "";
-			Paging page = new Paging(10, 200);
-			int count = 0;
-			//user = "AmericanBanking";
-			user = "iHugoAlbert";
-			statuses = twitter.getUserTimeline(user, page);
 
-			for (Status status : statuses) {
-				//get tweet text
-				String tweet = status.getText();	
-				//get time 
-				String time	= status.getCreatedAt()+" ";
-				
-				ArrayList<String> stockNames = parser.getStockName(tweet);				
-				for(String stockName : stockNames) {
-				String attitude = sentiAnalyse.myEvaluate(tweet);	
+		List<Status> statuses;
+		String user;
+		String out = "";
+		Paging page = new Paging(10, 200);
+		int count = 0;
+		user = id;
+		statuses = twitter.getUserTimeline(user, page);
+
+		for (Status status : statuses) {
+			// get tweet text
+			String tweet = status.getText();
+			// get time
+			String time = status.getCreatedAt() + " ";
+
+			ArrayList<String> stockNames = parser.getStockName(tweet);
+			for (String stockName : stockNames) {
+				String attitude = sentiAnalyse.myEvaluate(tweet);
 				System.out.println(tweet);
-				System.out.println(stockName +" "+time+" "+attitude);
-				System.out.println("========"+(++count)+"======");
-				out += stockName +" "+time+" "+attitude +"\n";
+				System.out.println(stockName + " " + time + " " + attitude);
+				System.out.println("---------" + (++count) + "-----------");
+				out += (tweet + "\n");
+				out += (stockName + " " + time + " " + attitude + "\n");
 				StockCompare4.isCorrect(stockName, time, attitude);
-				}
+				count++;
 			}
-			System.out.print("r="+StockCompare4.accuracy());
-			out += "\n"+"r="+StockCompare4.accuracy();
-			bw1.write(out);
-			bw1.flush();
-			bw1.close();
-			
-		} catch (TwitterException te) {
-			te.printStackTrace();
-			System.out.println("Failed to get timeline: " + te.getMessage());
-			System.exit(-1);
 		}
+		System.out.println(id + "'s accuracy is " + StockCompare4.accuracy());
+		System.out.println(id + " has completed!!!");
+		out += ("\n" + "number of stock is " + count+"\n");
+		out += ("r=" + StockCompare4.accuracy());
+		return out;
+	}
+
+	public static void writeFile(String fileName, String inputStr)
+			throws Exception {
+		FileWriter fw = new FileWriter(fileName);
+		BufferedWriter bw = new BufferedWriter(fw);
+		bw.write(inputStr);
+		bw.flush();
+		bw.close();
 	}
 }
