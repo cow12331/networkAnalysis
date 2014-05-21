@@ -17,7 +17,11 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
-
+/**
+ * training model 
+ * output model file name is tclassifier
+ * show test outcome
+ */
 public class PolarityBasic {
 
 	File mPolarityDir;
@@ -37,11 +41,10 @@ public class PolarityBasic {
 	void run() throws Exception {
 		train();
 		evaluate();
-		//myEvaluate2();
 	}
 
 	boolean isTrainingFile(File file) {
-		return file.getName().charAt(4) != '8'; // test on fold 9
+		return file.getName().charAt(4) != '2'; //chose different files
 	}
 	
 	void train() throws IOException {
@@ -75,7 +78,6 @@ public class PolarityBasic {
 		System.out.println("  # Training Chars=" + numTrainingChars);
 	}
 
-	//original 
 	void evaluate() throws IOException {
 		System.out.println("\nEvaluating.");
 		int numTests = 0;
@@ -102,72 +104,6 @@ public class PolarityBasic {
 				/ (double) numTests);
 	}
 
-	//
-	void myEvaluate() throws IOException {
-		System.out.println("\nEvaluating.");
-		int numTests = 0;
-		int numPos = 0;
-		int numNeg = 0;
-
-		FileReader fr = new FileReader("test.txt");
-		BufferedReader br = new BufferedReader(fr);
-		String line = "";
-
-		while ((line = br.readLine()) != null) {
-			String review = line;
-			++numTests;
-			Classification classification = mClassifier.classify(review);
-
-			if (classification.bestCategory().equals("pos")) {
-				System.out.println(line + " pos ");
-				++numPos;
-			} else {
-				System.out.println(line + " neg ");
-				++numNeg;
-			}
-		}
-		System.out.println(" =============================================== ");
-		System.out.println("  # Test Cases=" + numTests);
-		System.out.println("  # numPos=" + numPos);
-		System.out.println("  # numNeg=" + numNeg);
-	}
-
-	//evaluate by existed model
-	void myEvaluate2() throws IOException, Exception {
-		System.out.println("\nEvaluating.");
-		int numTests = 0;
-		int numPos = 0;
-		int numNeg = 0;
-
-		String modelFile = "tclassifier";
-		ScoredClassifier<CharSequence> compiledClassifier = null;
-		ObjectInputStream oi = new ObjectInputStream(new FileInputStream(modelFile));
-		compiledClassifier = (ScoredClassifier<CharSequence>) oi.readObject();
-		oi.close();
-
-		FileReader fr = new FileReader("test.txt");
-		BufferedReader br = new BufferedReader(fr);
-		String line = "";
-
-		while ((line = br.readLine()) != null) {
-			String review = line;
-			++numTests;
-			Classification classification = compiledClassifier.classify(review);
-
-			if (classification.bestCategory().equals("pos")) {
-				System.out.println(line + " pos ");
-				++numPos;
-			} else {
-				System.out.println(line + " neg ");
-				++numNeg;
-			}
-		}
-		System.out.println(" =============================================== ");
-		System.out.println("  # Test Cases=" + numTests);
-		System.out.println("  # numPos=" + numPos);
-		System.out.println("  # numNeg=" + numNeg);
-	}
-
 	public static void main(String[] args) {
 		try {
 			String[] test = { "E:/poly" };
@@ -177,5 +113,4 @@ public class PolarityBasic {
 			t.printStackTrace(System.out);
 		}
 	}
-
 }

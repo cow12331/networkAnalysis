@@ -1,6 +1,10 @@
 import java.net.*;
 import java.io.*;
-
+/**
+ * 
+ * get stock price by Yahoo API
+ *
+ */
 public class StockCompare4{
 	static double total=0;
 	static double correct=0;
